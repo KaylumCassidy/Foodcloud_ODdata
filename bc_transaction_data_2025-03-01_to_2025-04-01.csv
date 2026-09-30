@@ -1,0 +1,2120 @@
+transaction_date,branch_id,item_id,category_id,gross_weight,transaction_weight,item_quantity,transaction_type,displayName,weightunit
+2025-03-06,253,620,620,300.0,2.4,1.0,Food In,Ambient - Snaktastic - Butter Flavour Microwave Popcorn - 3x100g,g
+2025-03-12,378,619,619,275.0,9.9,6.0,Food In,Chilled - Jus-Rol - Pains Au Chocolat Kit - 275g,g
+2025-03-13,39,530,530,450.0,27.0,10.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-13,39,530,530,450.0,2.7,1.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-14,326,94,94,250.0,3.0,1.0,Food In,Chilled-Sori-Mozzarella-250 G,g
+2025-03-14,326,231,231,1.55,4.65,3.0,Food In,Chilled-Wright-Tuna Loin-1.55 KG,Kg
+2025-03-20,39,538,538,400.0,6.4,4.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-20,39,530,530,1.0,12.0,12.0,Food In,Chilled-Dunnes-Lasagne-1 KG,Kg
+2025-03-20,39,538,538,370.0,1.48,1.0,Food In,chilled-happy pear-veggie cannelloni-370 g,g
+2025-03-20,39,350,350,1.0,4.0,4.0,Food In,Chilled-Dunnes-Creamy Chicken Pie-1 KG,Kg
+2025-03-20,39,538,538,400.0,25.6,16.0,Food In,Chilled-Happy Pear-Veggie Lasagne-400g,g
+2025-03-27,39,345,345,450.0,1.35,1.0,Food In,Chilled-Supervalu-Classic Cottage Pie-450 G,g
+2025-03-27,39,530,530,450.0,15.75,1.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-27,39,539,539,500.0,1.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-27,39,345,345,450.0,1.35,1.0,Food In,Chilled-Supervalu-Classic Cottage Pie-450 G,g
+2025-03-27,39,530,530,450.0,15.75,1.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-27,39,539,539,500.0,1.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-03,34,288,288,270.0,236.52,73.0,Food In,Ambient - Mama Bear - Tomato Ketchup - 270g,g
+2025-03-03,6840,777,777,10.0,350.0,35.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-06,488,318,318,49.0,5.537,113.0,Food In,Ambient-Nespresso Caps-Assorted Flavours-49g,g
+2025-03-06,253,42,42,375.0,1.875,1.0,Food In,Ambient - Crownfield - Multigrain Hoops - 375g,g
+2025-03-06,253,43,43,500.0,1.0,1.0,Food In,Ambient - Crownfield - Choco Rice - 500g,g
+2025-03-06,253,48,48,500.0,5.0,1.0,Food In,Ambient - CrownField - Strawberry Crisp Cluster - 500g,g
+2025-03-06,253,57,57,300.0,0.9,1.0,Food In,Ambient - Tower Gate - Rich Tea Biscuit - 300g,g
+2025-03-06,253,58,58,500.0,9.0,2.0,Food In,Ambient - Favorina - Biscuits Selection 14 Luxurious Varieties -500g,g
+2025-03-06,253,60,60,100.0,0.7,1.0,Food In,Ambient - Fin Carre - Milk Chocolate Bar with Caramel Pieces  - 100g	,g
+2025-03-12,378,14,14,500.0,54.0,6.0,Food In,Chilled - Tesco - Irish Carrotts - 500g,g
+2025-03-12,378,566,566,250.0,3.5,1.0,Food In,Chilled - Hearty Food Co. - Spinach & Ricotta Tortelloni - 250g,g
+2025-03-12,378,797,797,1.0,144.0,9.0,Food In,Ambient - Tesco - Irish Seasonal Potatoes - 1kg,Kg
+2025-03-12,378,756,756,220.0,57.2,20.0,Food In,Chilled - Tesco - Irish Carly Kale - 220g,g
+2025-03-12,378,771,771,400.0,2.4,1.0,Food In,CHILLED-MASH DIRECT-MASHED TURNIP-400 G,g
+2025-03-12,378,117,117,150.0,1.2,1.0,Food In,CHILLED-TESCO FINEST-BLACKBERRY&APPLE YOGHURT-JAR 150g,g
+2025-03-12,378,792,792,1.0,135.0,9.0,Food In,Ambient-Tesco-Irish Whole Brown Onion Net-1Kg,Kg
+2025-03-13,39,744,744,375.0,4.5,2.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-13,39,535,535,450.0,10.8,4.0,Food In,chilled-supervalu-cottage pie-450 g,g
+2025-03-13,39,745,745,500.0,3.0,1.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-13,39,502,502,400.0,4.8,2.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,39,502,502,400.0,74.4,31.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,39,502,502,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-14,326,216,216,2.1,2.1,1.0,Food In,chilled-wrights-cod fillets-2.1 kg,Kg
+2025-03-14,326,341,341,5.0,20.0,4.0,Food In,Chilled-Popeyes-Spicy Chicken Brest Strips-5 KG,Kg
+2025-03-14,326,341,341,5.0,5.0,1.0,Food In,Chilled-Smithfield-Chicken Fillets-5 KG,Kg
+2025-03-18,4274,200,200,150.0,82.8,23.0,Food In,Ambient-Fever Tree-Tonic Water-150g,g
+2025-03-19,309,116,116,1.0,120.0,120.0,Food In,Chilled - Cenrta - Protein milk 1l,Kg
+2025-03-19,309,116,116,1.0,200.0,200.0,Food In,Chilled - Lullaby - Milk - 1 Litre,Kg
+2025-03-19,309,116,116,1.0,60.0,60.0,Food In,Chilled - Supervalu - Irish Low Fat Milk - 1L,Kg
+2025-03-19,545,252,252,700.0,4.2,1.0,Food In,Chilled-Kennedys-Apples Golden Delicious-700 G,g
+2025-03-20,8149,616,616,20.0,6.08,19.0,Food In,"Ambient-Snackrite-Crunch Delight Cheese & Onion Crips (6,20)-120g",g
+2025-03-20,39,523,523,1.0,18.0,18.0,Food In,Chilled-Dunnes-Chicken Pasta Bake-1 KG,Kg
+2025-03-20,39,504,504,400.0,8.0,5.0,Food In,CHILLED-HAPPY PEAR-TASTY THAI NOODLES-400 G,g
+2025-03-27,39,521,521,400.0,0.8,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-27,39,761,761,500.0,2.0,1.0,Food In,Chilled-Supervalu-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-27,39,503,503,450.0,5.4,2.0,Food In,Chilled-Supervalu-Chilli Beef + Basmati Rice-450 G,g
+2025-03-27,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-27,39,536,536,400.0,3.6,1.0,Food In,Chilled-Fueld Foods-Chicken Curry + Brown Rice-400 G,g
+2025-03-27,39,497,497,400.0,2.4,1.0,Food In,Chilled-clean cut-beef stroganoff with rice-400g,g
+2025-03-27,39,10,10,400.0,3.6,1.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-27,39,745,745,500.0,2.5,1.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-27,39,521,521,450.0,0.45,1.0,Food In,Chilled-Supervalu-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-27,39,503,503,400.0,5.2,1.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-27,39,761,761,500.0,2.0,1.0,Food In,Chilled-Supervalu-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-27,39,503,503,450.0,5.4,2.0,Food In,Chilled-Supervalu-Chilli Beef + Basmati Rice-450 G,g
+2025-03-27,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-27,39,522,522,450.0,0.45,1.0,Food In,Chilled-Supervalu-Chicken Tikka Masala + Basmati Rice-450 G,g
+2025-03-27,39,536,536,400.0,3.6,1.0,Food In,Chilled-Fueld Foods-Chicken Curry + Brown Rice-400 G,g
+2025-03-27,39,497,497,400.0,2.8,1.0,Food In,Chilled-clean cut-beef stroganoff with rice-400g,g
+2025-03-27,39,10,10,400.0,3.6,1.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-27,39,745,745,500.0,2.0,1.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-27,39,521,521,450.0,0.45,1.0,Food In,Chilled-Supervalu-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-27,39,503,503,400.0,5.2,1.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-28,1619,797,797,20.0,1060.0,53.0,Food In,Ambient - Iverks - Potato - 20kg,Kg
+2025-03-05,112,376,376,2.0,540.0,270.0,Food In,Frozen-Pizza Hut-Sliced Pepperoni-2kg,Kg
+2025-03-18,4274,179,179,1.0,588.0,49.0,Food In,Ambient-Robinsons-Orange & Pineapple drink Double Strength-1ltr,Kg
+2025-03-19,39,538,538,370.0,1.48,1.0,Food In,chilled-happy pear-veggie cannelloni-370 g,g
+2025-03-27,7991,361,361,120.0,7.68,4.0,Food In,Chilled-Dulano-Italian Antipasto Sliced Pork Selection-120 G,g
+2025-03-27,39,530,530,400.0,3.6,1.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-27,39,530,530,400.0,3.6,1.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-03,34,300,300,185.0,4.44,2.0,Food In,Ambient - BALLYMALOE FOODS - Red Onion Relish - 185g,g
+2025-03-03,62,481,481,370.0,495.06,223.0,Food In,Ambient - Bonne Maman - Rhubarb & Strawberry Conserve - 370g,g
+2025-03-03,6974,532,532,808.0,29.088,36.0,Food In,Chilled-Rustlers-Mini Beef Burger (101gx8)-808 G,g
+2025-03-03,6840,804,804,10.0,550.0,55.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-03-05,378,497,497,400.0,52.8,22.0,Food In,Chilled - Pure Power - Spaghetti Bolognese - 400g,g
+2025-03-05,8022,183,183,750.0,517.5,115.0,Food In,"Chilled - Innocent Drinks - Energise Super Smoothie- Strawberry, Cherry, Apple, Guarana - 750ml",g
+2025-03-06,391,112,112,250.0,585.0,195.0,Food In,Chilled-Elmlea-Brandy Flavour Plant Based Cream (no alcohol)-250 ml,g
+2025-03-06,488,318,318,125.0,25.375,203.0,Food In,Ambient-Nespresso-Vertou Caps Assorted Flavours (HDI)-125g,g
+2025-03-06,253,19,19,320.0,3.52,1.0,Food In,Ambient - Rowan Hill Bakery - 8 Chocolate Chip Brioche Rolls - 320g,g
+2025-03-10,545,803,803,300.0,3.0,1.0,Food In,Chilled-Kennedys-Tomatoes-300 G,g
+2025-03-11,569,797,797,5.0,500.0,100.0,Food In,Ambient - Valleyview Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-12,378,252,252,600.0,126.0,7.0,Food In,Chilled - Fresh Fruit - 6 Red Apples - 600g,g
+2025-03-13,39,521,521,400.0,7.2,3.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-14,326,341,341,5.0,80.0,16.0,Food In,Chilled-Popeyes-Mild Chicken Brest Fillet-5 KG,Kg
+2025-03-14,6974,532,532,808.0,103.424,128.0,Food In,Chilled-Rustlers-Mini Beef Burger (101gx8)-808 G,g
+2025-03-18,4274,74,74,250.0,128.0,64.0,Food In,Ambient-Sarsons-Tangy Malt Dip & Drizzle-250g,g
+2025-03-18,4274,618,618,140.0,151.2,60.0,Food In,Ambient-Mitsuba-Streetfood Snack Mix-Beef Noodle Style-140g,g
+2025-03-19,312,188,188,330.0,435.6,55.0,Food In,Chilled-Centra-Smooth Orange Juice-330 ML,g
+2025-03-19,8082,616,616,600.0,168.0,20.0,Food In,Ambient-snaktastic-assorted-30-pack-600g,g
+2025-03-19,309,116,116,1.0,200.0,200.0,Food In,Chilled-SuperValu - Protein -Milk 1L,Kg
+2025-03-19,2385,495,495,290.0,55.68,16.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-03-19,545,743,743,2.5,2.5,1.0,Food In,Chilled-Doyles-VP-Butternut Squash Diced-2.5 KG,Kg
+2025-03-20,8149,616,616,120.0,23.52,14.0,Food In,Ambient- Tayto- Rancheros- Bacon Flavour- (6x20g)- 120g,g
+2025-03-20,39,516,516,400.0,20.8,13.0,Food In,Chilled-Supervalu-Ham & Mushroom Tagliatelle-400 g,g
+2025-03-21,296,40,40,31.0,209.25,225.0,Food In,Ambient-Kelloggs-Squares & Cornflakes-,g
+2025-03-21,392,57,57,115.0,78.775,137.0,Food In,Ambient-Schar-Wilkd Biscuits-115g,g
+2025-03-21,392,58,58,250.0,54.0,12.0,Food In,Ambient-Jacobs-Mikado-250g,g
+2025-03-27,6974,500,500,146.0,28.032,24.0,Food In,Chilled-Rustlers-Classic Hod Dog-Heat&Enjoy-146g,g
+2025-03-28,1619,778,778,20.0,200.0,10.0,Food In,Ambient - Iverks - Carrots - 20kg,Kg
+2025-04-01,253,616,616,175.0,437.5,100.0,Food In,Ambient - Snaktastic - Sour cream & Onion  Potato Snacks - 175g,g
+2025-04-01,101,797,797,8.0,64.0,8.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-03,39,530,530,400.0,12.0,5.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-03,39,530,530,450.0,7.2,2.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-03,39,530,530,530.0,9.54,3.0,Food In,Chilled-Centra-Italian Meatballs-530 G,g
+2025-03-05,119,358,358,90.0,10.8,12.0,Food In,Chilled-Divilly-Premium Irish Crumbed Ham-90g,g
+2025-03-05,119,358,358,500.0,30.0,12.0,Food In,Chilled-Divilly-Traditional Cooked Sliced Ham-500g,g
+2025-03-10,6741,18,18,160.0,4.8,3.0,Food In,Ambient Brennans-begood-wholemeal-baps-160g,g
+2025-03-10,6741,18,18,400.0,2.8,1.0,Food In,Ambient - Brennans - Bake House Sourdough - 400g,g
+2025-03-10,545,423,423,4.54,4.54,1.0,Food In,Chilled-Loughnanes-Pork Sausages Jumbo-4.54 KG,Kg
+2025-03-10,545,538,538,400.0,1.6,1.0,Food In,Chilled-Carrols-Tagliatelle Bolognese-400 G,g
+2025-03-12,39,530,530,450.0,0.45,1.0,Food In,chilled-supervalu-beef lasagne-450 g,g
+2025-03-13,39,530,530,450.0,5.4,2.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-13,39,530,530,1.2,16.8,14.0,Food In,chilled-supervalu-beef lasagne-1.2 kg,Kg
+2025-03-18,378,18,18,800.0,3.2,1.0,Food In,Ambient - Tesco - Sliced White Bread - 800g,g
+2025-03-18,378,309,309,120.0,2.88,1.0,Food In,Ambient - The Sauceman - Tartar Sauce 2x60g Twin Pack - 120g,g
+2025-03-24,288,92,92,56.5,166.11,245.0,Food In,Chilled-Dairylea-Cheese & Crackers + Mini Oreo-56.5 G,g
+2025-04-01,545,91,91,200.0,0.2,1.0,Food In,Chilled-Kilmeaden-Red Cheddar Sliced-200 G,g
+2025-04-01,8150,41,41,375.0,6.75,2.0,Food In,Ambient - Nestle - Golden Nuggets - 375g,g
+2025-03-03,39,521,521,2.5,2.5,1.0,Food In,CHILLED-FTG-CHICKEN CURRY-2.5 KG,Kg
+2025-03-03,39,521,521,450.0,1.8,1.0,Food In,Chilled-Centra-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-03,39,562,562,2.0,2.0,1.0,Food In,chilled-ftg-basmati rice-2 kg,Kg
+2025-03-03,39,10,10,400.0,1.2,1.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-03,39,523,523,2.5,10.0,4.0,Food In,chilled-ftg-chicken & tomato pasta bake-2.5 kg,Kg
+2025-03-03,39,521,521,450.0,0.9,1.0,Food In,Chilled-Supervalu-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-03,39,521,521,1.2,1.2,1.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-03,39,521,521,1.2,27.6,23.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-03,545,747,747,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-03,545,256,256,125.0,0.75,1.0,Food In,Chilled - Keelings - Blueberries - 125g,g
+2025-03-03,545,117,117,150.0,0.15,1.0,Food In,Chilled-Glenisk-Blueberry Yoghurt-150 G,g
+2025-03-03,545,570,570,450.0,2.25,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-03,545,572,572,500.0,2.0,2.0,Food In,chilled-mc cormack-baby- spinach- leaves-500g,g
+2025-03-03,545,744,744,1.0,2.0,2.0,Food In,Chilled-Doyles VP-Cabbage Dutch Shredded-1 KG,Kg
+2025-03-03,208,794,794,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-03,208,778,778,20.0,1000.0,50.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-03,208,794,794,20.0,340.0,17.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-10,6741,20,20,800.0,12.8,4.0,Food In,Ambient-Brennans-Bloomer brown sliced bread-800g,g
+2025-03-10,6741,16,16,425.0,17.0,5.0,Food In,Ambient-Brennans- fresh plain bagel-425g,g
+2025-03-10,545,675,675,5.0,10.0,2.0,Food In,Chilled-Newgrange-Spiced Pumpkin Chicken & Coconut Soup-5 Kg,Kg
+2025-03-10,545,36,36,580.0,4.06,1.0,Food In,Chilled-Santa Maria-Flour Tortillas-580 G,g
+2025-03-10,545,245,245,5.0,5.0,1.0,Food In,Chilled-Freshcut-Watermelon Chunks-5 KG,Kg
+2025-03-10,545,31,31,500.0,0.5,1.0,Food In,Chilled-Galmere-Stuffing Bag-500 G,g
+2025-03-10,545,603,603,500.0,3.5,1.0,Food In,chilled-happy pear-sweet beet hummus-500 g,g
+2025-03-10,545,573,573,250.0,13.5,9.0,Food In,chilled-seasonal fare-washed rocket-250 g,g
+2025-03-10,545,266,266,600.0,13.2,11.0,Food In,Chilled-Kennedys-Pears-600 G,g
+2025-03-10,545,117,117,135.0,1.62,1.0,Food In,CHILLED - KILLOWEN - RASPBERRY YOGURT - 135G,g
+2025-03-10,545,495,495,1.0,6.0,6.0,Food In,"Chilled-Pizzasi-Pizza Bases 12""-1 KG",Kg
+2025-03-12,39,761,761,500.0,9.0,3.0,Food In,Chilled-Centra-Potato Gratin-500 G,g
+2025-03-12,39,761,761,500.0,25.5,1.0,Food In,Chilled-Centra-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-12,39,499,499,550.0,1.1,1.0,Food In,Chilled-Supervalu-salmon Dinner-550 G,g
+2025-03-12,39,499,499,550.0,9.35,1.0,Food In,Chilled-Centra-Salmon Dinner-550 G,g
+2025-03-12,39,525,525,600.0,0.6,1.0,Food In,Chilled-Centra-Chicken & Stuffing Dinner-600 G,g
+2025-03-12,39,503,503,550.0,3.3,1.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-13,39,523,523,1.0,1.0,1.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-13,39,521,521,1.0,1.0,1.0,Food In,Chilled-Supervalu-Chicken Curry-1.2 KG,Kg
+2025-03-13,39,521,521,1.0,1.0,1.0,Food In,Chilled-Supervalu-Chicken Curry-1.2 KG,Kg
+2025-03-13,39,503,503,600.0,3.6,1.0,Food In,Chilled-Good Food-Beef Dinner-600 G,g
+2025-03-13,39,497,497,400.0,0.8,1.0,Food In,Chilled-The happy Pear-sticky soy noodles-400g,g
+2025-03-13,39,521,521,1.2,28.799999999999997,24.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-18,266,599,599,200.0,456.0,95.0,Food In,Ambient-Manhattan-Dry Roasted Peanuts-200g,g
+2025-03-18,378,149,149,860.0,3.44,2.0,Food In,Ambient - Tesco - Marvel Spider-Man Cake nut free - 860g,g
+2025-03-18,378,14,14,325.0,48.75,5.0,Food In,Chilled - Tesco - Baby Plum Tomatoes - 325g,g
+2025-03-19,7130,123,123,1.0,888.0,74.0,Food In,CHilled - Coolree - Fresh Full Fat Milk - 1ltr ,Kg
+2025-03-21,378,189,189,850.0,20.4,4.0,Food In,Chilled-Tropicana-Pressed Pineapple Juice-850ml,g
+2025-03-21,378,110,110,454.0,22.7,10.0,Food In,chilled-kerrygold-butter-454 g,g
+2025-03-21,378,117,117,816.0,221.952,68.0,Food In,Chilled - Muller - Corner  Red Fruits Yogurt - 6x136g,g
+2025-03-21,378,136,136,460.0,55.2,20.0,Food In,Chilled-Danone Activia-Cereals Yoghurt (115gx4)-460 G,g
+2025-03-26,8152,618,618,120.0,21.6,30.0,Food In,Ambient-Good4U-Raspberry Brownie Protein Balls(3x60g)-120g,g
+2025-04-01,545,676,676,5.0,45.0,9.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-04-01,545,495,495,250.0,3.5,1.0,Food In,Chilled-Molino-Pizza Base-250 G,g
+2025-04-01,545,116,116,1.0,48.0,48.0,Food In,chilled-glenisk-goats milk-1 L,Kg
+2025-04-01,8150,43,43,500.0,7.0,1.0,Food In,Ambient-Dunnes stores-choco rice-500g,g
+2025-04-01,8150,43,43,500.0,4.5,1.0,Food In,Ambient-Dunnes stores-choco rice-500g,g
+2025-03-07,391,85,85,500.0,564.0,47.0,Food In,CHILLED-STORK-FLUFFY CAKES - MARGARINE-500g,g
+2025-03-10,545,90,90,2.0,20.0,10.0,Food In,Chilled-Bandon Vale-White Shredded Cheese-2 KG,Kg
+2025-03-13,39,538,538,400.0,0.8,1.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-19,7252,412,412,454.0,49.032,108.0,Food In,Chilled- ABP Meats-Beef Mince-454g,g
+2025-03-24,55,214,214,500.0,1074.0,179.0,Food In,Frozen - Tesco - Breaded Chunky Irish haddock Fillets - 500g,g
+2025-03-24,288,97,97,1.4,434.0,310.0,Food In,Chilled-Philadelphia-Light Cheese (35gx4)x10-1.4 KG,Kg
+2025-03-26,8152,620,620,100.0,2.4,4.0,Food In,Ambient-Good4U-Banana Nutri Balls-Squished Fruit&Seed- 5x20g,g
+2025-03-27,288,97,97,1.4,210.0,150.0,Food In,Chilled-Philadelphia-Light Cheese (35gx4)x10-1.4 KG,Kg
+2025-03-28,193,214,214,500.0,1080.0,180.0,Food In,Frozen - Tesco - Breaded Chunky Irish haddock Fillets - 500g,g
+2025-03-03,39,503,503,2.5,2.5,1.0,Food In,chilled-ftg-beef stroganoff-2.5 kg,Kg
+2025-03-03,545,675,675,280.0,0.28,1.0,Food In,Chilled-Cully & Sully-Chicken & Vegetable Soup-280 G,g
+2025-03-03,208,778,778,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-05,119,374,374,150.0,18.0,12.0,Food In,Chilled-Divilly-Irish Wafer Thin Ham-150g,g
+2025-03-05,6974,383,383,500.0,12.5,5.0,Food In,Chilled - Kepak - Pork Belly Strips Salt & Chilli - 500g,g
+2025-03-05,313,114,114,50.0,16.5,11.0,Food In,Ambient - O'Brien's - Free Range Eggs - 50g,g
+2025-03-10,6741,22,22,480.0,11.52,2.0,Food In,Ambient-brennans-mega burger buns-480g,g
+2025-03-10,392,70,70,3.0,1632.0,544.0,Food In,Ambient-Barrat-Cola Bottles-3kg,Kg
+2025-03-12,39,502,502,600.0,14.4,4.0,Food In,Chilled-Centra-Turkey & Ham Dinner-600 G,g
+2025-03-14,353,138,138,500.0,275.0,55.0,Food In,Chilled-Dunnes-Mango Yogurt Drink-500 ML,g
+2025-03-18,269,60,60,358.0,4545.168,1058.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-18,266,599,599,200.0,336.0,70.0,Food In,Ambient-Manhattan-Dry Roasted Peanuts-200g,g
+2025-03-18,296,445,445,1.0,720.0,60.0,Food In,Ambient-supervalu-olive oil-1kg,Kg
+2025-03-18,378,149,149,1.0,2.0,1.0,Food In,Ambient - Tesco - Pip The Pup Party Cake - 1kg,Kg
+2025-03-18,4274,60,60,35.0,252.0,300.0,Food In,Ambient-Mr Beast-Deez Nuts Chocolate & Peanut Butter Bars-35g,g
+2025-03-19,8082,615,615,100.0,57.6,48.0,Food In,Ambient-snaktastic-prawn-crackers-100g,g
+2025-03-19,8022,183,183,330.0,501.6,190.0,Food In,Chilled - Innocent - Bolt From The Blue Smoothie - 330ml,g
+2025-03-19,7130,116,116,500.0,45.0,9.0,Food In,Chilled - Coolree - Fresh Milk - 500ml,g
+2025-03-20,1520,797,797,5.0,1000.0,200.0,Food In,Ambient - Pynes Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-20,2385,495,495,290.0,87.0,25.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-03-21,378,110,110,200.0,76.8,16.0,Food In,Chilled-Kerrygold-spreadable-200g,g
+2025-03-24,7108,680,680,400.0,400.0,125.0,Food In,Chilled-Soupreme-Fresh Vegetable Soup-400g,g
+2025-03-25,57,71,71,350.0,4.2,1.0,Food In,Ambient-Supervalu-Pasta Sauce Asstd Flavours-350g,g
+2025-03-25,101,797,797,8.0,1200.0,150.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-27,6974,500,500,146.0,28.032,24.0,Food In,Chilled-Rustlers-Classic Hod Dog-Heat&Enjoy-146g,g
+2025-04-01,545,370,370,5.0,5.0,1.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-04-01,6752,797,797,5.0,2000.0,400.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-04-01,8084,185,185,1500.0,234.0,26.0,Food In,Chilled - Tropicana - Apple Juice -1.5L,g
+2025-04-01,7983,647,647,0.5,400.0,40.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-04-01,8150,42,42,300.0,4.8,2.0,Food In,Ambient-Cheerios-Multigrain-300g,g
+2025-03-05,253,41,41,375.0,3.0,1.0,Food In,Ambient - Nestle - Golden Nuggets - 375g,g
+2025-03-05,253,178,178,330.0,2.31,1.0,Food In,Ambient - 7UP - Original - 330ml,g
+2025-03-05,253,465,465,500.0,4.5,1.0,Food In,Ambient - Sabor a Munde - Cassava Flour - 500g,g
+2025-03-05,253,620,620,220.0,2.42,1.0,Food In,Ambient - Baresa - Pimiento Stuffed Green Olives - 220g,g
+2025-03-05,253,41,41,750.0,2.25,1.0,Food In,Ambient-Kellogg's-Frosties-750g,g
+2025-03-06,39,204,204,1.0,21.0,21.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-06,39,530,530,1.0,18.0,18.0,Food In,Chilled-Inspired Cusine-Bolognese Pasta Bake-1 KG,Kg
+2025-03-06,39,350,350,1.0,21.0,21.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-24,6974,376,376,1.125,13.5,3.0,Food In,Chilled - Kepak - Beef & Pork Meatballs - 1.125kg,Kg
+2025-03-05,253,681,681,400.0,2.0,1.0,Food In,Ambient - Newgate  - Cream of TomatoSoup - 400g,g
+2025-03-05,253,600,600,100.0,1.3,1.0,Food In,Ambient - Alesto - Strawberry Pure Fruit Strings -5x20g,g
+2025-03-05,253,615,615,170.0,2.72,1.0,Food In,Ambient - Rivercote - Multigrain Crackers - 170g,g
+2025-03-05,253,334,334,76.0,0.304,1.0,Food In,Ambient-Knightsbridge-Green Tea Bags-76g,g
+2025-03-05,253,57,57,15.0,1.65,1.0,Food In,Ambient - Irish Cone & Wafer - 10 Cool Wafers - 15g,g
+2025-03-05,253,608,608,100.0,0.7,1.0,Food In,Ambient - Alesto - Mango Pure Fruit Strings -5x20g,g
+2025-03-05,253,482,482,450.0,1.35,1.0,Food In,Ambient - Maribel - Fine Cut Orange Marmolade  - 450g,g
+2025-03-05,253,566,566,4.0,4.0,1.0,Food In,Ambient - Baresa - Pasta Selection - 4kg,Kg
+2025-03-05,253,70,70,34.0,2.04,2.0,Food In,Ambient-Barratt-Refreshers-Fizzy Softies Sweets- 34g,g
+2025-03-05,253,318,318,550.0,33.0,2.0,Food In,AMBIENT-COSTA COFFEE-NESPRESSO-CAPSULES-10X55G PACK-550G,g
+2025-03-05,253,82,82,500.0,2.5,1.0,Food In,Ambient-Baresa-Pasta Sauce-herbs&spices-500g,g
+2025-03-05,253,43,43,500.0,3.0,1.0,Food In,Ambient - Crownfield - Choco Hoops - 500g,g
+2025-03-05,253,692,692,410.0,5.74,1.0,Food In,Ambient - Dairy Manor - Evaporated Milk - 410g,g
+2025-03-05,253,271,271,360.0,7.92,1.0,Food In,Ambient-BBQ Original-BBQ Sauce-350g,g
+2025-03-05,253,732,732,300.0,2.7,1.0,Food In,Ambient - Freshona - Sweetcorn Unsalted  Naturally Sweet - 300g,g
+2025-03-05,253,67,67,30.0,0.72,1.0,Food In,Ambient - Silvermints - Spearmint -30g,g
+2025-03-05,253,725,725,400.0,0.4,1.0,Food In,AMBIENT- HEINZ- HOOPS- 400G,g
+2025-03-06,39,503,503,2.5,10.0,4.0,Food In,chilled-ftg-beef stroganoff-2.5 kg,Kg
+2025-03-06,39,387,387,1.0,1.0,1.0,Food In,Chilled-Supervalu-Cottage Pie-1 KG,Kg
+2025-03-06,39,387,387,1.0,1.0,1.0,Food In,Chilled-Supervalu-Cottage Pie-1 KG,Kg
+2025-03-06,39,771,771,2.0,2.0,1.0,Food In,chilled-ftg-mashed turnip-2 kg,Kg
+2025-03-06,39,771,771,2.0,6.0,3.0,Food In,chilled-ftg-mashed turnip-2 kg,Kg
+2025-03-06,39,745,745,1.5,6.0,4.0,Food In,chilled-ftg-baton carrots-1.5 kg,Kg
+2025-03-06,39,744,744,1.5,6.0,4.0,Food In,CHILLED-FTG-GREEN CABBAGE-1.5 KG,Kg
+2025-03-06,39,744,744,1.5,3.0,2.0,Food In,CHILLED-FTG-GREEN CABBAGE-1.5 KG,Kg
+2025-03-06,39,563,563,1.5,4.5,3.0,Food In,chilled-ftg-pilau rice-1.5 kg,Kg
+2025-03-06,39,563,563,1.5,21.0,14.0,Food In,chilled-ftg-pilau rice-1.5 kg,Kg
+2025-03-06,39,761,761,2.5,2.5,1.0,Food In,chilled-ftg-mashed potato-2.5 kg,Kg
+2025-03-06,39,540,540,1.5,6.0,4.0,Food In,CHILLED-FTG-ROASTED ROOT VEGETABLES-1.5 KG,Kg
+2025-03-06,39,540,540,1.5,15.0,10.0,Food In,CHILLED-FTG-ROASTED ROOT VEGETABLES-1.5 KG,Kg
+2025-03-06,39,540,540,1.5,1.5,1.0,Food In,CHILLED-FTG-ROASTED ROOT VEGETABLES-1.5 KG,Kg
+2025-03-06,39,522,522,2.5,2.5,1.0,Food In,chilled-ftg chicken tikka masala-2.5 kg,Kg
+2025-03-06,39,761,761,1.8,10.8,6.0,Food In,chilled-ftg-irish rooster potato wedges-1.8 kg,Kg
+2025-03-06,39,516,516,2.5,12.5,5.0,Food In,CHILLED-FTG-BOLOGNESE + SMOKED PANCETTA-2.5 KG,Kg
+2025-03-06,39,516,516,2.5,10.0,4.0,Food In,CHILLED-FTG-BOLOGNESE + SMOKED PANCETTA-2.5 KG,Kg
+2025-03-06,39,502,502,600.0,1.2,1.0,Food In,Chilled-Centra-Turkey & Ham Dinner-600 G,g
+2025-03-06,39,502,502,1.0,23.0,23.0,Food In,Chilled-Inspired Cuisine-Chicken & Broccoli Bake-1 KG,Kg
+2025-03-06,39,523,523,1.0,19.0,19.0,Food In,Chilled-Inspired Cusine-Chicken & Tomato Pasta Bake-1 KG,Kg
+2025-03-10,392,70,70,67.0,254.064,237.0,Food In,Ambient- Juicy Drops - chewy sour sweets - 67g,g
+2025-03-10,392,70,70,67.0,240.128,224.0,Food In,Ambient- Juicy Drops - chewy sour sweets - 67g,g
+2025-03-10,392,70,70,67.0,343.04,320.0,Food In,Ambient- Juicy Drops - chewy sour sweets - 67g,g
+2025-03-10,392,57,57,300.0,14.4,4.0,Food In,Ambient-Jacobs-Jaffa Cakes-300g,g
+2025-03-19,7983,668,668,0.145,650.76,374.0,Food In,ESF - John West - Tuna - 145g,Kg
+2025-03-19,7983,641,641,0.232,668.1600000000001,240.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-19,7983,650,650,0.5,1008.0,84.0,Food In,ESF - Roma - Easy Cook Rice - 500g,Kg
+2025-03-19,7983,648,648,0.09,91.8,85.0,Food In,ESF - Pot Noodle - Chicken and Mushroom - 90g,Kg
+2025-03-19,7983,633,633,0.45,108.0,20.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-19,7983,651,651,0.528,6082.56,960.0,Food In,ESF - Knorr - Oxtail Instant Soup - 12 pack,Kg
+2025-03-19,7983,653,653,0.415,956.16,96.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-19,7983,644,644,0.43,701.76,136.0,Food In,ESF - Newforge - Marmalade - 430g,Kg
+2025-03-19,7983,635,635,0.43,120.4,20.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-19,7983,639,639,0.5,588.0,196.0,Food In,ESF - Ragu - Original Smooth Bolognese Sauce - 500g,Default
+2025-03-19,7983,651,651,0.049,105.84,180.0,Food In,ESF - Erin - Hot Cup Chicken - 4 pack ,Kg
+2025-03-19,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-19,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-20,296,61,61,40.0,4.8,10.0,Food In,Ambient - Nature Valley - Protein Peanut and Chocolate Bars (HDI)  - 40g,g
+2025-03-20,296,618,618,100.0,6.6,11.0,Food In,Ambient-Graze-Smoky BBQ-Crunch-100g,g
+2025-03-20,1374,738,738,3.0,60.0,20.0,Food In,Ambient-Hello Fresh-Tomatos loose- 3kg,Kg
+2025-03-20,1374,736,736,8.0,40.0,5.0,Food In,Ambient-Hello Fresh-Green Bean-1 crate,Kg
+2025-03-20,1374,793,793,3.0,48.0,16.0,Food In,AMBIENT-Hello Fresh-Red Chillies-3kg,Kg
+2025-03-20,1374,792,792,5.0,30.0,6.0,Food In,Ambient - Hello Fresh - Spring Onion Box - 5kg,Kg
+2025-03-20,1374,313,313,3.0,18.0,6.0,Food In,Ambient-Hello Fresh-Pak Choi-3kg,Kg
+2025-03-20,1374,787,787,3.0,18.0,6.0,Food In,Ambient-hello fresh- loose ginger- 3kg,Kg
+2025-03-20,1374,736,736,4.0,20.0,5.0,Food In,Ambient-Hello Fresh- Broccoli Loose-4kg,Kg
+2025-03-20,1374,794,794,5.0,25.0,5.0,Food In,Ambient-Hello Fresh-Parsnips - 5 kg,Kg
+2025-03-20,55,10,10,180.0,367.2,170.0,Food In,Frozen-Birds Eye - Green Cuisine- Southren Fried Vegan Grills-180g,g
+2025-03-24,6974,378,378,300.0,28.8,6.0,Food In,Chilled - Dunnes - Beef & Pork Bolognese meatballs - 300g,g
+2025-03-24,6974,383,383,500.0,3.0,1.0,Food In,Chilled - Tesco - Pork Ribs - 700g,g
+2025-03-24,6974,383,383,500.0,3.0,1.0,Food In,Chilled - Kepak - Pork Belly Strips - 500g,g
+2025-03-24,6974,375,375,300.0,2.1,1.0,Food In,Chilled - Super Valu - Lean Diced Lamb Leg - 300g,g
+2025-03-24,6974,383,383,400.0,1.6,1.0,Food In,Chilled - Supervalu - Hot 'N' Spicy Pork Belly Bites - 400g,g
+2025-03-24,6974,375,375,600.0,6.0,2.0,Food In,Chilled - Supervalu - Irish Lamb Loin Chops - 600g,g
+2025-03-24,6974,383,383,500.0,11.0,2.0,Food In,Chilled - Kepak - Pork Belly Strips with a Salt & Chilli Glaze - 500g,g
+2025-03-28,545,744,744,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Cabbage Red Shredded-2 KG,Kg
+2025-03-28,545,747,747,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-28,545,573,573,75.0,1.2,2.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-28,545,757,757,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Mix Veg Chunky-2.5 KG,Kg
+2025-03-28,545,572,572,2.0,4.0,2.0,Food In,Chilled-Willowbrook-Vegeterian Coleslaw-2 KG,Kg
+2025-03-28,545,262,262,2.0,12.0,6.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-28,545,31,31,500.0,1.0,1.0,Food In,Chilled-Galmere-Stuffing Bag-500 G,g
+2025-03-28,545,234,234,125.0,0.75,1.0,Food In,Chilled-Kennedys-Raspberries-125 G,g
+2025-03-28,545,571,571,75.0,1.2,2.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-28,545,737,737,2.5,5.0,2.0,Food In,Chilled - Musgraves - Leeks sliced - 2/5kg,Default
+2025-03-28,545,570,570,450.0,0.45,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-28,545,761,761,2.5,10.0,4.0,Food In,Chilled-Doyles VP-Potato Straw Grated-2.5 KG,Kg
+2025-03-31,20,145,145,283.0,27.168,8.0,Food In,Ambient-Reese's-Peanut Butter Chips-283g,g
+2025-03-03,62,620,620,28.0,196.98,335.0,Food In,Ambient-Cali Cali -Supercrisps Tijuana Hot Sauceali-28g,g
+2025-03-06,562,178,178,330.0,1085.04,137.0,Food In,Ambient-Fanta-Zero Sugar-330ml,g
+2025-03-06,39,345,345,1.0,6.0,6.0,Food In,Chilled-tasty cottage pie-1 kg,Default
+2025-03-10,6741,18,18,800.0,80.0,20.0,Food In,Ambient-Brennans-Family pan-800g,g
+2025-03-10,391,85,85,500.0,252.0,21.0,Food In,CHILLED-STORK-FLUFFY CAKES - MARGARINE-500g,g
+2025-03-10,8041,179,179,500.0,456.0,152.0,Food In,Ambient-M&S-lemon & lime cordail-500ml (glass bottle),g
+2025-03-19,288,92,92,60.0,75.6,105.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-20,55,211,211,250.0,698.0,349.0,Food In,Frozen - Birds Eye - 2 Gluten Free Fish Fillets in Breadcrumb - 250g,g
+2025-03-26,6785,358,358,150.0,12.0,8.0,Food In,Chilled-Noel-Fuet + Manchego Cheese Spanish Sausage-150 G,g
+2025-03-28,39,538,538,400.0,126.4,79.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-28,545,92,92,340.0,7.48,1.0,Food In,Chilled-Kerry-Easisingles Cheese Slices-340 G,g
+2025-03-31,326,41,41,5.0,0.48,2.0,Food In,Ambient-Weetabix-2 pack biscuits-5g,g
+2025-03-03,392,592,592,130.0,49.92,24.0,Food In,Ambient-kettle-sea salt and vinegar crisps-130g,g
+2025-03-05,253,334,334,250.0,1.25,1.0,Food In,Ambient - Fallons - Decaffeinated Blend Tea Bags 80's - 250g ,g
+2025-03-06,39,503,503,2.5,35.0,14.0,Food In,chilled-ftg-beef stroganoff-2.5 kg,Kg
+2025-03-06,391,86,86,250.0,104.0,52.0,Food In,Chilled-Flora-Lighter Spread-250 G,g
+2025-03-07,220,139,139,100.0,258.0,215.0,Food In,Ambient-la mole-Arancia-(orange almond pastries)-100g,g
+2025-03-10,392,57,57,300.0,3.0,10.0,Food In,Ambient - Bolands - Tea Cake Tins - 300g,g
+2025-03-12,8022,183,183,330.0,638.88,242.0,Food In,Chilled - Innocent - Bolt From The Blue Smoothie - 330ml,g
+2025-03-12,2385,497,497,450.0,712.8,88.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-03-18,392,57,57,300.0,417.6,58.0,Food In,Ambient-Jacobs-Milk Chocolate Digestives-300g,g
+2025-03-18,168,255,255,17.0,748.0,44.0,Food In,Ambient-Fyffes -Bananas - 17Kg,Kg
+2025-03-18,4274,761,761,400.0,73.6,23.0,Food In,Ambient -Tesco Finest-Porcini & Truffle Filled Gnocchi-400g,g
+2025-03-19,7983,634,634,0.057,86.184,63.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-03-19,4274,442,442,1.0,105.0,7.0,Food In,AMBIENT-Homestead- pure vegetable -cooking oil-1 litre,Kg
+2025-03-20,8150,62,62,348.0,66.816,48.0,Food In,Ambient - Nestle - Black Magic - 348g,g
+2025-03-20,296,40,40,84.0,99.792,33.0,Food In,Ambient-Nature Valley-Crunchy Cereal Bar-Oats&Honey-2x42g,g
+2025-03-20,1374,791,791,2.0,16.0,8.0,Food In,Ambient-Hello fresh-Exsotic Mushrooms-2kg,Kg
+2025-03-24,6974,383,383,500.0,2.0,1.0,Food In,Chilled - Woodside Farms - Pork Belly Slices - 500g,g
+2025-03-25,2385,495,495,290.0,233.16,134.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-03-26,326,592,592,47.5,1.52,1.0,Food In,Ambient-O'Donnells-Mature Cheese & Red Onion Crisps-47.5 G,g
+2025-03-31,20,189,189,1.0,180.0,30.0,Food In,Ambient-Luxlait-Eggnog-1ltr,Kg
+2025-04-01,101,797,797,8.0,1304.0,163.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-10,410,41,41,375.0,3.0,2.0,Food In,Ambient - Peppa pig - Honey Rings Cereal - 375g,g
+2025-03-24,312,423,423,350.0,22.4,8.0,Food In,Chilled-Truly Irish-Pork Sausages-350 g,g
+2025-03-26,326,295,295,1.5,3.0,2.0,Food In,Chilled-Festins De Bourgogne-Veal Stock-1.5 KG,Kg
+2025-03-28,34,292,292,35.0,2.1,1.0,Food In,Ambient - Ballymaloe - Mint Sauce - 35g,g
+2025-04-01,293,232,232,5.0,75.0,15.0,Food In,Ambient-Fyffes-Bananas-5kg,Kg
+2025-03-03,7108,677,677,400.0,182.4,57.0,Food In,Chilled-Avonmore-Sweet Potato Carrot & Turmeric Soup-400 G,g
+2025-03-06,57,271,271,525.0,705.6,84.0,Food In,Ambient-Bramwells-Sweet BBQ Sauce-Chicago Style-525g,g
+2025-03-06,57,271,271,525.0,319.2,38.0,Food In,Ambient-Bramwells-Sweet BBQ Sauce-Chicago Style-525g,g
+2025-03-06,57,271,271,525.0,520.8,62.0,Food In,Ambient-Bramwells-Sweet BBQ Sauce-Chicago Style-525g,g
+2025-03-06,57,271,271,525.0,705.6,84.0,Food In,Ambient-Bramwells-Sweet BBQ Sauce-Chicago Style-525g,g
+2025-03-10,410,43,43,350.0,2.8,2.0,Food In,Ambient-Harvest Morn -Multigrain Dino Shapes-Cereals-350g,g
+2025-03-10,410,43,43,375.0,1.5,1.0,Food In,Ambient - Harvest Morn - Choco Hoops - 375g,g
+2025-03-10,410,43,43,360.0,3.6,2.0,Food In,Ambient - Weetabix - Chocolate Melts Cereal - 360g,g
+2025-03-11,208,794,794,20.0,120.0,6.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-11,208,794,794,12.0,24.0,2.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 12kg,Kg
+2025-03-11,208,778,778,20.0,300.0,15.0,Food In,Ambient - Hughes Farming - GPP Whole Carrot Net - 20Kg,Kg
+2025-03-13,392,599,599,140.0,84.0,25.0,Food In,Ambient - Forest Feast - Roasted Peanuts - 140g,g
+2025-03-13,392,599,599,140.0,161.28,48.0,Food In,Ambient - Forest Feast - Roasted Peanuts - 140g,g
+2025-03-13,392,247,247,227.0,224.73,33.0,Food In,Ambient - Forest Feast - Dates - 227g,g
+2025-03-13,392,247,247,227.0,163.44,24.0,Food In,Ambient - Forest Feast - Dates - 227g,g
+2025-03-13,392,247,247,227.0,544.8,80.0,Food In,Ambient - Forest Feast - Dates - 227g,g
+2025-03-13,392,70,70,3.0,72.0,6.0,Food In,Ambient - Barratt - Jelly Beans - 3kg,Kg
+2025-03-20,545,760,760,2.0,4.0,2.0,Food In,Chilled-DVP-Red Onion Peeled-2KG,Kg
+2025-03-20,545,572,572,1.0,2.0,2.0,Food In,CHILLED-WONDERFOODS-BROCCOLI-CARROT & CRANBERRY SALAD-1 KG,Kg
+2025-03-20,545,759,759,500.0,2.5,1.0,Food In,Chilled-Kerrigans-Sliced-White-Mushrooms-500g,g
+2025-03-20,545,571,571,75.0,0.3,1.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-20,545,241,241,140.0,0.84,1.0,Food In,Chilled-Fresh Cut-Mixed Berry Coulis-140 g,g
+2025-03-20,545,572,572,1.0,2.0,2.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-20,545,574,574,1.0,2.0,2.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-20,545,752,752,1.0,1.0,1.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-03-20,545,675,675,2.0,12.0,6.0,Food In,CHILLED-NEWGRANGE-CHICKEN & VEGETABLE SOUP-2 KG,Kg
+2025-03-25,208,778,778,1.0,84.0,84.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-25,208,794,794,1.0,120.0,6.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-25,208,794,794,500.0,24.0,48.0,Food In,Ambient - Hughes - GPP - Whole Parsnips Bag - 500g,g
+2025-03-26,326,129,129,500.0,5.0,1.0,Food In,Chilledd-Wholessome-Low Fat Milk-500 ML,g
+2025-03-26,326,752,752,5.0,105.0,21.0,Food In,Chilled-Popeyes-Pickled Cucumber-5 KG,Kg
+2025-03-26,7983,633,633,0.45,108.0,20.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-26,7983,651,651,0.528,4942.08,780.0,Food In,ESF - Knorr - Oxtail Instant Soup - 12 pack,Kg
+2025-03-26,7983,662,662,1.0,2400.0,160.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-03-26,7983,653,653,0.415,896.4,90.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-26,7983,658,658,0.326,1290.96,330.0,Food In,ESF - Lustre - Corn - 326g,Kg
+2025-03-26,7983,644,644,0.43,701.76,136.0,Food In,ESF - Newforge - Marmalade - 430g,Kg
+2025-03-26,7983,635,635,0.43,144.48,24.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-26,7983,667,667,0.213,1431.36,560.0,Food In,ESF - John West - Pink Salmon - 213g,Kg
+2025-03-26,7983,651,651,0.049,105.84,180.0,Food In,ESF - Erin - Hot Cup Chicken - 4 pack ,Kg
+2025-03-26,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-28,8150,318,318,90.0,4.86,9.0,Food In,Ambient - Nescafe - Azera - Decaffe Americano - 90g,g
+2025-03-28,8150,326,326,288.0,10.368,6.0,Food In,Ambient-Nestle-Aero-Hot- Choc-Drink-288g,g
+2025-03-28,34,74,74,360.0,86.4,24.0,Food In,Ambient - Ballymaloe - Mediterranean Pasta Sauce - 360g,g
+2025-03-31,7983,657,657,0.42,997.92,99.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-03-31,7983,665,665,0.4,816.0,170.0,Food In,ESF - Sunny South - Original Creamed Rice - 400g,Kg
+2025-03-31,7983,647,647,0.5,390.0,39.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-04-01,312,137,137,190.0,111.72,98.0,Food In,Chilled-Kri Kri-Yogurt High Protein Caramel & Pear-190 G,g
+2025-04-01,8150,53,53,400.0,19.2,6.0,Food In,AMBIENT-NESTLE-SHREDDED WHEAT BISCUITS 100% WHOLEGRAIN- 400g,g
+2025-04-01,8150,53,53,400.0,2.0,1.0,Food In,AMBIENT-NESTLE-SHREDDED WHEAT BISCUITS 100% WHOLEGRAIN- 400g,g
+2025-04-01,8150,52,52,600.0,50.4,6.0,Food In,Ambient-Dunnes-Crisp Rice-600g,g
+2025-03-03,288,95,95,129.0,455.112,588.0,Food In,Chilled-Dairylea-Dunkers Nachos & Cheese (43gx3)-129 G,g
+2025-03-19,288,92,92,57.5,40.02,58.0,Food In,Chilled-Dairylea-Cheese & Crackers + Cadbury Buttons-57.5 G,g
+2025-03-19,39,538,538,400.0,17.6,11.0,Food In,Chilled-Happy Pear-Veggie Lasagne-400g,g
+2025-03-24,312,423,423,350.0,19.6,7.0,Food In,Chilled-Truly Irish-Pork Sausages-350 g,g
+2025-03-26,112,376,376,2.0,126.0,21.0,Food In,Frozen-Dawn Foods-Smoke Flavoured Ham Slices-2kg,Kg
+2025-03-26,8022,180,180,330.0,831.6,315.0,Food In,Chilled - Innocent - Raspberry Juice - 330ml,g
+2025-03-27,288,97,97,1.4,40.599999999999994,29.0,Food In,Chilled-Philadelphia-Light Cheese (35gx4)x10-1.4 KG,Kg
+2025-03-27,7252,412,412,460.0,49.68,6.0,Food In,Chilled - ABP - Beef Mince - 460g,g
+2025-04-01,312,91,91,200.0,3.4,1.0,Food In,Chilled-Creamfields-Mild Cheddar Slices White-200 G,g
+2025-03-03,7108,675,675,700.0,329.0,47.0,Food In,Chilled-Avonmore-Chicken & Vegetable Soup-700 G,g
+2025-03-05,288,591,591,172.0,303.408,294.0,Food In,Chilled- Dairylea- Dunkers- Nachos- (4x43g)- 172g,g
+2025-03-06,257,60,60,150.0,117.0,60.0,Food In,Ambient-Lindt-Milk Chocolate Hazelnuts & Caramel-150g,g
+2025-03-06,57,271,271,525.0,705.6,84.0,Food In,Ambient-Bramwells-Sweet BBQ Sauce-Chicago Style-525g,g
+2025-03-07,312,497,497,400.0,7.2,3.0,Food In,Chilled-Kinsale Bay-Smoked Fish Pie-400g,g
+2025-03-10,392,318,318,1.0,5.0,5.0,Food In,Ambient - Valeo - Coffee Beans - 1kg,Kg
+2025-03-10,410,43,43,375.0,3.0,2.0,Food In,Ambient- Harvest Morn- Choco Rice- 375g,g
+2025-03-11,208,778,778,1.0,84.0,7.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-13,315,399,399,120.0,15.6,13.0,Food In,Chilled-Bradys-Roast Turkey Slices-120 G,g
+2025-03-13,7086,36,36,370.0,207.2,40.0,Food In,Ambient-Poncho 8- Tomato & Garlic Wraps(6 pack)-370g,g
+2025-03-13,392,599,599,140.0,168.0,50.0,Food In,Ambient - Forest Feast - Roasted Peanuts - 140g,g
+2025-03-18,313,114,114,50.0,18.0,12.0,Food In,Ambient - O'Brien's - Free Range Eggs - 50g,g
+2025-03-18,7563,133,133,340.0,179.52,88.0,Food In,Chilled-Yoplait-Wildlife Fromage Frais Yoghurt (85gx4)-340 G,g
+2025-03-18,4274,145,145,220.0,96.8,55.0,Food In,Ambient-Ambrosia-desert-pots-belgian&mint-fondant-220g,g
+2025-03-20,545,677,677,5.0,5.0,1.0,Food In,Chilled-Newgrange-Mushroom Soup-5 KG,Kg
+2025-03-20,170,564,564,400.0,192.0,120.0,Food In,Chilled-Cully Sully-Butternut Squash Risotto-400g,g
+2025-03-21,57,277,277,2.3,358.79999999999995,78.0,Food In,Ambient - Blenders - Apple & Chilli Chutney - 2.3kg,Kg
+2025-03-21,57,79,79,2.0,32.0,8.0,Food In,Ambient-Blenders-Soy-Ginger-Dressing-2kg,Kg
+2025-03-24,7108,677,677,400.0,60.8,19.0,Food In,Chilled-Avonmore-Sweet Potato Carrot & Turmeric Soup-400 G,g
+2025-03-25,208,778,778,1.0,300.0,15.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-26,326,111,111,200.0,7.2,6.0,Food In,Chilled - Cooleeney Farm - Smoky Tipperary Brie - 200g,g
+2025-03-26,7983,641,641,0.232,445.44,160.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-28,8150,318,318,95.0,3.42,6.0,Food In,Ambient-Roastery-Dark-Choc,g
+2025-03-28,34,71,71,680.0,81.6,20.0,Food In,Ambient - Ballymaloe - Family Size Bolognese Sauce - 680g,g
+2025-03-31,7983,634,634,0.057,76.608,56.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-04-01,293,255,255,18.0,54.0,3.0,Food In,Ambient-Seasonal Fare- Bananas-18kg,Kg
+2025-04-01,1708,797,797,2.0,4608.0,2304.0,Food In,Ambient-Meade Potato-Organic Potatos-2kg,Kg
+2025-04-01,569,797,797,5.0,500.0,100.0,Food In,Ambient - Valleyview Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-04-01,8150,43,43,375.0,2.25,1.0,Food In,Ambient-Nestle-Nesquik Cereal -375g,g
+2025-03-04,326,97,97,500.0,0.5,1.0,Food In,CHILLED-BLUEBELL FALLS-GOATS CHEESE HONEY GARLIC & THYME-500 G,g
+2025-03-06,39,204,204,1.0,24.0,24.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-06,39,204,204,1.0,9.0,9.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-06,39,204,204,1.0,24.0,24.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-06,39,350,350,1.0,10.0,10.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-06,39,350,350,1.0,24.0,24.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-12,378,211,211,180.0,7.56,7.0,Food In,Chilled - Keohane's - 2 Hot Smoked Salmon Fillets - 180g,g
+2025-03-12,378,423,423,454.0,334.144,46.0,Food In,CHILLED-TESCO-JUMBO PORK SAUSAGES-454g,g
+2025-03-14,378,18,18,800.0,9.6,2.0,Food In,Ambient - Tesco - Wholemeal Bread - 800g,g
+2025-03-14,545,85,85,250.0,5.0,1.0,Food In,chilled-stork-for baking spread-250 g,g
+2025-03-14,545,5,5,500.0,0.5,1.0,Food In,Chilled-Kennedys-Red-Grapes-500g,g
+2025-03-28,378,92,92,126.0,0.756,1.0,Food In,Chilled-Philadelphia-Light Soft Cheese Dip + Breadsticks (42gx3)-126 G,g
+2025-03-28,378,98,98,165.0,1.32,1.0,Food In,Chilled-Philadelphia-Sweet Chilli Cheese Spread-165 G,g
+2025-03-28,378,5,5,750.0,25.5,2.0,Food In,Ambient - Bagu - Easy Peel Oranges -750g,g
+2025-03-04,326,188,188,300.0,2.1,1.0,Food In,Chilled - Tropicana - Smooth Orange Juice -300g,g
+2025-03-04,326,117,117,124.0,0.124,1.0,Food In,Chilled- Muller Corner- Toffee Hoops- 124g,g
+2025-03-04,326,86,86,10.0,0.96,1.0,Food In,Chilled-Kerry-Low Low Spread-10 G,g
+2025-03-04,326,188,188,330.0,2.64,1.0,Food In,CHILLED-INNOCENT-SMOOTH ORANGE JUICE-330 ML,g
+2025-03-04,326,133,133,170.0,1.02,1.0,Food In,CHILLED-MULLER RICE-MIXED FLAVOURS-170 G,g
+2025-03-06,214,134,134,500.0,6.0,1.0,Food In,Chilled - Milbona - Natural Irish Yogurt - 500g,g
+2025-03-06,214,132,132,450.0,5.4,1.0,Food In,Chilled - Milbona - 0% Fat Greek Style Mango & Passionfruit Yogurt - 450g,g
+2025-03-06,214,137,137,200.0,2.4,1.0,Food In,Chilled - Irish Yogurts - HIgh Protein Mango & Passionfruit Live Yogurt - 200g,g
+2025-03-06,214,117,117,125.0,63.0,21.0,Food In,Chilled - IY - Forest Fruits Yogurt - 125g,g
+2025-03-06,214,133,133,500.0,3.0,1.0,Food In,Chilled - Diet - Mix Yogurt - 4x125g,g
+2025-03-06,39,523,523,1.0,1.0,1.0,Food In,Chilled-Inspired Cusine-Chicken & Tomato Pasta Bake-1 KG,Kg
+2025-03-06,39,523,523,2.5,2.5,1.0,Food In,chilled-ftg-chicken & tomato pasta bake-2.5 kg,Kg
+2025-03-06,39,501,501,600.0,0.6,1.0,Food In,Chilled-Supervalu-Bacon & Cabbage Dinner-600 G,g
+2025-03-10,6885,267,267,11.0,44.0,4.0,Food In,Ambient - Fyffes - 9 x Pineapple - 11kg,Kg
+2025-03-10,295,445,445,1.0,180.0,15.0,Food In,Ambient-supervalu-olive oil-1kg,Kg
+2025-03-10,295,290,290,570.0,27.36,8.0,Food In,Ambient-Heinz-seriously good mayonnaise light-570g,g
+2025-03-13,39,523,523,1.2,4.8,4.0,Food In,chilled-supervalu-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-13,39,503,503,600.0,3.6,1.0,Food In,Chilled-Good Food-Beef Dinner-600 G,g
+2025-03-13,39,521,521,1.2,12.0,10.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-13,39,521,521,1.2,2.4,2.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-14,378,32,32,800.0,9.6,2.0,Food In,Ambient - Hovis - Granary wholemeal bread - 800g,g
+2025-03-14,378,504,504,400.0,55.2,23.0,Food In,Chilled - Mash Direct - Carrot and Parsnip - 400g,g
+2025-03-14,545,603,603,500.0,1.5,1.0,Food In,Chilled-Happy Pear-Roasted Red Hummus-500 g,g
+2025-03-14,545,262,262,350.0,3.5,1.0,Food In,Chilled-Kennedys-Lemons & Limes-350 G,g
+2025-03-14,545,570,570,450.0,2.7,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-14,545,574,574,1.0,9.0,9.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-14,545,570,570,350.0,3.85,1.0,Food In,Chilled-DVP-Mixed Lettuce-350 G,g
+2025-03-14,8150,318,318,960.0,46.08,48.0,Food In,Ambient - Nescafe Original - Coffee Granules Sachets - 800 x1.2g,g
+2025-03-14,8150,54,54,460.0,196.42,61.0,Food In,Ambient - Nestle - Shreddies With Honey- 460g,g
+2025-03-14,8150,54,54,460.0,167.44,52.0,Food In,Ambient - Nestle - Shreddies With Honey- 460g,g
+2025-03-14,8150,62,62,348.0,133.632,96.0,Food In,Ambient - Nestle - Black Magic - 348g,g
+2025-03-14,8150,319,319,133.0,11.97,15.0,Food In,Ambient - Nescafe Gold - Aero Golden Honeycomb Mocha - 133g,g
+2025-03-14,8150,66,66,115.0,186.3,162.0,Food In,Ambient-Rowntrees-Safari Mix Fruit Flavoured Jellies-115g,g
+2025-03-14,8150,60,60,90.0,356.4,198.0,Food In,Ambient-Nestle-Milkybar Gold Caramel Flavour White chocolate -90g,g
+2025-03-14,8150,60,60,90.0,693.0,385.0,Food In,Ambient-Nestle-Milkybar Gold Caramel Flavour White chocolate -90g,g
+2025-03-14,8150,60,60,90.0,693.0,385.0,Food In,Ambient-Nestle-Milkybar Gold Caramel Flavour White chocolate -90g,g
+2025-03-14,8150,54,54,630.0,61.74,7.0,Food In,AMBIENT- Nestle-Shreddies Origional- 630g,g
+2025-03-14,8150,61,61,168.0,309.12,184.0,Food In,Ambient-Nestle-Lion Original Chocolate & Caramel  Bars(4x42g)-168g,g
+2025-03-14,8150,61,61,168.0,73.92,44.0,Food In,Ambient-Nestle-Lion Original Chocolate & Caramel  Bars(4x42g)-168g,g
+2025-03-14,8150,43,43,500.0,210.0,60.0,Food In,Ambient - Nestle - Shreddies The Coco One - 500g ,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,208,778,778,1.0,300.0,15.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-18,208,794,794,1.0,24.0,2.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-18,208,794,794,1.0,120.0,6.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-20,8150,117,117,440.0,158.4,60.0,Food In,Chilled - Rachel's - 2 Rhubarb & 2 Raspberry yogurt - 4x110g,g
+2025-03-20,8150,137,137,150.0,26.4,22.0,Food In,Chilled-Nestle-Lindahls Protein Yogurt Caramel- Pouch-150g ,g
+2025-03-20,8150,117,117,450.0,56.7,21.0,Food In,Chilled - Rachel's - Organic Greek Style Yogurt Mango - 450g,g
+2025-03-20,296,60,60,44.0,15.84,15.0,Food In,Ambient-Nestle-Yorkie Raisin and Biscuit-44g,g
+2025-03-20,296,70,70,48.0,30.72,20.0,Food In,Ambient-Rowntrees-Fruit Pastilles-48g-48g,g
+2025-03-20,296,60,60,41.5,63.744,64.0,Food In,Ambient - Nestle - Kit Kat 4 Finger Original -41.5g,g
+2025-03-20,266,598,598,500.0,320.0,64.0,Food In,Ambient-Manhattan-dry-roasted-peanuts-500g,g
+2025-03-24,545,262,262,2.0,8.0,4.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-24,545,110,110,454.0,1.816,2.0,Food In,CHILLED-DAYBREAK-BUTTER-454 G,g
+2025-03-24,545,743,743,2.5,15.0,6.0,Food In,Chilled-Doyles VP-Butternut Squash Chunky-2.5 KG,Kg
+2025-03-24,545,234,234,125.0,1.5,2.0,Food In,Chilled-Kennedys-Blueberry-125 G,g
+2025-03-24,545,110,110,454.0,21.338,1.0,Food In,Chilled-Bandon CoOp-Butter-454 G,g
+2025-03-24,545,573,573,250.0,13.5,9.0,Food In,chilled-seasonal fare-washed rocket-250 g,g
+2025-03-24,545,757,757,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Carrot & Parsnip Diced-2.5 KG,Kg
+2025-03-24,6752,797,797,5.0,2375.0,475.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-03-28,378,160,160,205.0,2.46,1.0,Food In,AMBIENT - GATEAUX - RIPPLE SWISS ROLL - 205G,g
+2025-03-28,378,370,370,570.0,27.36,8.0,Food In,Chilled - The Crafty Chef - Piri-Piri Half Spatchcock Chicken - 570g,g
+2025-03-28,378,149,149,800.0,44.8,14.0,Food In,Ambient - Ms Molly's - Party Cake 800g,g
+2025-03-28,378,149,149,800.0,3.2,1.0,Food In,Ambient - Ms Molly's - Party Cake 800g,g
+2025-03-28,378,785,785,200.0,2.4,1.0,Food In,Chilled - Tesco - Baby Cucumbers - 200g,g
+2025-03-28,8150,60,60,90.0,13.5,10.0,Food In,AMBIENT-NESTLE-AERO PEPPERMINT BAR-90G,g
+2025-03-28,8150,60,60,180.0,10.08,4.0,Food In,Ambient-Nestle-Areo-Peppermint-4pk-180g,g
+2025-03-28,8150,145,145,90.0,5.4,4.0,Food In,Ambient-Nestle-Aero Smooth milk Chocolate Hazelnut Bubbles-90g,g
+2025-04-01,545,117,117,500.0,15.0,10.0,Food In,Chilled-Yoplait-Raspberry Yoghurt (125gx4)-500 G,g
+2025-04-01,545,135,135,500.0,21.0,7.0,Food In,Chilled-Alpro-Blueberry & Cherry Yoghurts (125gx4)-500 G,g
+2025-03-04,326,361,361,500.0,6.0,6.0,Food In,Chilled-Italia Alimentari-Salame Spianata piccante-500 G,g
+2025-03-10,288,95,95,129.0,224.46,290.0,Food In,Chilled-Dairylea-Dunkers Nachos & Cheese (43gx3)-129 G,g
+2025-03-11,545,423,423,1.0,10.0,10.0,Food In,Chilled-Loughnanes-Pork Sausagemeat-1 kg,Kg
+2025-03-14,545,207,207,200.0,0.2,1.0,Food In,Chilled-Dunn's-Smoked Salmon-200 G,g
+2025-03-18,8041,179,179,500.0,15.0,5.0,Food In,Ambient-M&S-lemon & lime cordail-500ml (glass bottle),g
+2025-03-24,288,98,98,35.0,441.0,315.0,Food In,Chilled-Philadelphia-Light Cheese Spread Portion-35g,g
+2025-03-28,137,423,423,400.0,280.0,100.0,Food In,Frozen-Tesco-Jacks-Premium Sausages-400,g
+2025-04-01,137,423,423,400.0,196.0,70.0,Food In,Frozen-Tesco-Jacks-Premium Sausages-400,g
+2025-03-03,545,129,129,1.0,20.0,20.0,Food In,Chilled-Wholesome-Buttermilk-1 L,Kg
+2025-03-06,214,136,136,125.0,3.0,1.0,Food In,Chilled - IY- Creamy Taste -125g,g
+2025-03-06,39,502,502,1.0,24.0,24.0,Food In,Chilled-Inspired Cuisine-Chicken & Broccoli Bake-1 KG,Kg
+2025-03-10,6885,266,266,5.0,30.0,6.0,Food In,Ambient-Global Fruits-pears-5kg,Kg
+2025-03-10,295,497,497,475.0,114.0,40.0,Food In,Ambient-supervalu-fajita meal kit- 475g,g
+2025-03-12,378,14,14,500.0,56.0,7.0,Food In,Chilled - Tesco - Irish Carrotts - 500g,g
+2025-03-12,2385,495,495,290.0,292.32,168.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-03-13,39,523,523,1.0,4.0,4.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-14,378,116,116,3.0,300.0,25.0,Food In,Chilled-tesco-irish low fat milk-3 ltr,Kg
+2025-03-14,8150,150,150,1.0,30.0,5.0,Food In,Ambient-KitKat-Cocoa Sauce With Wafer Pieces-1 KG,Kg
+2025-03-14,353,138,138,500.0,600.0,120.0,Food In,Chilled-Dunnes-Strawberry Yogurt Drink-500 ML,g
+2025-03-14,312,138,138,500.0,490.0,98.0,Food In,Chilled-Dunnes-Natural Yogurt Drink-500 ML,g
+2025-03-18,57,75,75,475.0,684.0,120.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-18,208,778,778,1.0,84.0,84.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-18,4274,618,618,140.0,176.4,70.0,Food In,Ambient-Mitsuba-Streetfood Snack Mix-Beef Noodle Style-140g,g
+2025-03-20,8150,133,133,440.0,36.96,14.0,Food In,Chilled-Rachels-Lucious Fruit Yoghurt (110gx4)-440 G,g
+2025-03-20,392,57,57,300.0,30.0,100.0,Food In,Ambient - Bolands - Tea Cake Tins - 300g,g
+2025-03-20,296,60,60,120.0,6.0,5.0,Food In,Ambient-Nestle-Lion Bar1(4pack)-120g,g
+2025-03-20,266,599,599,100.0,2.4,1.0,Food In,Ambient - Manhattann - dry roasted peanuts - 100g,g
+2025-03-21,296,480,480,340.0,303.96,149.0,Food In,Ambient-Rowse-Clear Honey-340g,g
+2025-03-21,57,75,75,475.0,39.9,7.0,Food In,Ambient-Dunnes- Mild Curry Sauce (HDI)- 475G,g
+2025-03-24,545,747,747,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-24,6752,797,797,5.0,625.0,125.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-03-25,8150,60,60,50.0,23.4,13.0,Food In,Ambient - Nestle - Lion - 50g,g
+2025-03-26,1619,797,797,20.0,120.0,6.0,Food In,Ambient - Iverks - Potato - 20kg,Kg
+2025-03-28,378,497,497,400.0,48.0,20.0,Food In,Chilled - Pure Power - Chicken Chow Mein Ready Meal - 400g,g
+2025-03-28,4274,616,616,375.0,185.625,33.0,Food In,Ambient-Tayto-Variety Pacc Crisps(15x25g)-375g,g
+2025-03-28,8150,60,60,90.0,9.45,7.0,Food In,Ambient-Aero-Bubble bar-90g,g
+2025-03-31,545,110,110,454.0,5.448,6.0,Food In,chilled-kerrygold-butter-454 g,g
+2025-04-01,545,117,117,500.0,3.0,1.0,Food In,chilled-killowen-raspberry yoghurt-(125gx4)=500 g,g
+2025-03-10,410,569,569,1.0,12.0,2.0,Food In,Ambient - Everyday Essentials - Long Grain Rice - 1kg,Kg
+2025-03-10,410,569,569,500.0,1.5,1.0,Food In,Ambient-Worldwide-Long-Grain Rice-Boil-In-The-Bag-500g,g
+2025-03-13,39,530,530,450.0,10.8,4.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-20,29,204,204,1.0,3.0,3.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-20,29,350,350,1.0,3.0,3.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-26,112,349,349,2.0,120.0,10.0,Food In,Frozen - Dawn Farm Foods - Chicken Strips - 2kg,Kg
+2025-03-26,112,349,349,1.0,340.0,34.0,Food In,Frozen-Dawn Foods-Sharma Chicken (cooked season chicken strips)-1kg,Kg
+2025-03-26,112,358,358,1000.0,44.0,44.0,Food In,Frozen - Dawn Farm Foods - American Style Shredded Pulled Pork With BBQ Sauce - 2x500g,g
+2025-03-31,39,539,539,500.0,0.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-31,39,530,530,1.2,12.0,10.0,Food In,chilled-supervalu-beef lasagne-1.2 kg,Kg
+2025-03-04,208,778,778,20.0,300.0,15.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-04,208,794,794,20.0,120.0,6.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-04,208,778,778,2.0,84.0,42.0,Food In,Ambient - Hughes - GPP Whole Carrots - 2Kg,Kg
+2025-03-10,545,675,675,2.0,4.0,2.0,Food In,CHILLED-NEWGRANGE-CHICKEN & VEGETABLE SOUP-2 KG,Kg
+2025-03-10,6885,787,787,4000.0,320.0,80.0,Food In,Ambient - Lidl - Ginger - 4kg,g
+2025-03-10,39,523,523,1.0,108.0,108.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-10,39,521,521,1.0,19.0,19.0,Food In,Chilled-Supervalu-Chicken Curry-1.2 KG,Kg
+2025-03-10,39,562,562,2.0,24.0,12.0,Food In,chilled-ftg-basmati rice-2 kg,Kg
+2025-03-10,39,503,503,550.0,39.6,12.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-10,39,503,503,550.0,40.7,2.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-10,39,521,521,1.2,4.8,4.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-10,410,42,42,375.0,0.75,1.0,Food In,Ambient - Harvest Morn - Multi Grain Hoops - 375g,g
+2025-03-13,545,262,262,2.0,20.0,10.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-13,545,574,574,1.0,39.0,39.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-13,39,535,535,450.0,10.8,4.0,Food In,chilled-supervalu-cottage pie-450 g,g
+2025-03-13,39,502,502,400.0,0.8,1.0,Food In,Chilled-Clean Cut-Turkey Meatballs With Spaghetti-400 G,g
+2025-03-13,39,502,502,400.0,50.4,21.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,39,523,523,400.0,28.0,1.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,188.37,161.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,33.93,29.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,305.37,261.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,422.37,361.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,176,70,70,130.0,237.51,203.0,Food In,Ambient-Poppets-Salted Caramel Fudge-130g,g
+2025-03-14,1619,797,797,20.0,1060.0,53.0,Food In,Ambient - Iverks - Potato - 20kg,Kg
+2025-03-14,312,550,550,300.0,288.0,96.0,Food In,Chilled-Cuccina-Spinach & Ricotta Tortelloni-300 G,g
+2025-03-21,545,498,498,2.5,10.0,2.0,Food In,Chilled-M&M-Sage & Onion Stuffing-2.5 KG,Kg
+2025-03-21,545,759,759,500.0,4.0,2.0,Food In,Chilled-Foraged-Plant Based Mushroom Meat-500 G,g
+2025-03-26,112,391,391,1.0,120.0,12.0,Food In,Frozen-dawn farm-grilled burger mince-1kg,Kg
+2025-03-27,102,144,144,2.1,39.9,19.0,Food In,Frozen- Coolhull Farm- Boston Lemon Cheesecake- 2.1kg,Kg
+2025-03-27,102,115,115,4.7,112.8,12.0,Food In,Frozen-coolhull-white chocolate & rasberry ice cream-4.7kg,Kg
+2025-03-28,4274,591,591,505.0,123.725,35.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-28,34,290,290,30.0,45.0,25.0,Food In,Ambient - Ballymaloe - Mayo Delicious Irish Mayonnaise - 30g,g
+2025-03-31,39,540,540,450.0,7.2,1.0,Food In,Chilled-Supervalu-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-31,39,521,521,1.0,4.0,4.0,Food In,Chilled-Supervalu-Chicken Curry-1.2 KG,Kg
+2025-03-31,39,10,10,400.0,7.2,3.0,Food In,Chilled-Fueld-Foods-tomato-chicken-wholeweath-pasta-400g,g
+2025-03-31,39,523,523,1.2,26.4,22.0,Food In,chilled-supervalu-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-31,39,523,523,1.2,24.0,20.0,Food In,chilled-supervalu-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-31,39,744,744,375.0,1.125,1.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-31,39,524,524,600.0,2.4,1.0,Food In,Chilled-Supervalu-Turkey & Ham Dinner-600 G,g
+2025-03-31,39,522,522,450.0,1.8,1.0,Food In,Chilled-Centra-Chicken Tikka Masala + Basmati Rice-450 G,g
+2025-03-31,39,503,503,550.0,9.9,3.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-31,39,503,503,600.0,82.8,23.0,Food In,Chilled-Centra-Beef Dinner-600 G,g
+2025-03-31,39,761,761,500.0,6.0,2.0,Food In,Chilled-Supervalu-Roasted Baby Potatoes-500 G,g
+2025-03-31,39,540,540,1.0,1.0,1.0,Food In,Chilled-Supervalu-Cauliflower Cheese-1 KG,Kg
+2025-03-20,39,538,538,370.0,1.48,1.0,Food In,chilled-happy pear-veggie cannelloni-370 g,g
+2025-03-26,112,423,423,10.0,600.0,30.0,Food In,Frozen-Dawn-dr oetker-pork sausage crumble-10kg,Kg
+2025-03-31,39,530,530,400.0,0.4,1.0,Food In,Chilled-Good Food-Spaghetti Bolognese-400 G,g
+2025-03-03,392,318,318,70.0,45.5,13.0,Food In,Ambient-Valeo-house filter coffee blend-70g,g
+2025-03-04,208,794,794,1.0,24.0,2.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-04,168,255,255,17.0,1428.0,84.0,Food In,Ambient-Fyffes -Bananas - 17Kg,Kg
+2025-03-06,8022,183,183,750.0,652.5,145.0,Food In,"Chilled - Innocent Drinks - Energise Super Smoothie- Strawberry, Cherry, Apple, Guarana - 750ml",g
+2025-03-06,545,60,60,300.0,7.2,3.0,Food In,Ambient-Cadbury-Freddo & Friends Chocolate Bars-300g,g
+2025-03-10,545,266,266,600.0,3.6,1.0,Food In,Chilled-Kennedys-Pears-600 G,g
+2025-03-10,6885,264,264,3.5,231.0,66.0,Food In,Ambient-Global Fruit-Mangos (Full Box)-3.5kg,Kg
+2025-03-10,39,523,523,1.0,20.0,20.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-10,410,568,568,1.0,24.0,3.0,Food In,Ambient - Worldwide foods - long grain rice - 1kg,Default
+2025-03-12,8022,183,183,330.0,828.96,314.0,Food In,Chilled - Innocent - Bolt From The Blue Smoothie - 330ml,g
+2025-03-13,545,573,573,75.0,0.975,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-13,315,372,372,120.0,5.76,4.0,Food In,Chilled-Tesco-Carved-Chicken-Breast-120g,g
+2025-03-13,39,521,521,400.0,28.8,12.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-14,176,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-14,7983,634,634,0.5,1020.0,170.0,Food In,ESF - Odlum's - Porridge Oats - 500g,Kg
+2025-03-14,392,458,458,4.0,656.0,41.0,Food In,Ambient-Odlums-Brown Scone Mix-4kg,Kg
+2025-03-14,1619,778,778,20.0,200.0,10.0,Food In,Ambient - Iverks - Carrots - 20kg,Kg
+2025-03-14,312,497,497,400.0,9.6,4.0,Food In,Chilled-Kinsale Bay-Smoked Fish Pie-400g,g
+2025-03-18,392,57,57,250.0,92.5,37.0,Food In,Ambient-St Michel-Chocolate Chip Biscuits-250g,g
+2025-03-19,8022,183,183,330.0,831.6,315.0,Food In,Chilled - Innocent - Bolt From The Blue Smoothie - 330ml,g
+2025-03-19,315,351,351,240.0,44.16,23.0,Food In,Chilled-Glensallagh-Roast Chicken Brest Pieces-240 G,g
+2025-03-20,29,521,521,500.0,18.0,36.0,Food In,Chilled-Inspired-Chip Shop Chicken Curry + Basmati Rice-500 G,g
+2025-03-20,545,574,574,1.0,3.0,3.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-20,23,17,17,9.45,207.9,22.0,Food In,FROZEN-Aryzta-Demi Baguittes (bread) (70 units in a box)-9.45kg,Kg
+2025-03-21,545,576,576,250.0,28.5,19.0,Food In,Chilled-Willowbrook-Spinach & Baby Leaf-250 G,g
+2025-03-21,353,138,138,500.0,240.0,48.0,Food In,Chilled-Dunnes-Natural Yogurt Drink-500 ML,g
+2025-03-24,8032,138,138,393.0,275.1,70.0,Food In,CHILLED-BENECOL-TROPICAL FRUITS YOGHURT DRINK-(65.5GX6)=393 G,g
+2025-03-24,57,290,290,400.0,11.6,29.0,Food In,Ambient-Supervalu-Mayonnaise-Asstd Real/Light/Garlic-400g,g
+2025-03-25,410,334,334,250.0,3.5,7.0,Food In,Ambient-Mcgraths-Tea-Bags-80-250g,g
+2025-03-25,7,444,444,1.0,600.0,50.0,Food In,Ambient - Solesta - Vegetable Oil ( HDI ) - 1L,Kg
+2025-03-27,102,149,149,1.0,11.0,11.0,Food In,Frozen-coolhull farm-cheesecake mixed box-1kg,Kg
+2025-03-28,4274,591,591,505.0,254.52,72.0,Food In,Ambient-Old El Paso-Nacho Kit Original Cheese Mild-505g,g
+2025-03-28,34,300,300,310.0,7.44,4.0,Food In,Ambient - Ballymaloe - Original Tomato Relish - 310g,g
+2025-03-31,378,371,371,380.0,121.6,16.0,Food In,Chilled - Tesco - Slow Cooked Beef Brisket in Gravy - 380g,g
+2025-03-31,326,39,39,375.0,3.75,1.0,Food In,Ambient-Kellogs-AllBran-375g,g
+2025-03-04,545,195,195,300.0,2.7,1.0,Food In,Chilled - Naked -Green Machine  Smoothie - 300ml,g
+2025-03-06,545,91,91,1.5,1.5,1.0,Food In,Chilled-Gleneely-Racalette Cheese-1.5 KG,Kg
+2025-03-06,545,538,538,400.0,0.8,1.0,Food In,Chilled-Carrols-Tagliatelle Bolognese-400 G,g
+2025-03-10,6741,18,18,400.0,48.0,15.0,Food In,Ambient-Brennans-Half pan-400g,g
+2025-03-13,315,361,361,130.0,1.56,1.0,Food In,Chilled-Dunnes-Wafer Thin Smoked Bourbon Glaze Ham Slices-130 g,g
+2025-03-18,4274,620,620,130.0,78.0,50.0,Food In,Ambient-Walkers-Wotsits Crunchy-Extra Flamin Hot-130g,g
+2025-03-18,545,423,423,1.0,1.0,1.0,Food In,Chilled-Loughnanes-Pork & Black Pepper Sausages-1 KG,Kg
+2025-03-18,545,97,97,200.0,0.8,1.0,Food In,Chilled-Gleneely-Brie -Cheese-200 g,g
+2025-03-18,545,85,85,250.0,4.75,1.0,Food In,chilled-stork-for baking spread-250 g,g
+2025-03-18,545,304,304,2.0,4.0,2.0,Food In,chilled-donnelly-fresh salsa-2 kg,Default
+2025-03-18,545,423,423,2.5,2.5,1.0,Food In,Chilled-Smartbuy-Cocktail -Sausages-2.5kg,Kg
+2025-03-19,39,538,538,400.0,8.0,5.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-19,39,204,204,1.0,3.0,3.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-19,39,350,350,1.0,2.0,2.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-19,39,350,350,1.0,3.0,3.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-24,6741,18,18,400.0,2.8,1.0,Food In,Ambient-Brennans Bloomer- Brown Malted Sliced Bread-400g,g
+2025-03-24,6741,18,18,400.0,35.2,11.0,Food In,Ambient-Brennans-Half pan-400g,g
+2025-03-24,6741,18,18,820.0,39.36,8.0,Food In,Ambient-Brennans-white-batch-loaf-820g,g
+2025-03-24,6741,18,18,400.0,16.0,5.0,Food In,Ambient-brennans-bloomer sliced bread-400g,g
+2025-03-24,6741,18,18,800.0,56.0,14.0,Food In,Ambient-Brennans-super bread-800g,g
+2025-03-24,545,423,423,454.0,0.454,1.0,Food In,CHILLED-DENNY-SAUSAGES-454G,g
+2025-03-24,545,423,423,454.0,4.54,1.0,Food In,CHILLED-MALLONS-PORK SAUSAGES-454 G,g
+2025-03-24,545,423,423,4.54,4.54,1.0,Food In,Chilled-Loughnanes-Fresh Pork Sausages-4.54 KG,Kg
+2025-03-04,545,522,522,1.25,10.0,8.0,Food In,Chilled-Aveo-Chicken Tikka Masala-1.25 KG,Kg
+2025-03-04,545,522,522,1.25,13.75,11.0,Food In,Chilled-Aveo-Chicken Tikka Masala-1.25 KG,Kg
+2025-03-04,545,194,194,300.0,2.4,1.0,Food In,Chilled - Naked - Blue  Machine  Smoothie - 300ml,g
+2025-03-04,545,521,521,1.25,10.0,8.0,Food In,Chilled-Aveo-Chicken Chip Shop Curry-1.25 KG,Kg
+2025-03-04,545,521,521,1.25,10.0,8.0,Food In,Chilled-Aveo-Chicken Chip Shop Curry-1.25 KG,Kg
+2025-03-04,545,183,183,300.0,8.1,3.0,Food In,Chilled-Naked-Mango & Passionfruit Smoothie-300 ML,g
+2025-03-04,545,522,522,1.25,43.75,35.0,Food In,Chilled-Aveo-Chicken Korma-1.25 KG,Kg
+2025-03-06,545,786,786,3.5,3.5,1.0,Food In,Chilled-Spanish-Garlic-3.5 KG,Kg
+2025-03-06,545,136,136,124.0,1.364,1.0,Food In,CHILLED-MULLER CORNER-MILK CHOCOLATE DIGESTIVES YOGHURT-124 G,g
+2025-03-06,545,573,573,75.0,0.6,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-06,545,117,117,169.0,0.845,1.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-06,545,760,760,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Onion White Sliced-2 KG,Kg
+2025-03-06,545,570,570,450.0,1.8,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-06,545,234,234,125.0,0.75,1.0,Food In,Chilled-Kennedys-Blueberry-125 G,g
+2025-03-06,545,676,676,280.0,1.4,1.0,Food In,Chilled-Cully & Sully-Creamy Tomato & Basil Soup-280 G,g
+2025-03-06,545,574,574,1.0,9.0,9.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-06,545,765,765,2.0,4.0,2.0,Food In,Chilled-Doyles-Pepper Red Sliced-2 KG,Kg
+2025-03-06,545,156,156,75.0,0.3,1.0,Food In,CHILLED-CADBURY-FLAKE DESSERT-75 G,g
+2025-03-06,545,297,297,1.0,2.0,2.0,Food In,Chilled-McCormack-Flat Parsley-1 KG,Kg
+2025-03-06,545,279,279,1.0,1.0,1.0,Food In,chilled-seasonal fare-coriander-1 kg,Kg
+2025-03-09,1374,793,793,3.0,42.0,14.0,Food In,AMBIENT-Hello Fresh-Red Chillies-3kg,Kg
+2025-03-09,1374,746,746,300.0,24.0,4.0,Food In,Ambient - Hello Fresh - Cualiflower - 300 g,g
+2025-03-09,1374,796,796,5.0,20.0,4.0,Food In,Ambient - Hello Fresh - Yellow Peppers - 5kg,Kg
+2025-03-09,1374,792,792,3.0,27.0,9.0,Food In,Ambient - Hello fresh - Scallions (onions) -3kg,Kg
+2025-03-10,57,74,74,475.0,7.6,16.0,Food In,Ambient-Centra-Medium Curry Sauce-475g,g
+2025-03-10,57,273,273,460.0,8.74,19.0,Food In,Ambient - Dunnes - Brown Sauce - 460g ,g
+2025-03-10,57,290,290,425.0,1.7,4.0,Food In,AMBIENT-DUNNES STORES-REAL MAYONNAISE-425ML,g
+2025-03-10,57,74,74,460.0,0.92,2.0,Food In,AMBIENT-BARESA-RED LASAGNE SAUCE-460G,g
+2025-03-10,57,79,79,480.0,1.44,3.0,Food In,AMBIENT-DUNNES STORES-MY FAMILY FAVOURITES SWWET & SOUR SAUCE-480G,g
+2025-03-10,57,288,288,470.0,1.41,3.0,Food In,Ambient-Dunnes stores-tomato ketchup-470g,g
+2025-03-10,57,74,74,440.0,6.16,14.0,Food In,Ambient-Dunnes Stores-White Sauce Asstd-440g,g
+2025-03-10,57,285,285,425.0,3.4,8.0,Food In,Ambient-Batts-Ranch Sauce-425g,g
+2025-03-10,57,290,290,435.0,6.09,14.0,Food In,AMBIENT-BRAMWELLS-TACO MAYO-435G,g
+2025-03-10,57,290,290,425.0,1.7,4.0,Food In,Ambient-Batt's-Garlic Mayonnaise-425g,g
+2025-03-12,309,116,116,1.0,120.0,12.0,Food In,Chilled - Lullaby - Milk - 1 Litre,Kg
+2025-03-12,545,757,757,2.5,2.5,1.0,Food In,Chilled-Doyles Vp-Soup Mix-2.5 KG,Kg
+2025-03-12,545,573,573,75.0,0.15,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-12,545,757,757,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Mix Veg Chunky-2.5 KG,Kg
+2025-03-12,545,262,262,2.0,6.0,3.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-12,545,675,675,5.0,5.0,1.0,Food In,Chilled-Newgrange-Spiced Pumpkin Chicken & Coconut Soup-5 Kg,Kg
+2025-03-12,545,763,763,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Parsnip Baton-2.5 KG,Kg
+2025-03-12,545,763,763,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Parsnip Baton-2.5 KG,Kg
+2025-03-12,545,574,574,1.0,4.0,4.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-12,545,757,757,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Carrot & Parsnip Diced-2.5 KG,Kg
+2025-03-12,545,763,763,2.5,2.5,1.0,Food In,Chilled-Global Fruit-Parsnip Diced-2.5 KG,Kg
+2025-03-13,545,341,341,5.0,5.0,1.0,Food In,Chilled-Poultry Trade-Diced Chicken Brest-5 KG,Kg
+2025-03-13,545,677,677,5.0,5.0,1.0,Food In,Chilled-Newgrange-Broccoli & Spinach Soup- 5 kg ,Kg
+2025-03-13,545,297,297,1.0,1.0,1.0,Food In,Chilled-McCormack-Curly Parsley-1 KG,Kg
+2025-03-13,545,370,370,400.0,0.4,1.0,Food In,Chilled-Manor -Farm-Chicken Breast -Fillets-400g,g
+2025-03-13,545,757,757,2.5,2.5,1.0,Food In,CHILLED-RED COLESLAW-2.5 KG,Default
+2025-03-18,4274,55,55,76.0,21.888,12.0,Food In,Ambient-Tesco-Wheat Biscuits-76g,g
+2025-03-18,545,351,351,100.0,1.0,1.0,Food In,Chilled-Carrolls-Smokey BBQ Chicken Pieces-100 G,g
+2025-03-18,545,747,747,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-18,545,134,134,500.0,2.5,1.0,Food In,CHILLED-GLENISK-NATURAL YOGHURT-500 G,g
+2025-03-18,545,117,117,169.0,0.507,1.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-18,545,574,574,2.0,12.0,6.0,Food In,chilled-donnelly-traditional coleslaw-2 kg,Kg
+2025-03-18,545,341,341,5.0,5.0,1.0,Food In,Chilled-Poultry Trade-Diced Chicken Brest-5 KG,Kg
+2025-03-18,545,573,573,75.0,0.6,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-18,545,262,262,350.0,3.5,1.0,Food In,Chilled-Kennedys-Lemons & Limes-350 G,g
+2025-03-18,545,570,570,500.0,2.0,1.0,Food In,Chilled-Willowbrook-Mix Lettuce-500 G,g
+2025-03-18,545,779,779,40.0,40.0,1.0,Food In,Chilled-Kennedys-Cauliflower-4 KG,Kg
+2025-03-18,545,607,607,100.0,0.6,1.0,Food In,Chilled-Begleys-Pomegranate Seeds-100 G,g
+2025-03-18,545,737,737,2.5,7.5,3.0,Food In,Chilled-Doyles VP-Mix Veg Diced-2.5 KG,Kg
+2025-03-18,545,241,241,170.0,3.06,3.0,Food In,Chilled-Circle K-Fruit Salad with Strawberries-170 g,g
+2025-03-18,545,777,777,1.0,1.0,1.0,Food In,CHILLED-McCORMACK-PAK CHOI-1 KG,Kg
+2025-03-18,545,572,572,2.0,2.0,1.0,Food In,Chilled-Donnelly-Carrot Ginger & Chia Seed Salad-2 KG,Kg
+2025-03-18,545,117,117,170.0,0.85,1.0,Food In,Chilled -Nomadic -Honeycomb -Yogurt,g
+2025-03-18,545,117,117,135.0,1.35,1.0,Food In,Chilled-Killowen-Sweet Blueberry Yoghurt-135 G,g
+2025-03-18,545,603,603,500.0,2.0,1.0,Food In,chilled-happy pear-sweet beet hummus-500 g,g
+2025-03-18,545,117,117,125.0,2.75,1.0,Food In,chilled-hayes-mixed yoghurts-125 g,g
+2025-03-18,545,574,574,1.0,5.0,5.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-18,545,9,9,450.0,1.35,1.0,Food In,Chilled-Seasonal -Fare-Washed -Spinach-450g,g
+2025-03-18,545,9,9,450.0,0.45,1.0,Food In,Chilled-Seasonal -Fare-Washed -Spinach-450g,g
+2025-03-18,545,9,9,450.0,0.45,1.0,Food In,Chilled-Seasonal -Fare-Washed -Spinach-450g,g
+2025-03-18,545,86,86,227.0,4.994,1.0,Food In,Chilled -Dairygold - Original Spread-227 g,g
+2025-03-18,545,516,516,400.0,2.8,1.0,Food In,CHILLED-CARROLS-TAGLIATELLE CARBONARA-400 G,g
+2025-03-18,545,742,742,300.0,2.4,1.0,Food In,Chilled-Kennedys-Broccoli-300 G,g
+2025-03-18,545,742,742,300.0,0.6,1.0,Food In,Chilled-Kennedys-Broccoli-300 G,g
+2025-03-18,545,742,742,300.0,0.3,1.0,Food In,Chilled-Kennedys-Broccoli-300 G,g
+2025-03-18,545,136,136,169.0,0.845,1.0,Food In,Chilled-Nomadic-Blackcurrant & Blueberry Yoghurt-169 G,g
+2025-03-19,378,160,160,260.0,5.72,2.0,Food In,Ambient - Tesco - 20 Brookie Bites - 260g,g
+2025-03-19,39,521,521,500.0,27.0,54.0,Food In,Chilled-Inspired-Chip Shop Chicken Curry + Basmati Rice-500 G,g
+2025-03-19,39,761,761,400.0,0.8,2.0,Food In,Chilled - Supervalu - Irish Rooster Potato Gratin  with Cheddar & Parmesan Cheese - 400g,g
+2025-03-19,39,504,504,400.0,8.0,5.0,Food In,CHILLED-HAPPY PEAR-TASTY THAI NOODLES-400 G,g
+2025-03-19,545,760,760,2.0,14.0,7.0,Food In,Chilled-DVP-Red Onion Peeled-2KG,Kg
+2025-03-19,545,752,752,1.0,3.0,3.0,Food In,chilled-sliced-cucumber-1 kh,Default
+2025-03-19,545,32,32,400.0,4.8,1.0,Food In,chilled-m&m-breadcrumbs-400 g,g
+2025-03-19,545,134,134,135.0,1.485,1.0,Food In,Chilled-Killowen-Natural Yoghurt-135 G,g
+2025-03-19,545,341,341,5.0,5.0,1.0,Food In,Chilled-No Name-Chicken Brest Ex Inner-5 KG,Kg
+2025-03-19,545,297,297,1.0,1.0,1.0,Food In,Chilled-McCormack-Curly Parsley-1 KG,Kg
+2025-03-19,545,759,759,500.0,5.0,2.0,Food In,Chilled-Kerrigans-Sliced-White-Mushrooms-500g,g
+2025-03-19,545,234,234,125.0,0.625,1.0,Food In,Chilled-Kennedys-Raspberries-125 G,g
+2025-03-19,545,234,234,125.0,0.375,1.0,Food In,Chilled-Kennedys-Blueberry-125 G,g
+2025-03-19,545,761,761,2.3,4.6,2.0,Food In,"Chilled-Doyles VP-Potato Chateau-2,3 KG",Kg
+2025-03-19,545,765,765,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Mixed Peppers Sliced-2 KG,Kg
+2025-03-19,545,574,574,1.0,5.0,5.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-19,545,573,573,250.0,0.25,1.0,Food In,chilled-seasonal fare-washed rocket-250 g,g
+2025-03-19,545,765,765,2.0,6.0,3.0,Food In,Chilled-Doyles VP-Green Peppers Sliced-2 KG,Kg
+2025-03-19,545,570,570,350.0,2.1,1.0,Food In,Chilled-DVP-Mixed Lettuce-350 G,g
+2025-03-24,6741,20,20,800.0,24.0,6.0,Food In,Ambient-Brennans-wholemeal bread-800g,g
+2025-03-24,545,341,341,5.0,10.0,2.0,Food In,Chilled-Kappersfood-Chicken Supreme-5 KG,Kg
+2025-03-24,545,183,183,150.0,1.8,1.0,Food In,Chilled - Innocent - Smoothie Strawberries Raspberries and Apple - 150ml,g
+2025-03-24,545,676,676,280.0,1.4,1.0,Food In,Chilled-Cully & Sully-Creamy Tomato & Basil Soup-280 G,g
+2025-03-24,545,574,574,2.0,6.0,3.0,Food In,chilled-donnelly-traditional coleslaw-2 kg,Kg
+2025-03-24,545,341,341,5.0,20.0,4.0,Food In,Chilled-Premier-Finely Diced Chicken-5 KG,Kg
+2025-03-28,8150,60,60,186.3,7.8246,1.0,Food In,Ambient-Nestle-KitKat 9 Fingers-186.3g,g
+2025-03-28,8150,65,65,81.0,3.888,4.0,Food In,AMBIENT-NESTLE-KIT KAT MINI EGGS-12X81g,g
+2025-03-28,8150,60,60,1.357,9.499,7.0,Food In,Ambient-Nestle-Kit Kat & Friends Biscuit Box(69 bars)-1.357kg,Kg
+2025-03-28,8150,60,60,166.0,13.28,4.0,Food In,Ambient-Nestle-KitKat-4 Pack-166g,g
+2025-03-05,7252,412,412,460.0,24.84,3.0,Food In,Chilled - ABP - Beef Mince - 460g,g
+2025-03-10,6741,18,18,390.0,24.96,8.0,Food In,Ambient-Brennans-Wholemeal Half Sliced Pan-390g,g
+2025-03-13,315,361,361,90.0,4.32,6.0,Food In,Chilled- BF- Just Add Smoked Shredded Ham- 90g,g
+2025-03-14,312,97,97,96.0,200.256,149.0,Food In,Chilled-Boursin-Garlic & Herbs Cheese (16gx6)-96 G,g
+2025-03-18,4274,620,620,130.0,93.6,60.0,Food In,Ambient-Walkers-Wotsits Crunchy-Extra Flamin Hot-130g,g
+2025-03-19,288,92,92,61.0,9.516,13.0,Food In,Chilled-Dairylea-Cheese & Crackers + Cadbury Fingers-61 G,g
+2025-03-21,392,620,620,150.0,86.4,72.0,Food In,Ambient-Tesco-tortilla-chips-sour-cream&zingy-lime-150g,g
+2025-03-24,6741,18,18,800.0,2.4,1.0,Food In,Ambient-Brennans- thick toast family pan-800g,g
+2025-03-25,545,423,423,2.5,2.5,1.0,Food In,Chilled-Smartbuy-Cocktail -Sausages-2.5kg,Kg
+2025-03-27,288,98,98,140.0,58.24,52.0,Food In,Chilled - Philadelphia - Intense Garlic and Herb - 140g,g
+2025-03-03,167,750,750,750.0,472.5,45.0,Food In,Frozen-tesco-salt and pepper ridge chips-750g,g
+2025-03-03,6752,797,797,5.0,3000.0,600.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-03-04,545,123,123,500.0,5.0,1.0,Food In,Chilled-Champion-Milk-500 ML,g
+2025-03-04,6974,588,588,163.0,187.776,64.0,Food In,Chilled-Quicksters-BBQ Rib Burger-163 G,g
+2025-03-06,545,760,760,2.0,6.0,3.0,Food In,Chilled-DVP-Red Onion Peeled-2KG,Kg
+2025-03-07,220,139,139,100.0,180.0,150.0,Food In,Ambient-la mole-mandorla-(almond pasties)-100g,g
+2025-03-09,1374,785,785,2.5,45.0,18.0,Food In,Ambient - Hello Fresh - Cucumbers - 2.5 kg,Kg
+2025-03-07,312,186,186,330.0,736.56,93.0,Food In,Chilled-Centra-Cranberry Juice Drink-330 ML,g
+2025-03-10,57,71,71,350.0,4.9,1.0,Food In,Ambient - Deluxe - Bolognese pasta sauce - 350g,g
+2025-03-11,343,191,191,750.0,225.0,50.0,Food In,Ambient-starbucks-chilled coffee-uht-750ml,g
+2025-03-12,309,116,116,1.0,100.0,100.0,Food In,Chilled-SuperValu - Protein -Milk 1L,Kg
+2025-03-12,7441,297,297,200.0,28.8,24.0,Food In,Ambient-O'Hanlon Herbs-Parsley Pots-200g,g
+2025-03-12,545,757,757,2.5,7.5,3.0,Food In,Chilled-Doyles VP-Ratatouille Mix-2.5 KG,Kg
+2025-03-13,545,757,757,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Ratatouille Mix-2.5 KG,Kg
+2025-03-13,7086,36,36,370.0,279.72,54.0,Food In,Ambient-Poncho8- 6 Thai Style Wraps-370g,g
+2025-03-14,343,616,616,85.0,14.96,22.0,Food In,Ambient-Proper- Chips -Sour-Cream and Chive - 85g,g
+2025-03-18,4274,55,55,76.0,21.888,12.0,Food In,Ambient-Tesco-Wheat Biscuits-76g,g
+2025-03-18,4274,698,698,420.0,0.84,2.0,Food In,Ambient - Tesco - Baked Beans In Tomato Sauce (HDI) - 420g,g
+2025-03-18,545,570,570,500.0,40.0,20.0,Food In,Chilled-Willowbrook-Romaine Cos Lettuce-500 G,g
+2025-03-19,378,254,254,150.0,4.5,1.0,Food In,Chilled - Avocado - Ripe & Ready To Eat - 150g,g
+2025-03-19,39,516,516,400.0,22.4,14.0,Food In,Chilled-Supervalu-Ham & Mushroom Tagliatelle-400 g,g
+2025-03-19,545,803,803,450.0,1.8,1.0,Food In,Chilled-Kennedys-Vine Tomatoes-450 G,g
+2025-03-20,253,803,803,250.0,213.0,71.0,Food In,Ambient-Oaklands-Snack Tomatoes-250g,g
+2025-03-24,545,341,341,5.0,530.0,106.0,Food In,Chilled-Premier-Chicken -Wings Mids & Primes-5 kg,Default
+2025-03-25,168,255,255,12.7,368.2999999999999,29.0,Food In,Ambient-Fyffes-Bananas-12.7kg,Kg
+2025-03-26,6785,386,386,200.0,34.0,17.0,Food In,CHILLED-TESCO-SPANSH MEAT & CHEESE SELECTION-200 G,g
+2025-03-27,1708,797,797,2.0,4032.0,2016.0,Food In,Ambient-Meade Potato-Organic Potatos-2kg,Kg
+2025-03-27,326,428,428,180.0,12.96,72.0,Food In,Chilled-Lunter-Natural Tofu-180 G,g
+2025-03-28,8150,70,70,42.0,15.12,10.0,Food In,Ambient - Rowntree's - Jelly Tots Small Bag - 42g,g
+2025-04-01,645,736,736,320.0,245.76,48.0,Food In,Frozen-orogel-mix of frozen vegetables-320g,g
+2025-04-01,7441,778,778,10.0,600.0,60.0,Food In,Ambient-Begleys-Carrots-10kg,Kg
+2025-03-03,378,18,18,800.0,3.2,1.0,Food In,Ambient - Tesco - Sliced White Bread - 800g,g
+2025-03-03,378,538,538,400.0,6.4,4.0,Food In,Chilled-Carrols-Tagliatelle Bolognese-400 G,g
+2025-03-04,545,423,423,454.0,4.54,1.0,Food In,Chilled - Clonakilty - 16 pork Sausages - 454g,g
+2025-03-04,545,95,95,560.0,1.12,1.0,Food In,Chilled-Gleneely-Blue Stilton Cheese-560 G,g
+2025-03-04,545,423,423,1.0,2.0,2.0,Food In,chilled-hafners-pork sausagemeat-1kg,Default
+2025-03-06,39,530,530,450.0,5.4,2.0,Food In,Chilled-Centra-Slow Cooked Beef Ragu + Pappardelle Pasta-450 G,g
+2025-03-06,39,530,530,450.0,2.7,1.0,Food In,Chilled-Centra-Slow Cooked Beef Ragu + Pappardelle Pasta-450 G,g
+2025-03-18,545,91,91,200.0,4.2,1.0,Food In,Chilled-Wexford-White Cheddar Cheese-200 G,g
+2025-03-18,545,97,97,200.0,2.8,2.0,Food In,Chilled-Gleneely-Brie -Cheese-200 g,g
+2025-03-18,545,91,91,200.0,0.2,1.0,Food In,Chilled-Kilmeaden-Red Cheddar Sliced-200 G,g
+2025-03-18,545,530,530,2.5,7.5,3.0,Food In,Chilled-From The Farm-Beef Lasagne-2.5 KG,Kg
+2025-03-18,545,423,423,2.5,10.0,4.0,Food In,Chilled-Smartbuy-Cocktail -Sausages-2.5kg,Kg
+2025-03-18,545,344,344,3.3,3.3,1.0,Food In,Chilled-Rosie & Jim-Tortilla Wraps Chicken-3.3 KG,Kg
+2025-03-20,545,207,207,500.0,0.5,1.0,Food In,chilled-smoked salmon trimmings-500 g,g
+2025-03-27,545,423,423,1.0,1.0,1.0,Food In,Chilled-Loughnanes-Pork Sausagemeat-1 kg,Kg
+2025-03-27,545,5,5,500.0,2.5,1.0,Food In,Chilled-Kennedys-Red-Grapes-500g,g
+2025-03-27,545,5,5,500.0,2.5,1.0,Food In,Chilled-Kennedys-Red-Grapes-500g,g
+2025-03-27,545,337,337,1.0,4.0,1.0,Food In,CHILLED-ROSIE & JIM-CHICKEN GOUJONS-1 KG,Kg
+2025-03-27,545,94,94,2.0,2.0,1.0,Food In,CHILLED - KERRYMAID - PIZZA GRATE MOZZARELLA - 2KG,Kg
+2025-03-28,4274,620,620,140.0,126.0,50.0,Food In,Ambient-Mitsuba-Streetfood Snackmix-Thai Green Curry Style-140g,g
+2025-03-31,6741,18,18,400.0,57.6,18.0,Food In,Ambient-Brennans-Half pan-400g,g
+2025-03-31,6741,18,18,600.0,16.8,7.0,Food In,Ambient-brennans-white high in fibre bread- 600g,g
+2025-03-31,6741,18,18,400.0,6.0,3.0,Food In,Ambient - Brennans - Bake House Sourdough - 400g,g
+2025-04-01,312,358,358,88.0,2.464,2.0,Food In,Chilled-Tesco-Iberico Cheese & Serrano Rollitos-88 G,g
+2025-03-03,378,754,754,75.0,0.675,1.0,Food In,Chilled - JDM - Ginger Puree - 75g,g
+2025-03-03,378,252,252,800.0,80.0,5.0,Food In,Ambient - Tesco - Fresh Fruit - Apples - 800g,g
+2025-03-03,378,133,133,744.0,2.976,1.0,Food In,Chilled - Muller Corner - Vanilla and Chocolate 6's - 744g,g
+2025-03-03,378,797,797,1.0,120.0,8.0,Food In,Ambient - Tesco - Irish Seasonal Potatoes - 1kg,Kg
+2025-03-03,378,110,110,454.0,10.896,1.0,Food In,Chilled - Dairygold - Lighter butter - 454g,g
+2025-03-03,312,188,188,850.0,5.1,1.0,Food In,Chilled-Tropicana-Multivit Smooth Orange Juice-850 ML,g
+2025-03-03,392,70,70,200.0,216.0,90.0,Food In,Ambient-Dunnes Stores-Marshmellows-200g,g
+2025-03-04,545,117,117,135.0,1.485,1.0,Food In,Chilled-Killowen-Strawberry Yoghurt-135 G,g
+2025-03-04,545,576,576,250.0,0.5,1.0,Food In,Chilled-Willowbrook-Spinach & Baby Leaf-250 G,g
+2025-03-04,545,574,574,1.0,4.0,4.0,Food In,chilled-iceberg lettuce shredded-1 kg ,Default
+2025-03-04,545,163,163,200.0,1.0,1.0,Food In,Chilled-Nomadic-Chocolate Protein Pudding-200 G,g
+2025-03-04,545,163,163,180.0,0.18,1.0,Food In,Chilled-Muller-Rice Vanilla Protein Dessert-180 G,g
+2025-03-04,545,341,341,5.0,10.0,2.0,Food In,chilled-premier-chicken fillet-5 kg,Default
+2025-03-04,545,571,571,75.0,0.6,1.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-04,545,117,117,169.0,0.507,1.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-04,545,782,782,500.0,4.0,2.0,Food In,Chilled-Jogcham-Green Chillies-500 G,g
+2025-03-04,545,117,117,500.0,9.0,6.0,Food In,Chilled-Yoplait-Raspberry Yoghurt (125gx4)-500 G,g
+2025-03-04,545,523,523,400.0,0.8,1.0,Food In,CHILLED-CARROLS-PENNE CHICKEN-ARRABIATA-400 G,g
+2025-03-06,39,540,540,450.0,4.5,1.0,Food In,Chilled-Supervalu-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-06,39,532,532,450.0,4.5,1.0,Food In,Chilled-Supervalu-Teriyaki Beef Noodle Bowl-450 G,g
+2025-03-06,39,522,522,450.0,13.5,5.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,522,522,450.0,8.1,3.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,522,522,450.0,8.1,3.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,673,673,400.0,1.2,1.0,Food In,chilled-supervalu-cream of mushroom souo-400 g,g
+2025-03-06,39,499,499,450.0,13.5,5.0,Food In,Chilled-Supervalu-Salmon Penne Pasta-450 G,g
+2025-03-06,39,499,499,450.0,5.4,2.0,Food In,Chilled-Supervalu-Salmon Penne Pasta-450 G,g
+2025-03-06,39,499,499,450.0,4.95,1.0,Food In,Chilled-Supervalu-Salmon Penne Pasta-450 G,g
+2025-03-06,39,499,499,450.0,2.7,1.0,Food In,Chilled-Supervalu-Salmon Penne Pasta-450 G,g
+2025-03-06,214,117,117,500.0,2.5,1.0,Food In,Chilled - Tesco Raspberry Yogurts $ Pack - 500g,g
+2025-03-06,214,117,117,500.0,3.0,1.0,Food In,Chilled - Tesco - Greek Style Strawberry Yogurts - 500g,g
+2025-03-06,214,117,117,125.0,0.5,1.0,Food In,Chilled - Tesco - Mixed Seeds Yogurts - 125g,g
+2025-03-06,214,117,117,500.0,3.0,1.0,Food In,Chilled - Dunnes Stores - Red Berry Yogurt - 4 x 125g - 500g,g
+2025-03-06,214,117,117,125.0,33.0,11.0,Food In,Chilled - Irish Yogurt - Strawberry & Peach - 125g,g
+2025-03-06,214,117,117,500.0,3.0,1.0,Food In,Chilled- Dunnes Stores- West Cork Made- Natural Yogurt- (4x125g)- 500g,g
+2025-03-10,378,149,149,900.0,1.8,1.0,Food In,Ambient - Finsbury Foods - Celebration Cake Bluey - 900g,g
+2025-03-10,326,566,566,500.0,17.5,35.0,Food In,Ambient-De Cecco- Spaghettini No11-500g,g
+2025-03-10,326,70,70,1000.0,1.0,1.0,Food In,Ambient-Mini Marshmallows white & pink-1000g,g
+2025-03-10,326,45,45,100.0,1.3,13.0,Food In,Ambient-Kelloggs-Frosties-100g,g
+2025-03-11,312,149,149,200.0,4.0,2.0,Food In,Ambient - Mr. Kipling - 6 Viennese Whirls - 200g,g
+2025-03-12,7983,648,648,0.09,108.0,100.0,Food In,ESF - Pot Noodle - Chicken and Mushroom - 90g,Kg
+2025-03-12,7983,670,670,0.41,1264.4399999999998,257.0,Food In,ESF - Lustre - Canned Peaches - 410g,Kg
+2025-03-12,7983,633,633,0.45,324.0,60.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-12,7983,651,651,0.528,3041.28,480.0,Food In,ESF - Knorr - Oxtail Instant Soup - 12 pack,Kg
+2025-03-12,7983,662,662,1.0,2400.0,160.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-03-12,7983,657,657,0.42,1018.08,101.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-03-12,7983,653,653,0.415,956.16,96.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-12,7983,658,658,0.326,1290.96,330.0,Food In,ESF - Lustre - Corn - 326g,Kg
+2025-03-12,7983,644,644,0.43,701.76,136.0,Food In,ESF - Newforge - Marmalade - 430g,Kg
+2025-03-12,7983,643,643,0.29,591.5999999999999,170.0,Food In,ESF - Newforge - Strawberry Jam - 290g,Kg
+2025-03-12,7983,635,635,0.43,240.8,40.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-12,7983,640,640,0.2,272.40000000000003,227.0,Food In,ESF - Maxwell House - Coffee Granules - 200g,Kg
+2025-03-12,7983,639,639,0.5,588.0,196.0,Food In,ESF - Ragu - Original Smooth Bolognese Sauce - 500g,Default
+2025-03-12,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-12,7983,647,647,0.5,800.0,80.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-03-18,7983,648,648,0.09,108.0,100.0,Food In,ESF - Pot Noodle - Chicken and Mushroom - 90g,Kg
+2025-03-18,7983,633,633,0.45,324.0,60.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-18,7983,662,662,1.0,1200.0,80.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-03-18,7983,653,653,0.415,956.16,96.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-18,7983,644,644,0.43,701.76,136.0,Food In,ESF - Newforge - Marmalade - 430g,Kg
+2025-03-18,7983,643,643,0.29,591.5999999999999,170.0,Food In,ESF - Newforge - Strawberry Jam - 290g,Kg
+2025-03-18,7983,635,635,0.43,120.4,20.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-18,7983,640,640,0.2,193.2,161.0,Food In,ESF - Maxwell House - Coffee Granules - 200g,Kg
+2025-03-18,7983,639,639,0.5,588.0,196.0,Food In,ESF - Ragu - Original Smooth Bolognese Sauce - 500g,Default
+2025-03-18,7983,647,647,0.5,290.0,29.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-03-18,545,262,262,2.0,2.0,1.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-18,545,521,521,2.5,5.0,2.0,Food In,chilled-from the farm-chiicken curry-2.5 kg,Default
+2025-03-18,545,603,603,130.0,0.91,1.0,Food In,Chilled-Sol-Sweet Pepper Hummus + Mini Pita Flat Bread-130 G,g
+2025-03-18,545,407,407,2.724,2.724,1.0,Food In,chilled-butchers-gourmet burgers-2.724 kg,Kg
+2025-03-18,545,136,136,175.0,0.175,1.0,Food In,Chilled-Everest-Strawberry Granola Protein Yogurt-175 G,g
+2025-03-18,545,341,341,5.0,5.0,1.0,Food In,Chilled-Kappersfoods-Fresh Inner Fillet Chicken-5 KG,Kg
+2025-03-18,545,340,340,10.0,40.0,4.0,Food In,chilled-sv-chicken legs-10 kg,Kg
+2025-03-18,545,110,110,454.0,1.816,2.0,Food In,CHILLED - AVONMORE - BUTTER - 454G,g
+2025-03-18,545,681,681,400.0,6.4,2.0,Food In,Chilled- Avonmore- Wholesome Chicken & Veg- 400g,g
+2025-03-18,545,681,681,400.0,3.2,1.0,Food In,Chilled- Avonmore- Wholesome Chicken & Veg- 400g,g
+2025-03-18,545,417,417,199.0,0.199,1.0,Food In,Chilled-Denny-White Pudding-199 G,g
+2025-03-18,545,351,351,1.0,1.0,1.0,Food In,Chilled-McKeown-Roast Chicken Strips-1 KG,Kg
+2025-03-18,545,196,196,420.0,4.62,1.0,Food In,Chilled-Innocent-Juicy Water Pineapple & Orange-420 ML,g
+2025-03-18,545,196,196,420.0,10.08,2.0,Food In,Chilled-Innocent-Juicy Water Pineapple & Orange-420 ML,g
+2025-03-18,545,603,603,500.0,1.0,1.0,Food In,chilled-happy pear-sweet beet hummus-500 g,g
+2025-03-18,545,760,760,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Onion White Dices-2 KG,Kg
+2025-03-18,545,415,415,500.0,6.0,1.0,Food In,Chilled-Dew Valley-Maple Cured Bacon-500 G,g
+2025-03-18,545,415,415,200.0,3.0,1.0,Food In,Chilled-Daybreak-Rashers-200 g,g
+2025-03-18,545,163,163,200.0,2.8,1.0,Food In,Chilled-Everest-Vanilla Salted Caramel Protein Pouch-200 G,g
+2025-03-18,545,523,523,400.0,3.2,2.0,Food In,CHILLED-CARROLS-PENNE CHICKEN-ARRABIATA-400 G,g
+2025-03-18,545,761,761,1.6,11.2,7.0,Food In,Chilled-Doyles VP-Potato Fondant Large-1.6 KG,Kg
+2025-03-20,545,51,51,1.0,1.0,1.0,Food In,Chilled-Newgrange-Fresh Porridge-1 kg,Kg
+2025-03-20,545,117,117,136.0,1.496,1.0,Food In,Chilled-Muller- Corner Strawberry Yoghurt-136g,g
+2025-03-20,545,351,351,100.0,1.0,1.0,Food In,Chilled-Carrolls-Honey & Chilli Chicken Pieces-100 G,g
+2025-03-20,545,234,234,1.2,1.2,1.0,Food In,Chilled-Kennedys-Grapefruit Ruby-1.2 KG,Kg
+2025-03-20,545,183,183,2.0,4.0,2.0,Food In,Chilled-Strawberry -Smoothie -2L,Default
+2025-03-20,545,133,133,500.0,2.5,1.0,Food In,Chilled-Yoplait-Peach & Apricot Yoghurts (125gx4)-500 G,g
+2025-03-20,545,570,570,450.0,1.35,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-20,545,133,133,160.0,5.76,3.0,Food In,Chilled-Muller Light-Mixed Yoghurts-160 g,g
+2025-03-20,545,574,574,1.0,4.0,4.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-20,545,117,117,165.0,0.825,1.0,Food In,Chilled-Activia-Vanilla & Granola Yoghurt-165 G,g
+2025-03-20,545,574,574,100.0,1.4,2.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-20,545,757,757,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Carrot & Turnip Diced-2.5 KG,Kg
+2025-03-20,545,523,523,400.0,1.2,1.0,Food In,CHILLED-CARROLS-PENNE CHICKEN-ARRABIATA-400 G,g
+2025-03-20,545,675,675,2.0,12.0,6.0,Food In,CHILLED-NEWGRANGE-CHICKEN & VEGETABLE SOUP-2 KG,Kg
+2025-03-20,545,675,675,2.0,22.0,11.0,Food In,CHILLED-NEWGRANGE-CHICKEN & VEGETABLE SOUP-2 KG,Kg
+2025-03-20,545,746,746,2.5,15.0,6.0,Food In,"Chilled-Doyles VP-Cauliflower Florettes-2,5 KG",Kg
+2025-03-24,7983,650,650,0.5,1008.0,84.0,Food In,ESF - Roma - Easy Cook Rice - 500g,Kg
+2025-03-24,7983,633,633,0.45,324.0,60.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-24,7983,651,651,0.528,1520.64,240.0,Food In,ESF - Knorr - Oxtail Instant Soup - 12 pack,Kg
+2025-03-24,7983,662,662,1.0,1200.0,80.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-03-24,7983,657,657,0.42,997.92,99.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-03-24,7983,653,653,0.415,756.9599999999999,76.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-24,7983,658,658,0.326,598.5360000000001,153.0,Food In,ESF - Lustre - Corn - 326g,Kg
+2025-03-24,7983,635,635,0.43,120.4,20.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-24,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-24,7983,647,647,0.5,110.0,11.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-03-24,7108,681,681,400.0,92.8,29.0,Food In,Chilled - Dunnes Stoes - Chunky Moroccan Style Vegetable & Lentil - 400g,g
+2025-03-27,545,114,114,1.0,1.0,1.0,Food In,Chilled-Liquid-Whole Egg-1 KG,Kg
+2025-03-27,545,607,607,100.0,3.0,5.0,Food In,Chilled-Begleys-Pomegranate Seeds-100 G,g
+2025-03-27,545,111,111,1.5,9.0,6.0,Food In,Chilled-Granarolo-Ricotta--1.5kg,Kg
+2025-03-27,545,132,132,150.0,0.6,1.0,Food In,Chilled - Total - Greek Yogurt With Strawberry - 150g,g
+2025-03-27,545,336,336,4.64,4.64,1.0,Food In,Chilled-32-Maryland Chicken-4.64 KG,Kg
+2025-03-27,545,574,574,1.0,2.0,2.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-27,545,258,258,500.0,2.5,1.0,Food In,Chilled-Kennedys-Green Grapes-500 G,g
+2025-03-27,545,258,258,500.0,1.5,1.0,Food In,Chilled-Kennedys-Green Grapes-500 G,g
+2025-03-27,545,676,676,5.0,40.0,8.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-03-27,545,571,571,75.0,1.8,3.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-27,545,757,757,2.5,15.0,6.0,Food In,Chilled-Doyles VP-Carrot & Parsnip Chunky-2.5 KG,Kg
+2025-03-27,545,757,757,2.5,7.5,3.0,Food In,Chilled-Doyles VP-Carrot & Parsnip Chunky-2.5 KG,Kg
+2025-03-27,545,570,570,450.0,0.45,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-27,545,117,117,170.0,1.87,1.0,Food In,CHILLED-MULLER-STRAWBERRY RICE-170 G,g
+2025-03-28,8150,60,60,36.0,11.232,13.0,Food In,AMBIENT-NESTLE-AERO CHOCOLATE BAR-36G,g
+2025-03-28,8150,65,65,70.0,9.24,11.0,Food In,Ambient - Nestle - Aero Peppermint Mini Eggs - 70g,g
+2025-03-28,8150,70,70,108.0,9.072,6.0,Food In,Ambient-Nestle-Aero-Bubble-Bar-4 pack-108g,g
+2025-04-01,312,188,188,850.0,4.25,5.0,Food In,Chilled-Tropicana-Multivit Smooth Orange Juice-850 ML,g
+2025-04-01,7983,633,633,0.45,432.0,80.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-04-01,7983,633,633,0.45,648.0,120.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-04-01,7983,668,668,0.145,650.76,374.0,Food In,ESF - John West - Tuna - 145g,Kg
+2025-04-01,7983,641,641,0.232,222.72,80.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-04-01,7983,636,636,0.43,344.0,80.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-04-01,7983,636,636,0.43,344.0,80.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-04-01,7983,647,647,0.5,2000.0,200.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-04-01,7983,662,662,1.0,1200.0,80.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-04-01,7983,657,657,0.42,1995.84,198.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-04-01,7983,653,653,0.415,1912.32,192.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-04-01,7983,658,658,0.326,645.48,165.0,Food In,ESF - Lustre - Corn - 326g,Kg
+2025-04-01,7983,665,665,0.4,816.0,170.0,Food In,ESF - Sunny South - Original Creamed Rice - 400g,Kg
+2025-04-01,7983,635,635,0.43,1204.0,200.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-04-01,7983,640,640,0.2,386.4,322.0,Food In,ESF - Maxwell House - Coffee Granules - 200g,Kg
+2025-04-01,7983,667,667,0.213,715.68,280.0,Food In,ESF - John West - Pink Salmon - 213g,Kg
+2025-04-01,7983,639,639,0.5,1176.0,392.0,Food In,ESF - Ragu - Original Smooth Bolognese Sauce - 500g,Default
+2025-04-01,7983,634,634,0.5,1260.0,210.0,Food In,ESF - Odlum's - Porridge Oats - 500g,Kg
+2025-04-01,7983,649,649,0.25,468.0,312.0,Food In,ESF - Tilda - Golden Vegetable Pre-Cooked Rice - 250g,Default
+2025-04-01,7983,659,659,0.4,1843.2,384.0,Food In,ESF - Newforge - Chopped Tomatoes - 400g,Kg
+2025-04-01,7983,634,634,0.057,153.216,112.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-03-04,545,419,419,4.92,305.04,62.0,Food In,chilled-bradley-pork loin-4.92 kg,Kg
+2025-03-04,288,92,92,56.5,50.172,74.0,Food In,Chilled-Dairylea-Cheese & Crackers + Mini Oreo-56.5 G,g
+2025-03-05,288,92,92,60.0,174.24,242.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-06,562,178,178,330.0,411.84,52.0,Food In,Ambient-Sprite- Zero Sugar-330ml,g
+2025-03-14,312,97,97,2.3,206.99999999999997,90.0,Food In,Chilled - Taverna Professional - Salad Cheese Cubes Plain - 2.3kg ,Kg
+2025-03-20,288,92,92,60.0,129.6,180.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-28,4274,620,620,140.0,151.2,60.0,Food In,Ambient-Mitsuba-Streetfood Snackmix-Thai Green Curry Style-140g,g
+2025-03-31,6741,18,18,800.0,35.2,11.0,Food In,Ambient-Brennans-Family pan-800g,g
+2025-03-03,7840,497,497,350.0,462.0,220.0,Food In,frozen-unislim-beef ragu with wholewheat pasta-350g,g
+2025-03-03,378,117,117,600.0,0.6,1.0,Food In,Chilled - Tesco - Blueberry Yogurt drink - 6x 100g,g
+2025-03-03,8150,60,60,36.0,77.76,90.0,Food In,AMBIENT-NESTLE-AREO PEPPERMINT BAR-36G,g
+2025-03-03,312,550,550,300.0,288.0,96.0,Food In,Chilled-Cuccina-Spinach & Ricotta Tortelloni-300 G,g
+2025-03-03,312,185,185,1500.0,18.0,2.0,Food In,Chilled - Tropicana - Apple Juice -1.5L,g
+2025-03-03,6974,532,532,808.0,8.888,11.0,Food In,Chilled-Rustlers-Mini Beef Burger (101gx8)-808 G,g
+2025-03-03,392,70,70,200.0,72.0,30.0,Food In,Ambient-Dunnes Stores-Marshmellows-200g,g
+2025-03-04,545,341,341,5.0,5.0,1.0,Food In,Chilled-Premier-Chicken -Wings Mids & Primes-5 kg,Default
+2025-03-06,39,540,540,450.0,10.35,1.0,Food In,Chilled-Supervalu-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-06,214,132,132,500.0,2.0,1.0,Food In,Chilled - Tesco - 4 Greek Style Yogurts - 4x125g,g
+2025-03-07,6974,383,383,750.0,60.0,5.0,Food In,CHILLED - CENTRA - PORK LOIN CHOPS - 750G,g
+2025-03-10,378,267,267,1.0,45.0,5.0,Food In,Ambient - Tesco - Fresh Pineapple - 1kg  ,Kg
+2025-03-10,295,497,497,475.0,285.0,100.0,Food In,Ambient-supervalu-fajita meal kit- 475g,g
+2025-03-10,326,566,566,5.0,20.0,4.0,Food In,Ambient-PastaZara-Penne Pasta-5kg,Kg
+2025-03-11,312,166,166,200.0,192.0,80.0,Food In,Ambient-Mr-kipling jam-tarts-200g,g
+2025-03-12,8022,183,183,750.0,153.0,34.0,Food In,Chilled-Innocent-Recharge Super Smoothie-Veg & Fruits-750g,g
+2025-03-12,7983,641,641,0.232,668.1600000000001,240.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-12,101,797,797,7.5,885.0,118.0,Food In,Ambient-Tesco- Rooster Potatoes Bagged-7.5KG,Kg
+2025-03-12,312,107,107,250.0,102.0,34.0,Food In,Ambient-Cowbelle-Real Dairy Cream in container-250g,g
+2025-03-13,315,372,372,120.0,4.32,3.0,Food In,Chilled-Tesco-Carved-Chicken-Breast-120g,g
+2025-03-14,378,34,34,800.0,4.8,1.0,Food In,Ambient - HOVIS -Sensations  Multiseed  Sliced Bread - 800g,g
+2025-03-18,7983,641,641,0.232,222.72,80.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-18,4274,74,74,105.0,342.72,272.0,Food In,"Ambient-Itsu-Miso (For Dressings, Marinades, Soups)-105g",g
+2025-03-18,545,380,380,500.0,2.5,1.0,Food In,Chilled - Silver Hill - Aromatic Duck Legs - 500g,g
+2025-03-20,545,675,675,2.0,12.0,6.0,Food In,CHILLED-NEWGRANGE-CHICKEN & VEGETABLE SOUP-2 KG,Kg
+2025-03-20,545,576,576,250.0,3.75,3.0,Food In,Chilled-Willowbrook-Spinach & Baby Leaf-250 G,g
+2025-03-24,7983,668,668,0.145,650.76,374.0,Food In,ESF - John West - Tuna - 145g,Kg
+2025-03-24,6974,587,587,158.0,60.672,96.0,Food In,CHILLED-RUSTLERS-CHICKEN SUB SANDWICH-158 G,g
+2025-03-24,7108,680,680,400.0,396.8,124.0,Food In,CHILLED-TASTY-FRESH SOUP CARROT&CORIANDER-400g,g
+2025-03-24,57,303,303,900.0,118.8,22.0,Food In,AMBIENT-BLENDERS-CAESAR DRESSING-900G,g
+2025-03-26,7108,675,675,280.0,60.48,36.0,Food In,Chilled-Soupreme-Chicken & Vegetable Soup-280 G,g
+2025-03-26,7108,677,677,280.0,48.72,29.0,Food In,Chilled-Soupreme-Vegetable Soup-280 G,g
+2025-03-26,7108,676,676,280.0,72.24,43.0,Food In,Chilled-Soupreme-Tomato & Basil Soup-280 G,g
+2025-03-26,6974,500,500,146.0,23.36,20.0,Food In,Chilled-Rustlers-Classic Hod Dog-Heat&Enjoy-146g,g
+2025-03-27,545,136,136,190.0,0.95,1.0,Food In,Chilled-Nomadic-Smooth Caramel + Granola-190 G,g
+2025-03-28,8150,60,60,36.0,12.96,15.0,Food In,AMBIENT-NESTLE-AREO PEPPERMINT BAR-36G,g
+2025-03-31,2385,497,497,450.0,64.8,8.0,Food In,Frozen - Wheyhey - Protein Power BBQ Chicken Pasta - 450g,g
+2025-04-01,312,386,386,200.0,20.0,10.0,Food In,CHILLED-TESCO-SPANSH MEAT & CHEESE SELECTION-200 G,g
+2025-04-01,7983,641,641,0.232,668.1600000000001,240.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-04-01,312,166,166,200.0,132.0,55.0,Food In,Ambient-Mr-kipling jam-tarts-200g,g
+2025-04-01,8150,42,42,700.0,44.8,8.0,Food In,Ambient-Nestle-Cheerios Multigrain-700g,g
+2025-04-01,312,224,224,170.0,13.6,10.0,Food In,Chilled-Atlantic Treasures-Mixed Peppercorn Smoked Mackerel-170 G,g
+2025-03-04,545,423,423,1.0,1.0,1.0,Food In,Chilled-Loughnanes-pork-apple-sausage-1kg,Kg
+2025-03-04,545,423,423,2.5,2.5,1.0,Food In,Chilled- Musgrave smartbuy- Cocktail Sausages- 2.5kg,Kg
+2025-03-04,545,211,211,3.0,3.0,1.0,Food In,CHILLED-Fish fillets- Macarel-3kg,Kg
+2025-03-06,39,530,530,400.0,6.0,1.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-06,39,539,539,500.0,3.0,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-06,39,345,345,1.2,1.2,1.0,Food In,chilled-supervalu-cottage pie-1.2 kg,Kg
+2025-03-06,39,530,530,1.0,1.0,1.0,Food In,Chilled-Supervalu-Beef Lasagne-1 KG,Kg
+2025-03-06,39,530,530,400.0,7.2,3.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-06,39,539,539,500.0,3.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-06,39,345,345,450.0,2.7,1.0,Food In,CHILLED-CENTRA-COTTAGE PIE-450 G,g
+2025-03-06,39,530,530,1.0,1.0,1.0,Food In,Chilled-Supervalu-Beef Lasagne-1 KG,Kg
+2025-03-10,545,91,91,300.0,0.6,1.0,Food In,Chilled-Cooleeney-Daru Hard Cheese-300 G,g
+2025-03-10,545,289,289,80.0,0.56,1.0,Food In,Chilled-McCormack-Lemongrass-80 G,g
+2025-03-10,545,530,530,400.0,6.4,4.0,Food In,Chilled-Good Food-Spaghetti Bolognese-400 G,g
+2025-03-21,29,228,228,100.0,1.1,1.0,Food In,Chilled-Good's of Cork-Defrosted Smoked Salmon-100 G,g
+2025-03-04,545,571,571,250.0,1.0,1.0,Food In,chilled-seasonal fare-baby mixed leaf salad-250 g,g
+2025-03-04,545,32,32,400.0,0.4,1.0,Food In,chilled-m&m-breadcrumbs-400 g,g
+2025-03-04,545,777,777,1.0,1.0,1.0,Food In,CHILLED-McCORMACK-PAK CHOI-1 KG,Kg
+2025-03-04,545,252,252,4.5,4.5,1.0,Food In,CHILLED-SEASONAL FARE-PINK LADY APPLES-4.5 KG,Kg
+2025-03-04,545,263,263,12.0,12.0,1.0,Food In,CHILLED-SEASONAL FARE-ORANGES-12 KG,Kg
+2025-03-04,545,261,261,1.0,2.0,2.0,Food In,Chilled-Seasonal Fare-Cantaloupe Melon-1 KG,Kg
+2025-03-04,545,341,341,5.0,20.0,4.0,Food In,chilled-premier-chicken fillet-5 kg,Default
+2025-03-04,545,575,575,1.0,3.0,3.0,Food In,chilled-tuna salad-1 kg,Kg
+2025-03-04,545,258,258,500.0,3.0,2.0,Food In,Chilled-Kennedys-Green Grapes-500 G,g
+2025-03-04,545,763,763,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Parsnip Chunky-2.5 KG,Kg
+2025-03-04,545,570,570,450.0,2.25,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-04,545,796,796,400.0,0.8,1.0,Food In,Chilled-Green-chilli-peppers-400g,g
+2025-03-04,545,234,234,125.0,0.375,1.0,Food In,Chilled-Kennedys-Blueberry-125 G,g
+2025-03-04,545,572,572,1.0,1.0,1.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-04,545,266,266,600.0,4.8,2.0,Food In,Chilled-Kennedys-Pears-600 G,g
+2025-03-04,545,572,572,1.0,1.0,1.0,Food In,chilled-donnelly-beetroot & grain salad-1 kg,Default
+2025-03-04,545,577,577,1.0,1.0,1.0,Food In,chilled-o egg-pasteurised whole egg-1 kg,Kg
+2025-03-04,545,746,746,2.0,4.0,2.0,Food In,Chilled-Global Fruit-Cauliflower prepared-2KG,Kg
+2025-03-04,545,737,737,2.0,4.0,2.0,Food In,Chilled-Doyles VP-Leeks Sliced-2 KG,Kg
+2025-03-06,39,540,540,450.0,2.7,1.0,Food In,Chilled-Supervalu-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-06,39,522,522,450.0,6.75,3.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,522,522,450.0,1.35,1.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,771,771,500.0,6.0,2.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-06,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-06,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-06,39,744,744,375.0,2.25,1.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-06,39,497,497,400.0,0.8,1.0,Food In,Chilled-clean cut-beef stroganoff with rice-400g,g
+2025-03-06,39,10,10,400.0,6.4,4.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-06,39,502,502,400.0,7.2,3.0,Food In,Chilled-Fueld Food-Chicken Tikka Masala + Brown Rice-400 G,g
+2025-03-06,39,503,503,400.0,3.6,1.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-06,39,502,502,400.0,31.2,13.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-06,39,503,503,450.0,13.5,5.0,Food In,Chilled-Centra-Chilli Beef-450 G,g
+2025-03-06,39,503,503,450.0,2.7,1.0,Food In,Chilled-Centra-Chilli Beef-450 G,g
+2025-03-06,39,522,522,450.0,6.75,3.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,540,540,450.0,2.7,1.0,Food In,Chilled-Supervalu-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-06,39,761,761,500.0,2.5,1.0,Food In,Chilled-Supervalu-Potato Gratin-500 G,g
+2025-03-06,39,503,503,600.0,1.2,1.0,Food In,Chilled-Good Food-Beef Dinner-600 G,g
+2025-03-06,39,522,522,450.0,1.35,1.0,Food In,Chilled-Supervalu-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-06,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-06,39,771,771,500.0,3.0,1.0,Food In,Chilled-Supervalu-Mashed Turnip-500 G,g
+2025-03-06,39,744,744,375.0,2.25,1.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-06,39,497,497,400.0,2.0,1.0,Food In,Chilled-clean cut-beef stroganoff with rice-400g,g
+2025-03-06,39,771,771,400.0,2.4,1.0,Food In,chilled-supervalu-mashed turnip-400 g,g
+2025-03-06,39,522,522,450.0,2.7,1.0,Food In,Chilled-Centra-Chicken Tikka Masala + Basmati Rice-450 G,g
+2025-03-06,39,10,10,400.0,7.2,3.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-06,39,502,502,400.0,7.2,3.0,Food In,Chilled-Fueld Food-Chicken Tikka Masala + Brown Rice-400 G,g
+2025-03-06,39,503,503,600.0,0.6,1.0,Food In,Chilled-Supervalu-Beef Dinner-600 G,g
+2025-03-06,39,503,503,400.0,4.8,2.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-06,39,502,502,400.0,33.6,14.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-06,39,503,503,450.0,2.7,1.0,Food In,Chilled-Centra-Chilli Beef-450 G,g
+2025-03-06,39,503,503,450.0,13.5,5.0,Food In,Chilled-Centra-Chilli Beef-450 G,g
+2025-03-10,378,117,117,169.0,4.732,7.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-10,378,116,116,1.0,12.0,1.0,Food In,Chilled - Glenisk - Goats milk - 1ltr,Kg
+2025-03-10,378,497,497,400.0,1.6,1.0,Food In,Chilled - Super Power - Slow Cooked Beef with Baby Potatoes - 400g,g
+2025-03-10,378,156,156,75.0,0.45,1.0,Food In,CHILLED-CADBURY-FLAKE DESSERT-75 G,g
+2025-03-10,378,497,497,400.0,19.2,8.0,Food In,Chilled - Purepower - Chicken & Stuffing Fries Ready Meal - 400g,g
+2025-03-10,6840,777,777,10.0,300.0,30.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-10,545,341,341,5.0,10.0,2.0,Food In,CHILLED-CALIBRA-CHICKEN FILLET-5 KG,Kg
+2025-03-10,545,137,137,160.0,1.12,1.0,Food In,Chilled-GetPro-Vanilla Protein Yoghurt-160 G,g
+2025-03-10,545,252,252,4.5,4.5,1.0,Food In,CHILLED-SEASONAL FARE-PINK LADY APPLES-4.5 KG,Kg
+2025-03-10,545,570,570,450.0,0.45,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-10,545,117,117,135.0,0.135,1.0,Food In,Chilled-Killowen-Triple Berry Yoghurt-135 G,g
+2025-03-10,545,234,234,125.0,0.375,1.0,Food In,Chilled-Kennedys-Blueberry-125 G,g
+2025-03-10,545,797,797,400.0,0.4,1.0,Food In,Chilled-Kennedys-Baby Potatoes-400 G,g
+2025-03-10,545,675,675,5.0,30.0,6.0,Food In,Chilled-Newgrange-Spiced Pumpkin Chicken & Coconut Soup-5 Kg,Kg
+2025-03-10,545,675,675,5.0,5.0,1.0,Food In,Chilled-Newgrange-Spiced Pumpkin Chicken & Coconut Soup-5 Kg,Kg
+2025-03-10,545,761,761,2.0,6.0,3.0,Food In,CHILLED-PEKA-POTATO GRATIN-2KG,Kg
+2025-03-10,545,351,351,100.0,0.7,1.0,Food In,Chilled-Carrolls-Roast Chicken Pieces-100 G,g
+2025-03-10,545,234,234,1.2,2.4,2.0,Food In,Chilled-Kennedys-Grapefruit Ruby-1.2 KG,Kg
+2025-03-10,545,676,676,5.0,20.0,4.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-03-10,545,676,676,5.0,35.0,7.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-03-10,545,785,785,300.0,1.8,1.0,Food In,chilled-seasonal fare-cucumber-300 g,g
+2025-03-10,545,571,571,75.0,0.3,1.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-10,545,370,370,5.0,10.0,2.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-03-10,545,516,516,400.0,1.6,1.0,Food In,Chilled-Good Food-Spaghetti Carbonara-400 G,g
+2025-03-10,545,574,574,2.0,10.0,5.0,Food In,chilled-donnelly-traditional coleslaw-2 kg,Kg
+2025-03-10,545,574,574,1.0,4.0,4.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-10,545,574,574,100.0,1.0,1.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-10,545,574,574,100.0,0.6,1.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-10,545,351,351,2.5,5.0,2.0,Food In,Chilled-McKeown-Cooked Roast Chicken Strips-2.5 KG,Kg
+2025-03-10,545,765,765,2.0,12.0,6.0,Food In,Chilled-Doyles VP-Green Peppers Sliced-2 KG,Kg
+2025-03-10,545,757,757,2.5,10.0,4.0,Food In,CHILLED-RED COLESLAW-2.5 KG,Default
+2025-03-10,545,791,791,1.0,1.0,1.0,Food In,Chilled-Garryhinch-Wild Mix Mushrooms-1 KG,Kg
+2025-03-11,42,789,789,3.0,15.0,5.0,Food In,Ambient-Beechlawn Organic-Fresk Kale-3 Kg,Kg
+2025-03-11,42,778,778,2.0,2.0,1.0,Food In,Ambient-Beechlawn Organic Farm- Loose Carrot-2 Kg,Kg
+2025-03-11,42,794,794,3.0,3.0,1.0,Food In,Ambient - Beechlawn - Organic Parsnip - 3kg,Kg
+2025-03-14,6974,382,382,400.0,17.6,4.0,Food In,Chilled - Super Valu - Irish Stewing Beef - 400g,g
+2025-03-14,6974,407,407,1.7,6.8,2.0,Food In,Chilled - Kepak - 12 Ribeye Beef Burger 5 0z - 1.7kg,Kg
+2025-03-14,6974,375,375,390.0,1.56,1.0,Food In,Chilled - Super Valu - Lamb Chops - 390g,g
+2025-03-20,8149,616,616,156.0,54.288,29.0,Food In,Ambient- Snackrite- Monster Claws- Hot & Spicy Flavour- 156g,g
+2025-04-01,208,778,778,1.0,20.0,20.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-04-01,208,794,794,1.0,20.0,20.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-04-01,208,794,794,1.0,20.0,20.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-04-01,208,778,778,20.0,380.0,19.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-04-01,208,794,794,20.0,200.0,10.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-31,326,186,186,750.0,31.5,7.0,Food In,Ambient-Biona Organic-Cranberry Pure Juice in Glass Bottle-750ml,g
+2025-04-01,8150,43,43,500.0,28.0,4.0,Food In,Ambient-Nestle-Cookie Crisp Cereal-500g,g
+2025-03-21,29,228,228,200.0,1.6,1.0,Food In,Chilled-HelloFresh-Defrosted Salmon Fillets-200 G,g
+2025-03-26,8022,180,180,330.0,818.4,310.0,Food In,Chilled - Innocent - Raspberry Juice - 330ml,g
+2025-03-31,326,620,620,30.0,4.8,8.0,Food In,Ambient-Keoghs-Bigger bite popcorn-30g,g
+2025-03-04,545,574,574,1.0,2.0,2.0,Food In,chilled-iceberg lettuce shredded-1 kg ,Default
+2025-03-04,90,736,736,220.0,359.04,136.0,Food In,Ambient-Sunny South-Sliced Carrots in Glass Jar-220g,g
+2025-03-06,8150,117,117,150.0,342.0,285.0,Food In,Chilled - Nestle - Lindahls Banoffee Pie Yogurt - 150g,g
+2025-03-06,7983,634,634,0.5,1440.0,240.0,Food In,ESF - Odlum's - Porridge Oats - 500g,Kg
+2025-03-06,16,744,744,750.0,262.5,350.0,Food In,Ambient-Feighery - GPP Fresh Irish Cabbage-750g,g
+2025-03-06,39,761,761,500.0,3.0,1.0,Food In,Chilled-Centra-Potato Gratin-500 G,g
+2025-03-06,39,387,387,1.0,1.0,1.0,Food In,Chilled-Supervalu-Cottage Pie-1 KG,Kg
+2025-03-07,170,500,500,300.0,144.0,80.0,Food In,Chilled-Chef Select-Mac & Cheese High Protein-300 G,g
+2025-03-07,312,185,185,1500.0,9.0,6.0,Food In,Chilled - Tropicana - Apple Juice -1.5L,g
+2025-03-10,378,117,117,169.0,8.112,8.0,Food In,Chilled-Nomadic-Strawberry Oats Yoghurt-169 g,g
+2025-03-10,326,760,760,2.5,10.0,1.0,Food In,Ambient - Khanum - Crispy Fried Onion - 2.5kg,Kg
+2025-03-10,295,303,303,250.0,60.0,40.0,Food In,Ambient-newmans own-balsamic-dressing & dip-250ml,g
+2025-03-10,6840,804,804,10.0,500.0,50.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-03-10,545,370,370,15.0,15.0,1.0,Food In,chilled-la rotisserie-marinated chicken-15 kg,Kg
+2025-03-11,42,797,797,10.0,10.0,1.0,Food In,Ambient-Beechlawn Organic Farm-Organic Potatoes Roosters Loose-10Kg,Kg
+2025-03-13,1520,797,797,5.0,1000.0,200.0,Food In,Ambient - Pynes Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-14,6974,407,407,454.0,19.976,4.0,Food In,Chilled - Sleedagh Farm - Quarter Pounder Beef Burgers - 454g,g
+2025-03-14,6752,797,797,5.0,3000.0,600.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-03-18,569,797,797,5.0,500.0,100.0,Food In,Ambient - Valleyview Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-20,8149,616,616,300.0,35.1,13.0,Food In,AMBIENT-TAYTO-CHEESE AND ONION FLAVOUR CRISPS - (12X25G) 300G,g
+2025-03-21,392,58,58,250.0,126.0,28.0,Food In,Ambient-Jacobs-Mikado-250g,g
+2025-03-26,7108,675,675,280.0,168.0,100.0,Food In,Chilled-Soupreme-Chicken & Vegetable Soup-280 G,g
+2025-03-31,137,383,383,667.0,350.175,75.0,Food In,Frozen - Exceptional - 10 Cumberland Pork Sausages - 667g,g
+2025-04-01,208,778,778,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-31,326,36,36,1.5,9.0,6.0,Food In,AMBIENT-SIMPLI BAKED-WHITE TORTILLAS-1.5KG,Kg
+2025-04-01,295,57,57,232.0,175.392,63.0,Food In,Ambient-McVitie's- Digestives Gold Golden Caramel Flavour Biscuits- 232g,g
+2025-04-01,168,255,255,17.0,714.0,42.0,Food In,Ambient-Fyffes -Bananas - 17Kg,Kg
+2025-04-01,8150,44,44,500.0,28.0,4.0,Food In,Ambient - Dunnes Stores - Corn Flakes - 500g,g
+2025-03-04,545,91,91,200.0,0.2,1.0,Food In,Chilled-Kilmeaden-Red Cheddar Sliced-200 G,g
+2025-03-04,545,538,538,400.0,1.2,1.0,Food In,Chilled-Carrols-Tagliatelle Bolognese-400 G,g
+2025-03-04,545,207,207,200.0,0.8,1.0,Food In,chilled-dunn's-smoked salmon-200 g,g
+2025-03-04,312,423,423,350.0,64.4,23.0,Food In,Chilled-Truly Irish-Pork Sausages-350 g,g
+2025-03-04,545,538,538,400.0,8.0,5.0,Food In,Chilled-Happy Pear-Veggie Lasagne-400g,g
+2025-03-07,39,204,204,1.0,24.0,24.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-07,39,350,350,1.0,24.0,24.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-07,39,350,350,1.0,24.0,24.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-13,39,530,530,1.2,32.4,27.0,Food In,chilled-supervalu-beef lasagne-1.2 kg,Kg
+2025-03-13,39,350,350,1.0,1.0,1.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-20,39,538,538,400.0,6.4,4.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-20,39,530,530,1.0,12.0,12.0,Food In,Chilled-Dunnes-Lasagne-1 KG,Kg
+2025-03-20,39,350,350,1.0,4.0,4.0,Food In,Chilled-Dunnes-Creamy Chicken Pie-1 KG,Kg
+2025-03-20,39,538,538,400.0,25.6,16.0,Food In,Chilled-Happy Pear-Veggie Lasagne-400g,g
+2025-03-24,378,18,18,300.0,1.2,1.0,Food In,Ambient - Schar - Wholesome Seeded Loaf - 300g,g
+2025-03-24,378,92,92,60.0,2.16,3.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-24,378,232,232,77.0,4.235,5.0,Food In,Ambient - Bagu - Whole Juicy Oranges - 77g,g
+2025-03-26,545,353,353,1.0,4.0,4.0,Food In,Chilled-McKeown-Cooked Cajun Sliced Chicken-1 KG,Kg
+2025-03-27,6885,232,232,4.0,40.0,10.0,Food In,Ambient-Stefany-Mangoes-4kg,Kg
+2025-04-01,29,345,345,1.0,1.0,1.0,Food In,Chilled-Dunnes-Beef Cottage Pie-1 KG,Kg
+2025-04-01,29,345,345,1.0,152.0,38.0,Food In,Chilled-Dunnes-Beef Cottage Pie-1 KG,Kg
+2025-03-04,545,117,117,169.0,1.014,1.0,Food In,Chilled-Nomadic-Strawberry Oats Yoghurt-169 g,g
+2025-03-04,545,196,196,420.0,10.08,2.0,Food In,Chilled-Innocent-Juicy Water Pineapple & Orange-420 ML,g
+2025-03-04,545,252,252,18.0,18.0,1.0,Food In,Chilled-Seasonal Fare-Red Apples-18 KG,Kg
+2025-03-04,545,32,32,400.0,0.4,1.0,Food In,chilled-m&m-breadcrumbs-400 g,g
+2025-03-04,545,185,185,900.0,0.9,1.0,Food In,Chilled - Innocent - Apple Juice - 900ml,g
+2025-03-04,545,185,185,900.0,2.7,1.0,Food In,Chilled - Innocent - Apple Juice - 900ml,g
+2025-03-04,545,797,797,400.0,4.0,1.0,Food In,Chilled-Kennedys-Baby Potatoes-400 G,g
+2025-03-04,545,575,575,1.0,10.0,10.0,Food In,chilled-tuna salad-1 kg,Kg
+2025-03-04,545,572,572,400.0,6.4,2.0,Food In,chilled-seasonal fare-chinese leaf-400 g,g
+2025-03-04,545,128,128,568.0,17.04,3.0,Food In,CHILLED-BALLYRASHANE-SEMI SKIMMJED MILK-568 ML,g
+2025-03-04,545,86,86,10.0,0.96,1.0,Food In,Chilled-Kerry-Low Low Spread-10 G,g
+2025-03-04,545,266,266,600.0,2.4,1.0,Food In,Chilled-Kennedys-Pears-600 G,g
+2025-03-04,545,263,263,12.0,24.0,2.0,Food In,CHILLED-SEASONAL FARE-ORANGES-12 KG,Kg
+2025-03-04,545,262,262,2.0,6.0,3.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-04,545,137,137,160.0,1.28,1.0,Food In,Chilled-GetPro-Blueberry Protein Yoghurt-160 G,g
+2025-03-04,545,761,761,500.0,3.5,7.0,Food In,Chilled-Dvp-potato-fondant-large-500g,g
+2025-03-04,545,761,761,2.0,2.0,1.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-04,545,765,765,2.0,2.0,1.0,Food In,Chilled-Doyles-Pepper Red Sliced-2 KG,Kg
+2025-03-04,545,744,744,1.0,1.0,1.0,Food In,Chilled-Doyles VP-Cabbage Dutch Shredded-1 KG,Kg
+2025-03-04,545,137,137,160.0,7.68,6.0,Food In,Chilled-GetPro-Blueberry Protein Yoghurt-160 G,g
+2025-03-04,545,758,758,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Stir Fry Mix Veg-2.5 KG,Kg
+2025-03-04,545,117,117,135.0,0.135,1.0,Food In,Chilled-Killowen-Raspberry Yogurt-135 G,g
+2025-03-04,545,263,263,1.0,1.0,1.0,Food In,CHILLED-SEASONAL FARE-EASI PEELER CLEMENTINES-1 KG,Kg
+2025-03-04,545,572,572,400.0,64.0,20.0,Food In,chilled-seasonal fare-chinese leaf-400 g,g
+2025-03-04,545,259,259,1.25,0.00125,1.0,Food In,Chilled-Seasonal Fare-Lemons-1.25 KG,g
+2025-03-04,545,136,136,175.0,0.7,1.0,Food In,Chilled-Everest-Strawberry Granola Protein Yogurt-175 G,g
+2025-03-04,545,574,574,1.0,3.0,3.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-04,545,341,341,5.0,10.0,2.0,Food In,Chilled-Premier-Finely Diced Chicken-5 KG,Kg
+2025-03-04,545,370,370,5.0,10.0,2.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-03-04,545,576,576,250.0,1.25,1.0,Food In,Chilled-Willowbrook-Spinach & Baby Leaf-250 G,g
+2025-03-04,545,786,786,100.0,2.0,1.0,Food In,CHILLED-SEASONAL FARE-GARLIC-100 G,g
+2025-03-04,101,797,797,5.0,325.0,65.0,Food In,Ambient-Tesco-Whole Potatoes Maris Piper Bag-5KG,Kg
+2025-03-06,562,616,616,125.0,12.5,5.0,Food In,AMBIENT - SPAR - TORTILLA CHIPS SEA SALT - 125G,g
+2025-03-06,562,616,616,130.0,12.48,8.0,Food In,Ambient-Walkers-Max Flamin Hot Crisps-130g,g
+2025-03-07,39,523,523,1.0,1.0,1.0,Food In,Chilled-Inspired Cusine-Chicken & Tomato Pasta Bake-1 KG,Kg
+2025-03-12,7108,676,676,400.0,60.8,19.0,Food In,Chilled-Avonmore-Vine Tomato & Aged Italian Parmesan Soup-1kg,g
+2025-03-13,39,761,761,500.0,21.0,7.0,Food In,Chilled-Centra-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-13,39,761,761,500.0,24.0,8.0,Food In,Chilled-Centra-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-13,39,10,10,400.0,0.4,1.0,Food In,Chilled-Fueld-Foods-tomato-chicken-wholeweath-pasta-400g,g
+2025-03-13,39,761,761,500.0,0.5,1.0,Food In,Chilled-Supervalu-Potato Gratin-500 G,g
+2025-03-13,39,761,761,500.0,0.5,1.0,Food In,Chilled-Supervalu-Potato Gratin-500 G,g
+2025-03-13,39,745,745,500.0,2.5,1.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-13,39,502,502,400.0,14.4,6.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,39,521,521,1.2,96.0,80.0,Food In,chilled-centra-chicken curry-1.2 kg,Kg
+2025-03-13,39,502,502,400.0,7.2,3.0,Food In,Chilled-Clean Cut-Butter Chicken + Pilau Rice-400 G,g
+2025-03-19,4274,46,46,750.0,105.0,35.0,Food In,Ambient-Tesco-Fruit & Fibre-750g,g
+2025-03-19,7441,285,285,200.0,28.8,24.0,Food In,Ambient-O'Hanlon Herbs-Coriander Plant (Pot)-200g,g
+2025-03-20,39,523,523,1.0,18.0,18.0,Food In,Chilled-Dunnes-Chicken Pasta Bake-1 KG,Kg
+2025-03-20,39,504,504,400.0,8.0,5.0,Food In,CHILLED-HAPPY PEAR-TASTY THAI NOODLES-400 G,g
+2025-03-21,312,143,143,270.0,12.15,5.0,Food In,Ambient - O'Haras- 9 Fruit Queen Cakes - 270g,g
+2025-03-21,312,149,149,370.0,17.76,4.0,Food In,Ambient -O'Haras - Cherry cake - 370g,g
+2025-03-21,312,149,149,520.0,34.32,11.0,Food In,Ambient-O'Haras-Twin Pack Chocolate Chip/Madeira Cakes-520g,g
+2025-03-24,378,149,149,1.0,8.0,4.0,Food In,Ambient - Tesco - Pip The Pup Party Cake - 1kg,Kg
+2025-03-24,378,111,111,250.0,2.0,1.0,Food In,Chilled - Tesco - Mature Cheese Reduced Fat - 250g,g
+2025-03-24,545,252,252,700.0,3.5,1.0,Food In,Chilled-Kennedys-Apples Golden Delicious-700 G,g
+2025-03-24,545,341,341,5.0,10.0,2.0,Food In,Chilled-Kappersfood-Chicken Supreme-5 KG,Kg
+2025-03-24,545,341,341,1.0,1.0,1.0,Food In,Chilled-McKeown-Cooked Chicken Fillet Pieces-1 KG,Kg
+2025-03-24,545,748,748,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Celery Diced-2 KG,Kg
+2025-03-24,545,574,574,1.0,2.0,2.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-24,545,341,341,5.0,10.0,2.0,Food In,Chilled-Premier-Finely Diced Chicken-5 KG,Kg
+2025-03-24,545,765,765,2.0,2.0,1.0,Food In,Chilled-Doyles-Pepper Red Sliced-2 KG,Kg
+2025-03-24,545,572,572,2.0,2.0,1.0,Food In,Chilled-Donnelly-Chickpeas + Harissa Dressing & Roasted Red Peppers-2 KG,Kg
+2025-03-26,545,573,573,75.0,0.3,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-26,545,572,572,2.0,4.0,2.0,Food In,Chilled-Willowbrook-Vegeterian Coleslaw-2 KG,Kg
+2025-03-26,545,262,262,2.0,6.0,3.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-26,545,763,763,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Parsnip Baton-2.5 KG,Kg
+2025-03-26,545,763,763,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Parsnip Baton-2.5 KG,Kg
+2025-03-26,545,791,791,2.0,2.0,1.0,Food In,Chilled-Mushrooms- loose - 2kg,Default
+2025-03-26,545,572,572,1.0,1.0,1.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-26,545,752,752,1.0,2.0,2.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-03-26,545,763,763,2.5,2.5,1.0,Food In,Chilled-Global Fruit-Parsnip Diced-2.5 KG,Kg
+2025-03-26,7130,116,116,2.0,156.0,13.0,Food In,Chilled - Londis - Irish Fresh Whole Milk - 2ltr,Kg
+2025-03-26,7130,116,116,2.0,108.0,9.0,Food In,Chilled -  Londis - Frsh Low Fat Milk - 2ltr ,Kg
+2025-03-26,7130,116,116,1.0,11.0,1.0,Food In,Chilled - Coolree - Irish Lactose Free Light Milk - 1tr ,Kg
+2025-03-26,7130,116,116,1.0,8.0,1.0,Food In,Chilled - Coolree - Irish Buttermilk - 1ltr ,Kg
+2025-03-26,7130,116,116,227.0,111.684,41.0,Food In,Chilled-Connacht Gold-Low Fat Milk-227ml,g
+2025-03-27,6885,263,263,8.0,128.0,16.0,Food In,Ambient-Global fruit-Oranges Easy Peelers- 8kg,Kg
+2025-03-05,326,181,181,250.0,78.0,13.0,Food In,Ambient-Britvic-100%-Orange-Juice-Glass-Bottle,g
+2025-03-07,39,204,204,1.0,24.0,24.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-11,312,90,90,250.0,204.0,51.0,Food In,Chilled-Tesco-Mature Red Cheddar Grated-250 G,g
+2025-03-12,7252,412,412,454.0,49.032,108.0,Food In,Chilled- ABP Meats-Beef Mince-454g,g
+2025-03-13,39,204,204,1.0,5.0,5.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-14,326,90,90,1.0,80.0,80.0,Food In,Chilled-Gran Milano-Vegetarian Grated Hard Cheese-1 KG,Kg
+2025-03-19,288,92,92,57.5,13.11,19.0,Food In,Chilled-Dairylea-Cheese & Crackers + Cadbury Buttons-57.5 G,g
+2025-03-27,6885,232,232,4.0,24.0,6.0,Food In,Ambient-Stefany-Mangoes-4kg,Kg
+2025-04-01,29,530,530,1.0,400.0,100.0,Food In,Chilled-Dunnes-Lasagne-1 KG,Kg
+2025-03-04,545,117,117,169.0,0.845,1.0,Food In,Chilled-Nomadic-Strawberry Oats Yoghurt-169 g,g
+2025-03-04,312,186,186,1.0,11.0,11.0,Food In,Chilled-Centra-Cranberry Juice Drink-1 L,Kg
+2025-03-04,545,761,761,2.0,10.0,5.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-04,101,797,797,7.5,750.0,100.0,Food In,Ambient-Tesco- Rooster Potatoes Bagged-7.5KG,Kg
+2025-03-06,245,160,160,200.0,38.4,16.0,Food In,Ambient-Heinz-Immunity Support-Banana & Yoghurt(6mths+)-200g,g
+2025-03-06,1520,797,797,5.0,1000.0,200.0,Food In,Ambient - Pynes Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-06,562,57,57,150.0,7.2,2.0,Food In,Ambient-Jaffa-Jaffa Cakes-150g,g
+2025-03-06,167,761,761,550.0,440.0,50.0,Food In,Frozen-tesco-potato lattices-(chips)-550g,g
+2025-03-11,392,70,70,200.0,172.8,72.0,Food In,Ambient-Dunnes Stores-Marshmellows-200g,g
+2025-03-11,6752,797,797,5.0,3000.0,600.0,Food In,Ambient - Kilmore Potatoes - GPP White Potatoes - 5kg,Kg
+2025-03-12,7108,676,676,700.0,462.0,66.0,Food In,Chilled-Avonmore-Vine Tomato & Basil Soup - 700g,g
+2025-03-13,39,761,761,500.0,29.5,1.0,Food In,Chilled-Centra-Potato Gratin-500 G,g
+2025-03-12,168,255,255,17.0,187.0,11.0,Food In,Ambient-Fyffes -Bananas - 17Kg,Kg
+2025-03-13,7086,32,32,222.0,122.544,46.0,Food In,Ambient - Fitzgeralds - Wraps Multiseed and Cereal - 222g,g
+2025-03-18,8150,157,157,228.0,291.84,160.0,Food In,Chilled - Aero - Delicious Chocolate Mousse - 4*57g,g
+2025-03-19,176,36,36,380.0,15.2,10.0,Food In,Ambient-Old El Paso-Tortilla Pocket Kit-380G,g
+2025-03-19,4274,46,46,750.0,90.0,30.0,Food In,Ambient-Tesco-Fruit & Fibre-750g,g
+2025-03-19,7441,778,778,10.0,600.0,60.0,Food In,Ambient - Begleys - Loose Carrot crates - 10kg ,Kg
+2025-03-20,39,516,516,400.0,20.8,13.0,Food In,Chilled-Supervalu-Ham & Mushroom Tagliatelle-400 g,g
+2025-03-20,392,40,40,135.0,150.255,53.0,Food In,Ambient-Proteinbars-Peanut & White Chocolate Crip Bars-135g,g
+2025-03-21,70,81,81,120.0,198.72,138.0,Food In,Ambient-Blue Dragon-Korean BBQ Stir Fry Sauce-120g,g
+2025-03-21,312,149,149,500.0,40.0,8.0,Food In,"Ambient-O,-Haras-Porte-Cake-500g",g
+2025-03-21,8150,42,42,370.0,59.94,9.0,Food In,Ambient - Nestle - Honey Cheerios - 370g,g
+2025-03-24,378,117,117,500.0,3.0,1.0,Food In,Chilled - Tesco Raspberry Yogurts $ Pack - 500g,g
+2025-03-24,545,370,370,5.0,5.0,1.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-03-25,101,797,797,7.5,45.0,6.0,Food In,Ambient-Tesco- Rooster Potatoes Bagged-7.5KG,Kg
+2025-03-25,545,255,255,18.0,198.0,11.0,Food In,Ambient-Seasonal Fare- Bananas-18kg,Kg
+2025-03-25,312,677,677,400.0,9.6,4.0,Food In,Chilled-Kinsale Bay-Vegetable Soup-400 G,g
+2025-03-26,8150,117,117,428.0,231.12,90.0,Food In,Chilled - Nestle - Smarties  Vanilla Flavour Yogurt - 4x107g,g
+2025-03-26,8020,117,117,428.0,231.12,90.0,Food In,Chilled - Nestle - Smarties  Vanilla Flavour Yogurt - 4x107g,g
+2025-03-26,101,797,797,8.0,800.0,100.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-26,545,778,778,1.0,1.0,1.0,Food In,Chilled-Hickeys-Carrots-1 KG,Kg
+2025-03-26,7130,116,116,1.0,60.0,5.0,Food In,Chilled - Coolree - Irish Protein Milk Low Fat - 1ltr ,Kg
+2025-03-28,8046,374,374,80.0,101.12,79.0,Food In,Chilled-Taste of Sol-Mini Snacking Chorizo-80 G,g
+2025-03-07,545,195,195,300.0,14.4,6.0,Food In,Chilled-Innocent-Blue-Spark-300ml,g
+2025-03-07,545,530,530,2.5,2.5,1.0,Food In,Chilled-From The Farm-Beef Lasagne-2.5 KG,Kg
+2025-03-07,545,423,423,850.0,0.85,1.0,Food In,CHILLED-MUSGRAVES-SLICED BLACK PUDDING-850 G,g
+2025-03-07,545,97,97,200.0,0.2,1.0,Food In,Chilled-Macroom Buffalo-Ricotta Cheese-200 G,g
+2025-03-10,545,414,414,1.7,3.4,2.0,Food In,Chilled-Butchers-Rib Eye Steak-1.7 KG,Kg
+2025-03-10,545,412,412,5.0,5.0,1.0,Food In,chilled-armstrong-mince steak-5 kg,Kg
+2025-03-10,545,195,195,250.0,6.0,4.0,Food In,CHILLED-SISU-HEART BEET SMOOTHIE-250 ML,g
+2025-03-10,545,414,414,1.1,2.2,2.0,Food In,Chilled-Simply-Featherblade Steak Beef-1.13 KG,Kg
+2025-03-11,545,530,530,350.0,1.4,1.0,Food In,CHILLED-CARROLS-TRADITIONAL LASAGNE-350 G,g
+2025-03-11,545,90,90,180.0,2.88,2.0,Food In,Chilled-Charleville-Lighter Red & Mozzarella Grated-180 G,g
+2025-03-11,545,97,97,200.0,2.2,1.0,Food In,Chilled-Gleneely-Brie -Cheese-200 g,g
+2025-03-14,326,304,304,1.0,1.0,1.0,Food In,Chilled-Ready Chef-Salsa Mix-1 KG,Kg
+2025-03-24,39,530,530,400.0,36.0,15.0,Food In,Chilled-CleanCut-Veggie Bolognese with Spaggetti-400 G,g
+2025-03-24,39,530,530,400.0,9.6,4.0,Food In,Chilled-CleanCut-Veggie Bolognese with Spaggetti-400 G,g
+2025-03-24,39,530,530,400.0,9.6,4.0,Food In,Chilled-CleanCut-Veggie Bolognese with Spaggetti-400 G,g
+2025-03-24,39,345,345,400.0,10.4,1.0,Food In,Chilled-CleanCut-Cottage Pie With Beef-400 G,g
+2025-03-24,39,345,345,400.0,24.0,10.0,Food In,Chilled-CleanCut-Cottage Pie With Beef-400 G,g
+2025-03-24,39,345,345,400.0,33.6,14.0,Food In,Chilled-CleanCut-Cottage Pie With Beef-400 G,g
+2025-03-24,545,85,85,250.0,3.75,1.0,Food In,chilled-stork-for baking spread-250 g,g
+2025-03-26,39,345,345,450.0,26.1,1.0,Food In,CHILLED-CENTRA-COTTAGE PIE-450 G,g
+2025-03-27,545,565,565,2.0,8.0,4.0,Food In,Chilled-From The Farm-Basnati Rice-2 KG,Kg
+2025-03-27,545,423,423,1.2,2.4,2.0,Food In,Chilled-Mallons-Pork Sausages-1.2 KG,Kg
+2025-04-01,326,569,569,500.0,0.5,1.0,Food In,Ambient-Pasta Zara-Penne-500g,g
+2025-03-06,39,503,503,450.0,8.1,3.0,Food In,Chilled-Supervalu-Chilli Beef + Basmati Rice-450 G,g
+2025-03-06,39,497,497,400.0,2.4,1.0,Food In,Chilled-clean cut-beef stroganoff with rice-400g,g
+2025-03-06,39,499,499,550.0,2.75,1.0,Food In,Chilled-Supervalu-salmon Dinner-550 G,g
+2025-03-06,326,580,580,2.0,28.0,14.0,Food In,Chilled-Block & Barrel-Broccoli Carrot + Seed Salad-2 KG,Kg
+2025-03-06,326,194,194,150.0,0.15,1.0,Food In,Chilled - Innocent - Smoothies Just for Kids - Orange Mango Pineaple - 150ml,g
+2025-03-06,326,110,110,454.0,9.08,1.0,Food In,Chilled-Champion-Butter Unsalted-454 G,g
+2025-03-06,326,341,341,5.0,70.0,14.0,Food In,Chilled-Popeyes-Spicy Chicken Brest Strips-5 KG,Kg
+2025-03-06,326,133,133,135.0,2.16,2.0,Food In,Chilled-Killowen-Mixed Yoghurts-135 G,g
+2025-03-06,326,86,86,2.0,8.0,4.0,Food In,CHILLED-KERRYMAID-BUTTERY SPREAD-2 KG,Kg
+2025-03-07,1619,797,797,20.0,1100.0,55.0,Food In,Ambient - Iverks - Potato - 20kg,Kg
+2025-03-07,545,400,400,1.0,8.0,8.0,Food In,Chilled-C&C-Turkey Brest Mince-1 KG,Kg
+2025-03-07,545,761,761,2.0,12.0,6.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-07,545,570,570,300.0,0.3,1.0,Food In,Chilled-Kennedys-Iceberg Lettuce-300 G,g
+2025-03-07,545,51,51,1.0,1.0,1.0,Food In,Chilled-Newgrange-Fresh Porridge-1 kg,Kg
+2025-03-07,545,570,570,450.0,2.7,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-07,545,580,580,2.0,2.0,1.0,Food In,chilled-donnelly-triple rice salad-2 kg,Kg
+2025-03-07,545,574,574,1.0,15.0,15.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-07,545,262,262,2.0,2.0,1.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-07,545,245,245,5.0,10.0,2.0,Food In,Chilled-Freshcut-Melon Medley-5 KG,Kg
+2025-03-07,545,31,31,500.0,8.0,8.0,Food In,Chilled-Galmere-Stuffing Bag-500 G,g
+2025-03-07,545,31,31,500.0,5.0,1.0,Food In,Chilled-Galmere-Stuffing Bag-500 G,g
+2025-03-07,545,737,737,2.5,10.0,4.0,Food In,Chilled-Doyles VP-Mix Veg Diced-2.5 KG,Kg
+2025-03-07,545,241,241,170.0,1.02,1.0,Food In,chilled-fresh cut-fruit salad-170 g,g
+2025-03-07,545,570,570,450.0,1.8,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-07,545,340,340,7.0,7.0,1.0,Food In,Chilled-Musgraves-Chicken Thighs-7 kg,Kg
+2025-03-07,545,573,573,250.0,0.5,1.0,Food In,chilled-seasonal fare-washed rocket-250 g,g
+2025-03-07,545,681,681,280.0,0.84,1.0,Food In,CHILLED - CULLY & SULLY - VEG SOUP 280G,g
+2025-03-07,545,752,752,1.0,2.0,2.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-03-07,545,765,765,2.0,4.0,2.0,Food In,Chilled-Doyles-Pepper Red Sliced-2 KG,Kg
+2025-03-07,545,297,297,1.0,1.0,1.0,Food In,Chilled-McCormack-Flat Parsley-1 KG,Kg
+2025-03-07,545,570,570,500.0,0.5,1.0,Food In,Chilled-Willowbrook-Romaine Cos Lettuce-500 G,g
+2025-03-10,208,794,794,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-10,208,778,778,20.0,380.0,19.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-10,208,794,794,20.0,200.0,10.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-10,545,676,676,2.0,2.0,1.0,Food In,Chilled-Newgrange-Tomat & Basil Soup-2 KG,Kg
+2025-03-10,545,743,743,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Butternut Squash Chunky-2.5 KG,Kg
+2025-03-10,545,770,770,1.0,2.0,2.0,Food In,Chilled-Chopped-tomatoes-sliced-1 kg,Default
+2025-03-10,545,572,572,1.0,1.0,1.0,Food In,CHILLED-WONDERFOODS-BROCCOLI-CARROT & CRANBERRY SALAD-1 KG,Kg
+2025-03-10,545,765,765,2.0,4.0,2.0,Food In,Chilled-Doyles VP-Green Peppers Sliced-2 KG,Kg
+2025-03-10,545,743,743,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Butternut Squash Chunky-2.5 KG,Kg
+2025-03-10,545,785,785,300.0,2.4,1.0,Food In,chilled-seasonal fare-cucumber-300 g,g
+2025-03-10,545,571,571,75.0,0.3,1.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-10,545,128,128,568.0,11.36,2.0,Food In,CHILLED-BALLYRASHANE-SEMI SKIMMJED MILK-568 ML,g
+2025-03-10,545,9,9,500.0,0.5,1.0,Food In,Chilled-Seasonal -Fare-Iceberg lettuce -shredded-500 g ,g
+2025-03-10,545,572,572,1.0,1.0,1.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-10,545,574,574,1.0,1.0,1.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-10,545,574,574,100.0,0.4,1.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-10,545,351,351,2.5,2.5,1.0,Food In,Chilled-McKeown-Cooked Smoked Chicken Fillet-2.5 KG,Kg
+2025-03-10,545,370,370,5.0,10.0,2.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-03-10,545,521,521,2.5,2.5,1.0,Food In,chilled-from the farm-chiicken curry-2.5 kg,Default
+2025-03-10,545,252,252,700.0,4.2,1.0,Food In,Chilled-Kennedys-Apples Golden Delicious-700 G,g
+2025-03-10,545,757,757,2.5,2.5,1.0,Food In,CHILLED-RED COLESLAW-2.5 KG,Default
+2025-03-10,545,791,791,1.0,1.0,1.0,Food In,Chilled-Garryhinch-Wild Mix Mushrooms-1 KG,Kg
+2025-03-11,545,216,216,2.0,2.0,1.0,Food In,Chilled-Oceanpath-Sea Bass Fillets-2 KG,Kg
+2025-03-11,545,761,761,2.0,6.0,3.0,Food In,CHILLED-PEKA-POTATO GRATIN-2KG,Kg
+2025-03-11,545,415,415,200.0,1.2,1.0,Food In,Chilled-Denny-Hickory Smoked Bacon Rashers-200 G,g
+2025-03-13,39,521,521,400.0,45.6,19.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-13,39,521,521,400.0,45.6,19.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-13,39,521,521,400.0,16.8,7.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-13,39,497,497,400.0,2.4,1.0,Food In,chilled- clean cut-spaghetti bolognese with beef-400g,g
+2025-03-13,39,536,536,400.0,1.2,1.0,Food In,Chilled-Fueld Foods-Chicken Curry + Brown Rice-400 G,g
+2025-03-13,39,521,521,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Chicken Chow Mein + Noodles-400 G,g
+2025-03-13,39,521,521,400.0,0.4,1.0,Food In,Chilled-Clean Cut-Chicken Chow Mein + Noodles-400 G,g
+2025-03-13,39,761,761,400.0,0.4,1.0,Food In,chilled-supervalu-potato mash-400 g,g
+2025-03-13,39,497,497,400.0,2.0,1.0,Food In,chilled-clean cut-chicken & chorizo with penne pasta-400g,g
+2025-03-13,39,503,503,600.0,36.0,10.0,Food In,Chilled-Good Food-Beef Dinner-600 G,g
+2025-03-13,39,516,516,400.0,11.2,7.0,Food In,chilled-supervalu-spaghetti carbonara-400 g,g
+2025-03-13,39,502,502,400.0,31.2,13.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,39,532,532,400.0,2.0,1.0,Food In,Chilled-Clean Cut-Beef Taco Wedges-400 G,g
+2025-03-13,39,523,523,400.0,9.6,4.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-13,39,523,523,400.0,4.8,2.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-13,39,523,523,400.0,7.2,3.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-13,39,523,523,400.0,9.6,4.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-13,7086,32,32,1.16,668.16,96.0,Food In,Ambient-Simpli Baked-Wheaten Tortilla-1.16kg,Kg
+2025-03-13,7086,32,32,1.16,417.6,60.0,Food In,Ambient-Simpli Baked-Wheaten Tortilla-1.16kg,Kg
+2025-03-14,326,341,341,10.0,10.0,1.0,Food In,chilled-musgraves-chicken wingettes & drumettes-10 kg,Kg
+2025-03-14,326,562,562,2.0,12.0,6.0,Food In,Chilled-Block & Barrel-Curried Rice-2 KG,Kg
+2025-03-14,326,580,580,2.0,2.0,1.0,Food In,Chilled-Block & Barrel-Mexican Salad-2 KG,Kg
+2025-03-14,326,562,562,2.0,12.0,6.0,Food In,Chilled-Block & Barrerl-Triple Rice Salad-2 KG,Default
+2025-03-14,392,616,616,130.0,10.4,5.0,Food In,Ambient-kettle-lightly salted crips-130g,g
+2025-03-14,6840,777,777,10.0,300.0,30.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-18,4274,566,566,500.0,4.0,1.0,Food In,Ambient - Tesco - Tagliatelle Pasta(HDI)-500g,g
+2025-03-20,4274,618,618,140.0,23.52,14.0,Food In,Ambient-Doritos-Chilli Wave Flavour Chips-140g,g
+2025-03-20,8149,616,616,17.0,4.352,16.0,Food In,Ambient-Snackrite-Prawn Coctail Melts-6pk-17g,g
+2025-03-20,326,744,744,2.0,6.0,3.0,Food In,CHILLED-READY CHEF-CABBAGE DUTCH SHREDDED-2 KG,Kg
+2025-03-20,326,572,572,2.0,42.0,21.0,Food In,Chilled-RTE-Coleslaw-2 KG,Kg
+2025-03-20,326,761,761,5.0,10.0,2.0,Food In,Chilled-Wilsons-Diced Potatoes-5 KG,Default
+2025-03-20,326,341,341,5.0,40.0,8.0,Food In,Chilled-Popeyes-Spicy Chicken Brest Strips-5 KG,Kg
+2025-03-20,326,9,9,500.0,12.5,1.0,Food In,Chilled-Seasonal -Fare-Iceberg lettuce -shredded-500 g ,g
+2025-03-20,326,233,233,2.0,32.0,16.0,Food In,Chilled-Ready Chef-Fresh fruit Salad-2 KG,Kg
+2025-03-20,326,750,750,10.0,90.0,9.0,Food In,Chilled-Wilsons-Blanched Chips (5kgx2)-10 KG,Kg
+2025-03-21,57,71,71,460.0,5.52,1.0,Food In,Ambient-Baresa-Lasagne Sauce Asstd Flavours-460g,g
+2025-03-24,39,521,521,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-24,39,521,521,400.0,0.8,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-24,39,521,521,400.0,22.4,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-24,39,761,761,500.0,2.5,1.0,Food In,Chilled-Supervalu-Rooster Potato Mash-500 G,g
+2025-03-24,39,761,761,500.0,9.0,3.0,Food In,Chilled-Supervalu-Rooster Potato Mash-500 G,g
+2025-03-24,39,761,761,500.0,30.0,10.0,Food In,Chilled-Centra-Garlic & Herb Baby Potatoes-500 G,g
+2025-03-24,39,497,497,400.0,1.6,1.0,Food In,chilled- clean cut-spaghetti bolognese with beef-400g,g
+2025-03-24,39,761,761,500.0,2.5,1.0,Food In,Chilled-Supervalu-Roasted Baby Potatoes-500 G,g
+2025-03-24,39,10,10,450.0,0.9,1.0,Food In,Chilled-Centra-irish-beef-lasange-450g,g
+2025-03-24,39,503,503,450.0,5.4,2.0,Food In,Chilled-Centra-Chilli Beef-450 G,g
+2025-03-24,39,523,523,400.0,1.6,1.0,Food In,Chilled-Clean Cut-Chicken Carbonara with Tagliatelle-400 G,g
+2025-03-24,545,117,117,135.0,0.135,1.0,Food In,Chilled-Killowen-Strawberry Yoghurt-135 G,g
+2025-03-24,545,252,252,4.5,4.5,1.0,Food In,CHILLED-SEASONAL FARE-PINK LADY APPLES-4.5 KG,Kg
+2025-03-24,545,603,603,500.0,4.5,1.0,Food In,Chilled-Happy Pear-Roasted Red Hummus-500 g,g
+2025-03-24,545,570,570,500.0,0.5,1.0,Food In,Chilled-Willowbrook-Mix Lettuce-500 G,g
+2025-03-24,545,234,234,1.2,2.4,2.0,Food In,Chilled-Kennedys-Grapefruit Ruby-1.2 KG,Kg
+2025-03-24,545,31,31,500.0,27.0,1.0,Food In,Chilled-Galmere-Stuffing Bag-500 G,g
+2025-03-24,545,183,183,250.0,2.75,1.0,Food In,Chilled-Circle K-Green Dragon Smoothie-250 ML,g
+2025-03-24,545,136,136,676.0,0.676,1.0,Food In,CHILLED-NOMADIC-CHOCOLATE YOGHURT OATS CLUSTER-4x169 G,g
+2025-03-24,545,252,252,900.0,0.9,1.0,Food In,Chilled-Kennedys-Cooking Apples-900 G,g
+2025-03-24,545,574,574,1.0,3.0,3.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-24,208,794,794,1.0,39.0,39.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-24,208,794,794,1.0,1.0,1.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-24,208,778,778,20.0,20.0,1.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-24,208,778,778,20.0,360.0,18.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-24,208,794,794,20.0,200.0,10.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-26,39,524,524,600.0,17.4,1.0,Food In,Chilled-Supervalu-Turkey & Ham Dinner-600 G,g
+2025-03-26,39,535,535,450.0,27.0,10.0,Food In,chilled-supervalu-cottage pie-450 g,g
+2025-03-26,39,503,503,600.0,21.6,6.0,Food In,Chilled-Centra-Beef Dinner-600 G,g
+2025-03-27,545,573,573,75.0,0.3,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-27,545,761,761,2.0,12.0,6.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-27,545,262,262,2.0,12.0,6.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-27,545,136,136,190.0,3.42,3.0,Food In,Chilled-Nomadic-Smooth Caramel + Granola-190 G,g
+2025-03-27,545,407,407,2.27,4.54,2.0,Food In,chilled-butchers-beef burgers-2.27 kg,Kg
+2025-03-27,545,80,80,135.0,0.405,1.0,Food In,Chilled-Happy Pear-Spicy Red Pepper Pesto-135 G,g
+2025-03-27,545,607,607,100.0,0.5,1.0,Food In,Chilled-Begleys-Pomegranate Seeds-100 G,g
+2025-03-27,545,241,241,170.0,1.02,1.0,Food In,Chilled-Circle K-Fruit Salad with Strawberries-170 g,g
+2025-03-27,545,234,234,125.0,0.5,1.0,Food In,Chilled-Kennedys-Raspberries-125 G,g
+2025-03-27,545,681,681,400.0,3.2,1.0,Food In,Chilled- Avonmore- Wholesome Chicken & Veg- 400g,g
+2025-03-27,545,574,574,1.0,4.0,4.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-27,545,752,752,1.0,1.0,1.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-03-27,545,416,416,199.0,0.199,1.0,Food In,Chilled-Denny-Black Pudding-199g,g
+2025-03-27,545,763,763,2.5,2.5,1.0,Food In,Chilled-Global Fruit-Parsnip Diced-2.5 KG,Kg
+2025-03-28,1374,730,730,150.0,30.0,10.0,Food In,Ambient- Hello Fresh- Sugar Snap Peas- 150g,g
+2025-03-28,1374,792,792,5.0,20.0,4.0,Food In,Ambient - Hello Fresh - Spring Onion Box - 5kg,Kg
+2025-03-28,1374,737,737,4.0,40.0,10.0,Food In,Ambient-Hello fresh- Green beans-4kg,Kg
+2025-03-28,1374,738,738,3.0,129.0,43.0,Food In,Ambient-Hello Fresh-Red Pppers loose-3kg,Kg
+2025-03-28,8150,318,318,90.0,14.04,26.0,Food In,Ambient-Nescafe-Azera-Americano-Itense,g
+2025-04-01,2385,495,495,290.0,69.6,40.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-04-01,326,590,590,150.0,1.8,1.0,Food In,AMBIENT-BRAKES-READY SALTED-150G CRISPS,g
+2025-04-01,208,794,794,20.0,120.0,6.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-04-01,208,794,794,500.0,24.0,48.0,Food In,Ambient - Hughes - GPP - Whole Parsnips Bag - 500g,g
+2025-04-01,208,778,778,20.0,300.0,15.0,Food In,Ambient - Hughes Farming - GPP Whole Carrot Net - 20Kg,Kg
+2025-04-01,8150,54,54,500.0,3.0,1.0,Food In,Ambient-Nestle-Shreddies-500g,g
+2025-04-01,8150,54,54,460.0,6.44,2.0,Food In,Ambient - Nestle - Shreddies With Honey- 460g,g
+2025-04-01,8150,53,53,370.0,5.18,2.0,Food In,Ambient - Nestle - Bitesize Shredded Wheat - 370g,g
+2025-04-01,8150,48,48,210.0,2.1,2.0,Food In,Ambient-Nestle-Box Bowls-Cereal Mix-Cheerios Nesquik Shreddies(6x40g)-210g,g
+2025-04-01,8150,54,54,720.0,14.4,2.0,Food In,Ambient-Nestle-Shreddies--720g,g
+2025-04-01,8150,43,43,500.0,7.0,2.0,Food In,Ambient - Nestle - Shreddies The Coco One - 500g ,g
+2025-03-06,112,349,349,1.0,40.0,4.0,Food In,Frozen-Dawn Foods-Sharma Chicken (cooked season chicken strips)-1kg,Kg
+2025-03-11,545,91,91,300.0,1.8,1.0,Food In,Chilled-Cooleeney-Daru Hard Cheese-300 G,g
+2025-03-13,39,530,530,400.0,0.4,1.0,Food In,chilled-supervalu-spaghetti bolognese-400 g,g
+2025-03-18,263,180,180,250.0,108.0,18.0,Food In,Ambient-Ribena-Strawberry Flavour Fruit Drink in Carton-250ml,g
+2025-03-19,288,92,92,65.0,58.5,75.0,Food In,Chilled-Dairylea-Lunchers Ham & Cheese-65 G,g
+2025-03-26,112,352,352,1.0,56.0,4.0,Food In,Frozen-dawn foods-chipotle chicken-1kg,Kg
+2025-03-26,137,423,423,400.0,230.4,48.0,Food In,Frozen-Aldi-BBQ pulled Pork Sausages-400g,g
+2025-03-27,7991,361,361,120.0,7.68,4.0,Food In,Chilled-Dulano-Italian Antipasto Sliced Pork Selection-120 G,g
+2025-03-06,39,761,761,500.0,9.0,3.0,Food In,Chilled-Centra-Potato Gratin-500 G,g
+2025-03-06,8084,190,190,1.5,126.0,14.0,Food In,Chilled - Tropicana - Tropical Fruits Juice - 1.5l,Kg
+2025-03-06,326,341,341,5.0,40.0,8.0,Food In,Chilled-Popeyes-Mild Chicken Brest Fillet-5 KG,Kg
+2025-03-07,1619,778,778,20.0,200.0,10.0,Food In,Ambient - Iverks - Carrots - 20kg,Kg
+2025-03-07,312,188,188,330.0,475.2,60.0,Food In,Chilled-Centra-Smooth Orange Juice-330 ML,g
+2025-03-07,545,757,757,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Mix Veg Chunky-2.5 KG,Kg
+2025-03-10,208,778,778,1.0,60.0,60.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-10,545,676,676,2.0,4.0,2.0,Food In,Chilled-Newgrange-Tomat & Basil Soup-2 KG,Kg
+2025-03-11,545,128,128,568.0,11.36,2.0,Food In,CHILLED-BALLYRASHANE-SEMI SKIMMJED MILK-568 ML,g
+2025-03-12,7130,116,116,1.0,150.0,15.0,Food In,Chilled - Coolree - Irish Protein Milk Low Fat - 1ltr ,Kg
+2025-03-13,39,761,761,500.0,23.0,1.0,Food In,Chilled-Supervalu-Rooster Potato Mash-500 G,g
+2025-03-13,391,112,112,250.0,372.0,124.0,Food In,Chilled-Elmlea-Brandy Flavour Plant Based Cream (no alcohol)-250 ml,g
+2025-03-13,7086,581,581,370.0,41.44,8.0,Food In,Ambient - Fitzgeralds - 6 Multiseed Wraps 370g,g
+2025-03-13,7086,32,32,1.16,668.16,96.0,Food In,Ambient-Simpli Baked-Wheaten Tortilla-1.16kg,Kg
+2025-03-13,2385,497,497,450.0,243.0,30.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-03-14,326,341,341,10.0,20.0,2.0,Food In,Chilled-Glinvalley-Chicken Wings Mids + Primes-10 KG,Kg
+2025-03-14,392,57,57,750.0,66.0,11.0,Food In,Ambient-Lotus-Biscoff Biscuit Crumbs-750g,g
+2025-03-14,6840,804,804,10.0,500.0,50.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-03-18,4274,334,334,250.0,6.0,1.0,Food In,Ambient - Tesco - 80 Gold Blend Tea Bags (HDI) - 250g,g
+2025-03-20,4274,616,616,140.0,20.16,12.0,Food In,Ambient-Walkers-Max Jalapeno & Cheese Flavour Crisps-140g,g
+2025-03-20,8149,616,616,17.0,2.448,9.0,Food In,Ambient-Snackrite-Prawn Coctail Melts-6pk-17g,g
+2025-03-20,326,744,744,2.0,2.0,1.0,Food In,CHILLED-READY CHEF-CABBAGE DUTCH SHREDDED-2 KG,Kg
+2025-03-21,392,57,57,270.0,388.8,120.0,Food In,Ambient-Zero-Sugar Free Dark Chocolate Digestive Biscuits-270g,g
+2025-03-21,57,74,74,350.0,5.95,1.0,Food In,Ambient-specially-selected-aubergine-tagine-sauce-350g,g
+2025-03-21,296,696,696,800.0,4.0,1.0,Food In,Ambient-Heinz-Beans in tomato sauce (4 x 200g)- 800g,g
+2025-03-24,39,521,521,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-24,545,117,117,140.0,0.14,1.0,Food In,Chilled-Killowen-Wexford Rhubarb Yoghurt-140 g,g
+2025-03-24,208,778,778,1.0,60.0,60.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-24,7108,676,676,400.0,448.0,140.0,Food In,Chilled- Supreme-Tomato & Basil Soup- 400g,g
+2025-03-24,57,290,290,460.0,13.34,29.0,Food In,Ambient-Supervalu-Mayonnaise-Real/Light/Asstd -425g,g
+2025-03-26,39,503,503,600.0,2.4,1.0,Food In,Chilled-Supervalu-Beef Dinner-600 G,g
+2025-03-27,545,502,502,600.0,7.2,2.0,Food In,Chilled-Good Food-Chicken & Stuffing Dinner-600 G,g
+2025-03-27,21,159,159,115.0,608.58,189.0,Food In,Frozen-Milish Foods- Macaroon Muffins -115g,g
+2025-03-28,1374,313,313,150.0,24.0,10.0,Food In,Ambient-Hello Fresh-Mushroom-150g,g
+2025-03-28,8150,318,318,90.0,22.68,42.0,Food In,Ambient-Nescafe-Azera-Americano-90g,g
+2025-04-01,2385,497,497,450.0,97.2,12.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-04-01,326,51,51,325.0,0.65,1.0,Food In,Ambient - Amisa - Organic pure porridge oats - 325g,g
+2025-04-01,208,778,778,1.0,84.0,84.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-04-01,8150,54,54,460.0,6.44,1.0,Food In,Ambient -Nestle - Shreddies Original - 460g,g
+2025-03-05,288,92,92,60.0,99.36,138.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-05,545,419,419,5.09,5.09,1.0,Food In,chilled-bradley-pork loin-5.09 kg,Kg
+2025-03-05,545,538,538,400.0,2.4,1.0,Food In,Chilled-Carrols-Tagliatelle Bolognese-400 G,g
+2025-03-06,562,620,620,80.0,11.52,8.0,Food In,Ambient-Popcorn Original-Salted Popcorn-80g,g
+2025-03-21,312,97,97,100.0,5.4,9.0,Food In,Chilled-Dunnes-Milleens Cead Cheese-100 G,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,180.0,30.0,Food In,Ambient - Lucozade - Lucozade Energy Apple - 500ml,g
+2025-03-26,263,178,178,500.0,4620.0,770.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,180,180,500.0,630.0,105.0,Food In,Ambient - Lucozade - Zero Sugar - 500ml,g
+2025-03-26,263,181,181,500.0,180.0,30.0,Food In,Ambient - Ribena - No Added Sugar Mango & Lime - 500ml,g
+2025-03-03,545,574,574,1.0,15.0,15.0,Food In,chilled-iceberg lettuce shredded-1 kg ,Default
+2025-03-03,545,341,341,4.5,4.5,1.0,Food In,Chilled-Musgraves-Chicken Fillets-4.5 kg,Default
+2025-03-03,545,258,258,500.0,1.0,1.0,Food In,Chilled-Kennedys-Green Grapes-500 G,g
+2025-03-03,545,681,681,280.0,1.4,1.0,Food In,CHILLED - CULLY & SULLY - VEG SOUP 280G,g
+2025-03-03,545,351,351,2.5,2.5,1.0,Food In,Chilled-McKeown-Cooked Roast Chicken Strips-2.5 KG,Kg
+2025-03-03,545,297,297,1.0,1.0,1.0,Food In,Chilled-McCormack-Flat Parsley-1 KG,Kg
+2025-03-03,545,351,351,1.0,1.0,1.0,Food In,Chilled-McKeown-Roast Chicken Fillet-1 KG,Kg
+2025-03-05,7130,129,129,1000.0,9.0,1.0,Food In,Chilled - Coolree - Irish Skimmed Milk - 1Ltr,g
+2025-03-05,7130,116,116,500.0,20.0,4.0,Food In,Chilled-Connacht Gold-Fresh Whole Milk-500g,g
+2025-03-05,7130,116,116,1.75,315.0,30.0,Food In,Chilled - Coolree - Irish Xtra Low Fat Milk - 1.75Ltr,Kg
+2025-03-05,545,797,797,1.0,10.0,10.0,Food In,Chilled - Kennedys - Potatoe - 1kg,Kg
+2025-03-05,545,573,573,75.0,0.6,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-05,545,262,262,2.0,6.0,3.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-05,545,763,763,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Parsnip Baton-2.5 KG,Kg
+2025-03-05,545,234,234,125.0,0.625,1.0,Food In,Chilled-Kennedys-Raspberries-125 G,g
+2025-03-05,545,761,761,2.3,2.3,1.0,Food In,"Chilled-Doyles VP-Potato Chateau-2,3 KG",Kg
+2025-03-05,545,765,765,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Mixed Peppers Sliced-2 KG,Kg
+2025-03-05,545,572,572,1.0,1.0,1.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-05,545,574,574,1.0,12.0,12.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-05,545,752,752,1.0,1.0,1.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-03-05,545,234,234,1.5,1.5,1.0,Food In,Chilled-Eat Me-Mangoes-1.5 KG,Kg
+2025-03-05,545,297,297,1.0,3.0,3.0,Food In,Chilled-McCormack-Flat Parsley-1 KG,Kg
+2025-03-10,461,233,233,9.0,9.0,1.0,Food In,Ambient - Wyldsson - Dried Cherry - 9kg,Kg
+2025-03-10,461,595,595,12.5,125.0,10.0,Food In,Ambient - Wyldsson - Chopped Cashew Nuts - 12.5kg,Default
+2025-03-10,461,239,239,10.0,20.0,2.0,Food In,Ambient - Wyldsson - Dried Strawberry - 10kg,Kg
+2025-03-13,269,60,60,358.0,3342.288,778.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-20,545,746,746,2.5,10.0,4.0,Food In,"Chilled-Doyles VP-Cauliflower Florettes-2,5 KG",Kg
+2025-03-20,545,576,576,250.0,1.5,1.0,Food In,Chilled-Willowbrook-Spinach & Baby Leaf-250 G,g
+2025-03-20,545,308,308,100.0,0.5,1.0,Food In,Chilled-McCormack-Tarragon-100 G,g
+2025-03-20,545,743,743,2.5,2.5,1.0,Food In,Chilled-Global Fruit-Butternut Squash-2.5 KG,Kg
+2025-03-20,545,368,368,2.5,5.0,2.0,Food In,Chilled-Armstrong-Lamb Mince-2.5 KG,Kg
+2025-03-20,545,676,676,5.0,5.0,1.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-03-20,545,603,603,500.0,2.0,1.0,Food In,chilled-happy pear-sweet beet hummus-500 g,g
+2025-03-20,545,574,574,1.0,3.0,3.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-20,545,574,574,100.0,0.6,1.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-20,545,757,757,2.5,10.0,4.0,Food In,Chilled-Doyles VP-Carrot & Turnip Diced-2.5 KG,Kg
+2025-03-20,545,744,744,1.0,1.0,1.0,Food In,Chilled-Doyles VP-Cabbage Dutch Shredded-1 KG,Kg
+2025-03-24,6840,777,777,10.0,250.0,25.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-24,6840,804,804,10.0,100.0,10.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-03-24,6840,804,804,10.0,400.0,40.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-03-27,112,372,372,5.0,120.0,12.0,Food In,Frozen-Dawn Foods-roast chicken strips-5kg,Kg
+2025-04-01,6840,804,804,10.0,100.0,10.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-04-01,6840,777,777,10.0,250.0,25.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-04-01,6840,777,777,10.0,50.0,5.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-03,288,95,95,129.0,455.112,588.0,Food In,Chilled-Dairylea-Dunkers Nachos & Cheese (43gx3)-129 G,g
+2025-03-05,288,92,92,60.0,3.6,5.0,Food In,Chilled-Dairylea-Lunchers Chicken N Cheese-60 G,g
+2025-03-05,7252,412,412,454.0,49.032,108.0,Food In,Chilled- ABP Meats-Beef Mince-454g,g
+2025-03-06,391,85,85,500.0,336.0,28.0,Food In,CHILLED-STORK-FLUFFY CAKES - MARGARINE-500g,g
+2025-03-06,562,63,63,144.0,3.456,1.0,Food In,Ambient-Candy Canes-Peppermint Flavour Candy Canes-144g,g
+2025-03-06,39,350,350,1.0,24.0,24.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-20,343,180,180,250.0,48.0,24.0,Food In,Ambient-Starbucks-Frappuccino in Glass Jar-250ml,g
+2025-03-21,312,97,97,100.0,0.5,1.0,Food In,Chilled-Dunnes-Milleens Cead Cheese-100 G,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,7252,412,412,454.0,49.032,108.0,Food In,Chilled- ABP Meats-Beef Mince-454g,g
+2025-03-26,263,178,178,500.0,660.0,110.0,Food In,Ambient - Lucozade - Lucozade Original - 500ml,g
+2025-03-27,4941,361,361,120.0,32.64,17.0,Food In,Chilled-Dulano-Italian Antipasto Sliced Pork Selection-120 G,g
+2025-03-27,112,349,349,5.0,80.0,8.0,Food In,Frozen-dawn -salt+pepper chicken strips-5kg,Kg
+2025-03-28,4274,620,620,125.0,297.0,132.0,Food In,Ambient-Mitsuba-Sriracha Peanut Crunch-125g,g
+2025-03-03,545,737,737,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Leeks Sliced-2 KG,Kg
+2025-03-04,312,89,89,150.0,144.0,80.0,Food In,Chilled-Tsco-Feta Cheese-150 G,g
+2025-03-05,7130,123,123,2.0,12.0,1.0,Food In,Chilled-Arrabawn-Whole Fresh Milk - 2ltr,Kg
+2025-03-05,545,743,743,2.5,5.0,2.0,Food In,Chilled-Doyles-VP-Butternut Squash Diced-2.5 KG,Kg
+2025-03-06,312,143,143,270.0,8.1,3.0,Food In,Ambient - O'Haras- 9 Fruit Queen Cakes - 270g,g
+2025-03-10,8095,254,254,700.0,980.0,100.0,Food In,Ambient - Lidl - Avocado - 700g,g
+2025-03-10,461,593,593,10.0,20.0,2.0,Food In,Ambient - Wyldsson - Nibbed Almonds - 10kg,Kg
+2025-03-10,392,70,70,200.0,648.0,270.0,Food In,Ambient-Dunnes Stores-Marshmellows-200g,g
+2025-03-12,39,761,761,500.0,30.0,10.0,Food In,Chilled-Centra-Potato Gratin-500 G,g
+2025-03-13,269,60,60,358.0,2663.52,620.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-14,392,617,617,55.0,70.84,92.0,Food In,Ambient- forest feast-honey roast peanuts & cashews nuts-55g,g
+2025-03-18,266,599,599,100.0,14.4,6.0,Food In,Ambient - Manhattann - dry roasted peanuts - 100g,g
+2025-03-20,545,252,252,500.0,0.5,1.0,Food In,Chilled-Kennedys-Pink Lady Apples-500 G,g
+2025-03-21,4930,374,374,100.0,111.6,62.0,Food In,Chilled - Dulano - Salami Sticks - 100g,g
+2025-03-21,392,69,69,100.0,219.6,244.0,Food In,Ambient-Poppets-Choc Toffee Popcorn-100g,g
+2025-03-21,392,57,57,200.0,33.6,7.0,Food In,Ambient-Bolands-Cream Crackers-200g,g
+2025-03-24,7563,133,133,340.0,440.64,216.0,Food In,Chilled - Yoplait - Petits Filous - Fromage Frais Strawberry & Raspberry - 4x85g,g
+2025-03-24,6840,777,777,10.0,50.0,5.0,Food In,Ambient - Moore Produce - GPP White Cabbage - 10kg,Kg
+2025-03-25,569,797,797,5.0,500.0,100.0,Food In,Ambient - Valleyview Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-26,6974,500,500,146.0,140.16,120.0,Food In,Chilled-Rustlers-Classic Hod Dog-Heat&Enjoy-146g,g
+2025-03-26,8020,136,136,240.0,170.88,89.0,Food In,Chilled-Nestle-Ski Mousse Strawberry- 4 X 60g,g
+2025-03-28,7983,634,634,0.5,1320.0,220.0,Food In,ESF - Odlum's - Porridge Oats - 500g,Kg
+2025-03-31,4274,55,55,76.0,5.472,3.0,Food In,Ambient-Tesco-Wheat Biscuits-76g,g
+2025-04-01,6840,804,804,10.0,400.0,40.0,Food In,Ambient - Moore Produce - GPP Swede - 10kg,Kg
+2025-04-01,545,423,423,2.5,5.0,2.0,Food In,chilled-smartbuy-jumbo sausages-2.5 kg,Kg
+2025-04-01,545,207,207,200.0,0.8,1.0,Food In,chilled-dunn's-smoked salmon-200 g,g
+2025-04-01,545,304,304,2.0,2.0,1.0,Food In,chilled-donnelly-fresh salsa-2 kg,Default
+2025-04-01,545,423,423,454.0,4.54,1.0,Food In,Chilled - Clonakilty - 16 pork Sausages - 454g,g
+2025-04-01,545,94,94,125.0,2.5,1.0,Food In,Chilled-Camburro-Mozzarella Cheese-125 G,g
+2025-04-01,288,157,157,200.0,345.6,144.0,Food In,Chilled - Brooklea - Protein Mousse Caramel & White Chocolate & Chocolate Flavours - 200g,g
+2025-04-01,545,189,189,1.0,12.0,12.0,Food In,chilled-lime juice-1 L,Kg
+2025-04-01,545,502,502,600.0,3.6,1.0,Food In,Chilled-Good Food-Chicken & Stuffing Dinner-600 G,g
+2025-04-01,545,32,32,400.0,4.8,1.0,Food In,chilled-m&m-breadcrumbs-400 g,g
+2025-04-01,545,752,752,1.0,1.0,1.0,Food In,Chilled-Wonderfoods-Sliced Cucumber-1 KG,Kg
+2025-04-01,545,765,765,2.0,2.0,1.0,Food In,Chilled-Doyles VP-Green Peppers Sliced-2 KG,Kg
+2025-04-01,545,786,786,100.0,4.0,2.0,Food In,Chilled-Kennedys-Garlic-100 G,g
+2025-04-01,545,145,145,75.0,0.45,1.0,Food In,Chilled-Cadbury-Buttons Dessert-75 G,g
+2025-04-01,545,795,795,1.5,1.5,1.0,Food In,Chilled-Green Egypt-Mangetout-1.5 KG,Kg
+2025-04-01,545,110,110,454.0,6.356,1.0,Food In,chilled-champion-butter-454 g,g
+2025-04-01,545,117,117,500.0,27.0,9.0,Food In,Chilled-Yoplait-Raspberry Yoghurt (125gx4)-500 G,g
+2025-04-01,545,241,241,270.0,1.35,1.0,Food In,chilled-fresh cut-fruit salad-270 g,g
+2025-04-01,545,574,574,1.0,5.0,5.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-04-01,545,270,270,1.0,1.0,1.0,Food In,Chilled-McCormack-Basil-1 KG,Kg
+2025-04-01,545,415,415,200.0,3.0,1.0,Food In,Chilled-Daybreak-Rashers-200 g,g
+2025-04-01,545,370,370,16.0,384.0,3.0,Food In,chilled-rotisserie marinated chicken-1.6 kg,Kg
+2025-04-01,545,761,761,1.6,8.0,5.0,Food In,Chilled-Doyles VP-Potato Fondant Large-1.6 KG,Kg
+2025-04-01,545,502,502,290.0,1.74,1.0,Food In,Chilled-Circle k-Chicken Burrito Salad Pot-290 G,g
+2025-04-01,545,423,423,4.54,4.54,1.0,Food In,Chilled-Loughnanes-Pork Sausages Jumbo-4.54 KG,Kg
+2025-04-01,8150,41,41,375.0,3.375,1.0,Food In,Ambient - Nestle - Golden Nuggets - 375g,g
+2025-04-01,288,540,540,105.0,2.52,4.0,Food In,Chilled-Quorn-Roast Beef Style Slices-105 G,g
+2025-03-03,6741,18,18,800.0,56.0,14.0,Food In,Ambient-Brennans-Family pan-800g,g
+2025-03-03,6741,18,18,400.0,51.2,16.0,Food In,Ambient-Brennans-Half pan-400g,g
+2025-03-03,6741,18,18,400.0,16.0,5.0,Food In,Ambient-Brennans-Half pan-400g,g
+2025-03-03,6741,18,18,820.0,24.6,5.0,Food In,Ambient-Brennans-white-batch-loaf-820g,g
+2025-03-11,545,91,91,4.0,4.0,1.0,Food In,CHILLED-VERGEER-CHEDDAR CHEESE PORTIONS-(20GX200)=4 KG,Kg
+2025-03-13,39,530,530,450.0,8.1,3.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-13,39,539,539,500.0,19.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-13,545,95,95,560.0,1.68,1.0,Food In,Chilled-Gleneely-Blue Stilton Cheese-560 G,g
+2025-03-14,545,423,423,400.0,4.0,1.0,Food In,CHILLED-LOUGHNANES-WHITE PUDDING-400G,g
+2025-03-14,545,423,423,4.54,4.54,1.0,Food In,chilled-fresh-black pudding sliced-4.54 kg,Kg
+2025-03-25,410,569,569,500.0,20.0,5.0,Food In,AMBIENT-ALDI-PENNE PASTA-500G,g
+2025-03-25,410,569,569,1.0,18.0,3.0,Food In,AMBIENT-CUCINA-PENNE-PASTA-1KG,Kg
+2025-03-25,410,569,569,500.0,9.0,3.0,Food In,AMBIENT-CUCINA-FUSILLI-PASTA-500G,g
+2025-03-25,410,569,569,1.0,10.0,2.0,Food In,AMBIENT-CUCINA-SPAGHETTI-1KG,Kg
+2025-03-25,410,569,569,1.0,42.0,7.0,Food In,AMBIENT-CUCINA-FUSILLI-1KG,Kg
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-27,326,413,413,1.89,3.78,2.0,Food In,Chilled-Robinson-Beef Meat Balls-1.89 KG,Kg
+2025-03-27,326,423,423,7250.0,7.25,1.0,Food In,Chilled - Hodgins - 48 Hotdogs Pork Sausages - 7.25kg,g
+2025-03-03,6741,20,20,800.0,8.0,2.0,Food In,Ambient-brennans-wholegrain bread-800g,g
+2025-03-04,7108,675,675,700.0,553.0,79.0,Food In,Chilled-Avonmore-Chicken & Vegetable Soup-700 G,g
+2025-03-04,7108,677,677,400.0,160.0,50.0,Food In,Chilled-Avonmore-Market Vegetable Soup-400g,g
+2025-03-06,382,185,185,750.0,300.0,400.0,Food In,Ambient-Foodcloud -Cloudy Apple Juice(BBD March 2026)-750ml,g
+2025-03-06,382,185,185,750.0,300.0,400.0,Food In,Ambient-Foodcloud -Cloudy Apple Juice(BBD March 2026)-750ml,g
+2025-03-06,7983,659,659,0.4,921.6,192.0,Food In,ESF - Newforge - Chopped Tomatoes - 400g,Kg
+2025-03-06,7983,634,634,0.057,153.216,112.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-03-06,7983,641,641,0.232,222.72,80.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-06,7983,670,670,0.41,865.92,176.0,Food In,ESF - Lustre - Canned Peaches - 410g,Kg
+2025-03-06,7983,633,633,0.45,216.0,40.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-06,7983,657,657,0.42,997.92,99.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-03-06,7983,635,635,0.43,120.4,20.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-06,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-06,7983,647,647,0.5,400.0,40.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-03-10,39,10,10,400.0,12.0,5.0,Food In,Chilled-Fueld-Foods-tomato-chicken-wholeweath-pasta-400g,g
+2025-03-10,39,536,536,400.0,38.4,16.0,Food In,Chilled-Fueld Foods-Chicken Curry + Brown Rice-400 G,g
+2025-03-10,39,536,536,400.0,24.0,10.0,Food In,Chilled-Fueld Foods-Chicken Curry + Brown Rice-400 G,g
+2025-03-10,39,10,10,400.0,16.8,7.0,Food In,Chilled-Fueld-foods-chicken-chorizo&baby potatoes-400g,g
+2025-03-10,39,502,502,400.0,9.6,4.0,Food In,Chilled-Fueld Food-Chicken Tikka Masala + Brown Rice-400 G,g
+2025-03-10,39,503,503,400.0,2.0,1.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-10,39,503,503,400.0,38.4,16.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-10,392,616,616,150.0,2.4,1.0,Food In,Ambient - Hunky Dorys - Variety pack 25g x 6 - 150g,g
+2025-03-11,545,570,570,500.0,5.0,1.0,Food In,Chilled-Willowbrook-Mix Lettuce-500 G,g
+2025-03-11,545,504,504,227.0,2.724,2.0,Food In,Chilled-Happy Pear-Unbeetable Burgers-227 G,g
+2025-03-11,545,502,502,600.0,3.6,1.0,Food In,Chilled-Good Food-Chicken & Stuffing Dinner-600 G,g
+2025-03-11,545,252,252,700.0,4.2,1.0,Food In,Chilled-Kennedys-Apples Golden Delicious-700 G,g
+2025-03-11,545,761,761,2.5,12.5,5.0,Food In,Chilled-Doyles VP-Potato Straw Grated-2.5 KG,Kg
+2025-03-11,545,761,761,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Potato Straw Grated-2.5 KG,Kg
+2025-03-11,545,742,742,300.0,1.8,1.0,Food In,Chilled-Kennedys-Broccoli-300 G,g
+2025-03-11,545,678,678,400.0,4.4,1.0,Food In,Chilled-Happy Pear-Sweet Potato & Squash Soup-400 G,g
+2025-03-11,545,742,742,2.5,30.0,12.0,Food In,Chilled-Doyles VP-Broccoli Florettes-2.5 KG,Default
+2025-03-11,545,570,570,450.0,2.25,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-11,545,279,279,1.0,1.0,1.0,Food In,Chilled-McCormack-Coriander-1 KG,Kg
+2025-03-11,545,574,574,1.0,3.0,3.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-11,545,574,574,100.0,1.0,1.0,Food In,Chilled-McCormack-Lambs Lettuce-100 G,g
+2025-03-11,545,778,778,1.4,2.8,2.0,Food In,Chilled-Iona-Baby Rainbow Carrots-1.4 KG,Kg
+2025-03-11,545,160,160,180.0,1.08,1.0,Food In,Chilled-Muller Rice-Chocolate Protein Dessert-180 G,g
+2025-03-11,545,761,761,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Potato Straw Grated-2.5 KG,Kg
+2025-03-11,545,117,117,169.0,0.338,1.0,Food In,Chilled-Nomadic-Strawberry Oats Yoghurt-169 g,g
+2025-03-11,545,743,743,2.5,2.5,1.0,Food In,Chilled-Doyles-VP-Butternut Squash Diced-2.5 KG,Kg
+2025-03-12,39,499,499,550.0,6.6,2.0,Food In,Chilled-Centra-Salmon Dinner-550 G,g
+2025-03-12,39,499,499,550.0,29.7,9.0,Food In,Chilled-Centra-Salmon Dinner-550 G,g
+2025-03-12,39,503,503,550.0,6.6,2.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-12,39,503,503,550.0,16.5,5.0,Food In,Chilled-Centra-Beef Burger Dinner-550 G,g
+2025-03-12,39,745,745,500.0,10.0,4.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-12,39,761,761,500.0,6.0,2.0,Food In,Chilled-Supervalu-Roasted Baby Potatoes-500 G,g
+2025-03-13,39,744,744,375.0,4.5,2.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-13,39,535,535,450.0,13.5,5.0,Food In,chilled-supervalu-cottage pie-450 g,g
+2025-03-13,39,745,745,500.0,15.0,5.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-13,39,745,745,500.0,6.0,2.0,Food In,Chilled-Supervalu-Roasted Carrots-500 G,g
+2025-03-13,39,502,502,400.0,24.0,10.0,Food In,Chilled-Clean Cut-Thai Green Curry + Coconut Jasmine Rice-400 G,g
+2025-03-13,545,134,134,135.0,1.485,1.0,Food In,Chilled-Killowen-Natural Yoghurt-135 G,g
+2025-03-13,545,137,137,160.0,0.64,1.0,Food In,Chilled-GetPro-Vanilla Protein Yoghurt-160 G,g
+2025-03-13,545,132,132,150.0,0.75,1.0,Food In,Chilled - Total - Greek Yogurt With Strawberry - 150g,g
+2025-03-13,545,341,341,5.0,15.0,3.0,Food In,Chilled-No Name-Chicken Brest Ex Inner-5 KG,Kg
+2025-03-13,545,79,79,150.0,0.75,1.0,Food In,Chilled-Happy Pear-Reduced Fat Hummus-150 G,g
+2025-03-13,545,574,574,1.0,10.0,10.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-13,2385,497,497,300.0,151.2,28.0,Food In,Frozen - Wheyhey - Protein Power Katsu Chicken with Rice - 300g,g
+2025-03-13,2385,497,497,450.0,218.7,27.0,Food In,Frozen - Wheyhey - Protein Power BBQ Chicken Pasta - 450g,g
+2025-03-14,545,268,268,500.0,3.5,1.0,Food In,Chilled-Kennedys-Plum Punnet-500 G,g
+2025-03-14,545,575,575,1.0,1.0,1.0,Food In,chilled-tuna & sweetcorn salad-1,Kg
+2025-03-14,545,761,761,500.0,0.5,1.0,Food In,Chilled-Dvp-potato-fondant-large-500g,g
+2025-03-14,545,400,400,1.0,1.0,1.0,Food In,Chilled-C&C-Turkey Brest Mince-1 KG,Kg
+2025-03-14,545,761,761,2.0,12.0,6.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-14,545,341,341,5.0,5.0,1.0,Food In,Chilled-Kappersfood-Chicken Supreme-5 KG,Kg
+2025-03-14,545,368,368,2.5,5.0,2.0,Food In,Chilled-Armstrong-Lamb Mince-2.5 KG,Kg
+2025-03-14,545,781,781,800.0,36.0,3.0,Food In,Chilled-DVP-Celery-800 G,g
+2025-03-21,392,57,57,270.0,388.8,120.0,Food In,Ambient-Zero-Sugar Free Dark Chocolate Digestive Biscuits-270g,g
+2025-03-25,410,51,51,1.5,45.0,5.0,Food In,Ambient-Kavanaghs-Porridge oats-1.5kg,Kg
+2025-03-27,326,341,341,4.75,4.75,1.0,Food In,Chilled-Sysco-Chicken Brest Fillets-4.75 KG,Kg
+2025-03-27,326,341,341,5.0,60.0,12.0,Food In,Chilled-Popeyes-Spicy Chicken Brest Strips-5 KG,Kg
+2025-03-28,378,20,20,750.0,4.5,1.0,Food In,AMBIENT - HOVIS - AUTHENTIC GRANARY BROWN BREAD - 800G,g
+2025-03-31,378,114,114,800.0,25.6,2.0,Food In,Ambient - Tesco - 12 Large Free Range Eggs - 800g,g
+2025-03-31,378,797,797,7.5,7.5,1.0,Food In,Ambient-Tesco- Rooster Potatoes Bagged-7.5KG,Kg
+2025-03-31,378,14,14,500.0,117.0,13.0,Food In,Chilled - Tesco - Irish Carrotts - 500g,g
+2025-03-31,378,263,263,500.0,140.0,14.0,Food In,Ambient - Tesco - Easy Peeler Net - 500g,g
+2025-03-31,378,797,797,1.0,240.0,15.0,Food In,Ambient - Tesco - Irish Seasonal Potatoes - 1kg,Kg
+2025-03-31,378,804,804,1.0,120.0,10.0,Food In,Ambient - Tesco - Loose Turnip - 1kg,Kg
+2025-03-31,545,743,743,2.5,5.0,2.0,Food In,Chilled-Doyles-VP-Butternut Squash Diced-2.5 KG,Kg
+2025-03-31,545,185,185,2.0,4.0,2.0,Food In,Chilled-Walshes-Apple Juice-2 L,Kg
+2025-03-31,545,747,747,2.5,2.5,1.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-31,545,747,747,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Celeriac Diced-2.5 KG,Kg
+2025-03-31,545,572,572,1.0,2.0,2.0,Food In,CHILLED-WONDERFOODS-BROCCOLI-CARROT & CRANBERRY SALAD-1 KG,Kg
+2025-03-31,545,743,743,2.5,2.5,1.0,Food In,Chilled-Global Fruit-Butternut Squash-2.5 KG,Kg
+2025-03-31,545,676,676,5.0,20.0,4.0,Food In,chilled-newgrange-tomato & basil soup-5 kg,Kg
+2025-03-31,545,760,760,500.0,0.5,1.0,Food In,Chilled-red onion- diced-500 g,g
+2025-03-31,545,737,737,2.5,2.5,1.0,Food In,Chilled - Musgraves - Leeks sliced - 2/5kg,Default
+2025-03-31,545,570,570,450.0,1.35,1.0,Food In,Chilled-DVP-Cos Lettuce-450 G,g
+2025-03-31,545,572,572,1.0,2.0,2.0,Food In,chilled-no name-crunchy coleslaw-1 kg,Kg
+2025-03-31,545,757,757,2.5,5.0,2.0,Food In,Chilled-Doyles VP-Carrot & Parsnip Diced-2.5 KG,Kg
+2025-03-31,545,761,761,1.6,9.6,6.0,Food In,Chilled-Doyles VP-Potato Fondant Large-1.6 KG,Kg
+2025-03-31,545,761,761,1.6,3.2,2.0,Food In,Chilled-Doyles VP-Potato Fondant Large-1.6 KG,Kg
+2025-03-31,545,570,570,500.0,1.0,1.0,Food In,Chilled-Willowbrook-Romaine Cos Lettuce-500 G,g
+2025-04-01,8150,45,45,500.0,18.0,3.0,Food In,Ambient - Dunnes Stores - Toasted Crunchy Frosted Flakes - 500g,g
+2025-04-01,8150,47,47,500.0,48.0,6.0,Food In,Ambient - Dunnes Stores - Honey & Nut Flakes - 500g,g
+2025-04-01,8150,47,47,500.0,5.0,1.0,Food In,Ambient - Dunnes Stores - Honey & Nut Flakes - 500g,g
+2025-03-03,6741,18,18,800.0,12.0,3.0,Food In,Ambient-Brennans-Family pan-800g,g
+2025-03-07,312,97,97,100.0,0.9,1.0,Food In,Chilled-Dunnes-Milleens Cead Cheese-100 G,g
+2025-03-10,39,530,530,400.0,38.4,16.0,Food In,Chilled-Fueled Foods-Wholegrain Pasta Bolognese-400 G,g
+2025-03-10,392,63,63,42.0,0.252,6.0,Food In,Ambient-Reese's Overload-Pretzels Caramel & Peanuts-42g,g
+2025-03-11,545,85,85,250.0,9.75,1.0,Food In,chilled-stork-for baking spread-250 g,g
+2025-03-13,391,85,85,1.0,720.0,60.0,Food In,Chilled-Stork-Margerine for Baking-1 KG,Kg
+2025-03-25,410,569,569,500.0,12.0,3.0,Food In,AMBIENT-ALDI-SPAGHETTI-500G,g
+2025-03-26,263,178,178,500.0,792.0,132.0,Food In,Ambient-Lucozade-Pink Lemonade-Zero Sugar-500ml,g
+2025-03-04,569,797,797,5.0,500.0,100.0,Food In,Ambient - Valleyview Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-03-04,7108,138,138,250.0,10.0,5.0,Food In,chilled-yop-strawberry yoghurt drink-250 g,g
+2025-03-06,382,185,185,750.0,282.0,376.0,Food In,Ambient-Foodcloud -Cloudy Apple Juice(BBD March 2026)-750ml,g
+2025-03-06,7983,652,652,0.4,921.6,96.0,Food In,ESF - Heinz - Vegetable Soup - 400g,Kg
+2025-03-10,57,74,74,350.0,357.0,85.0,Food In,Ambient-Inspire by Centra-Butter Chicken Mild Curry Sauce (HDI)-350g,g
+2025-03-11,7563,117,117,400.0,376.8,157.0,Food In,Chilled-Yoplait-Skyr Peach + Mango Yoghurt (100gx4)-400 G,g
+2025-03-12,39,502,502,600.0,61.2,17.0,Food In,Chilled-Centra-Turkey & Ham Dinner-600 G,g
+2025-03-13,39,502,502,600.0,0.6,1.0,Food In,Chilled-Centra-Turkey & Ham Dinner-600 G,g
+2025-03-13,545,150,150,1.0,3.0,3.0,Food In,Ambient-KitKat-Cocoa Sauce With Wafer Pieces-1 KG,Kg
+2025-03-13,2385,497,497,450.0,243.0,30.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-03-14,545,777,777,1.0,1.0,1.0,Food In,CHILLED-McCORMACK-PAK CHOI-1 KG,Kg
+2025-03-14,2385,497,497,450.0,1458.0,180.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-03-18,6785,385,385,170.0,340.0,200.0,Food In,Ambient-Noel-fuet-catalan-cooked sausage-170g,g
+2025-03-18,562,163,163,624.0,22.464,3.0,Food In,Ambient-Sunnysouth-family-size-creamed-rice-624g,g
+2025-03-21,1374,400,400,250.0,15.0,1.0,Food In,Chilled-Hello Fresh-Turkey Brest Mince-250 G,g
+2025-03-21,392,57,57,270.0,408.24,126.0,Food In,Ambient-Zero-Sugar Free Dark Chocolate Digestive Biscuits-270g,g
+2025-03-26,6696,270,270,200.0,28.8,24.0,Food In,Ambient-O'Hanlon - Basil (plant pots) - 200g,g
+2025-03-26,8150,117,117,428.0,231.12,90.0,Food In,Chilled - Nestle - Smarties  Vanilla Flavour Yogurt - 4x107g,g
+2025-03-27,326,216,216,2.05,2.05,1.0,Food In,CHILLED-WRIGHT-MONKFISH FILLETS-2.05 KG,Kg
+2025-03-28,378,20,20,750.0,4.5,1.0,Food In,AMBIENT - HOVIS - AUTHENTIC GRANARY BROWN BREAD - 800G,g
+2025-03-31,378,371,371,380.0,91.2,12.0,Food In,Chilled - Tesco - Slow Cooked Beef Brisket in Gravy - 380g,g
+2025-03-31,545,370,370,5.0,5.0,1.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-04-01,312,149,149,1.0,10.0,5.0,Food In,Ambient - Flake - Celebrtion Cake - 1kg ,Kg
+2025-04-01,8150,42,42,500.0,6.0,1.0,Food In,Ambient-Nestle-Multigrain Cheerios-500g,g
+2025-03-03,39,530,530,450.0,2.7,1.0,Food In,Chilled-Good Food-Slow Cooked Beef Ragu-450 G,g
+2025-03-03,39,530,530,450.0,8.1,3.0,Food In,Chilled-Good Food-Slow Cooked Beef Ragu-450 G,g
+2025-03-03,39,530,530,450.0,4.5,1.0,Food In,Chilled-Good Food-Slow Cooked Beef Ragu-450 G,g
+2025-03-03,39,530,530,530.0,34.45,13.0,Food In,Chilled-Centra-Italian Meatballs-530 G,g
+2025-03-10,391,97,97,96.0,115.584,86.0,Food In,Chilled-Boursin-Garlic & Herbs Cheese (16gx6)-96 G,g
+2025-03-18,378,98,98,200.0,96.0,80.0,Food In,Chilled - Galway Kitchen - Organic Houmous - 200g,g
+2025-03-18,378,232,232,480.0,2.88,1.0,Food In,Chilled - Tesco - Kiwi - 480g,g
+2025-03-19,29,350,350,1.0,4.0,4.0,Food In,Chilled-Dunnes-Creamy Chicken Pie-1 KG,Kg
+2025-03-20,29,204,204,1.0,3.0,3.0,Food In,CHILLED-TASTY-SEAFOOD PIE-1 KG,Kg
+2025-03-20,29,350,350,1.0,3.0,3.0,Food In,CHILLED-TASTY-CHICKEN PIE-1 KG,Kg
+2025-03-21,39,530,530,450.0,0.45,1.0,Food In,CHILLED-KITCHEN-BEEF LASAGNE-450 G,g
+2025-03-21,39,539,539,500.0,0.5,1.0,Food In,Chilled-Supervalu-Carrots & Peas-500 G,g
+2025-03-28,4274,620,620,130.0,52.0,20.0,Food In,Ambient-Lorenz-Crunchips-Paprika Flavour Snacks-130g,g
+2025-03-03,39,522,522,450.0,9.0,1.0,Food In,Chilled-Good Food-Chicken Massaman Curry-450 G,g
+2025-03-03,39,522,522,450.0,2.7,1.0,Food In,Chilled-Good Food-Chicken Massaman Curry-450 G,g
+2025-03-03,39,522,522,450.0,2.7,1.0,Food In,Chilled-Centra-Chicken Massaman Curry + Coconut Jasmine Rice-450 G,g
+2025-03-03,39,502,502,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Chicken & Chorizo Paella + Arborio Rice-400 G,g
+2025-03-03,39,502,502,400.0,2.4,1.0,Food In,Chilled-Clean Cut-Chicken & Chorizo Paella + Arborio Rice-400 G,g
+2025-03-03,39,521,521,450.0,2.7,1.0,Food In,Chilled-Centra-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-03,39,540,540,450.0,13.5,5.0,Food In,Chilled-Good Food-Mexican Style Bean Burrito Bowl-450 G,g
+2025-03-03,39,523,523,2.5,5.0,2.0,Food In,chilled-ftg-chicken & tomato pasta bake-2.5 kg,Kg
+2025-03-03,39,523,523,2.5,15.0,6.0,Food In,chilled-ftg-chicken & tomato pasta bake-2.5 kg,Kg
+2025-03-03,39,503,503,400.0,0.4,1.0,Food In,Chilled-Fueld-Slow Cooked Beef + Baby Potatoes-400 G,g
+2025-03-03,39,516,516,400.0,1.6,1.0,Food In,Chilled-Good Food-Ham & Mushroom Tagliatelle-400 G,g
+2025-03-05,7983,649,649,0.25,468.0,312.0,Food In,ESF - Tilda - Golden Vegetable Pre-Cooked Rice - 250g,Default
+2025-03-05,7983,634,634,0.057,76.608,56.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-03-05,7983,668,668,0.145,650.76,374.0,Food In,ESF - John West - Tuna - 145g,Kg
+2025-03-05,7983,641,641,0.232,445.44,160.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-05,7983,650,650,0.5,1008.0,84.0,Food In,ESF - Roma - Easy Cook Rice - 500g,Kg
+2025-03-05,7983,648,648,0.09,108.0,100.0,Food In,ESF - Pot Noodle - Chicken and Mushroom - 90g,Kg
+2025-03-05,7983,670,670,0.41,959.4,195.0,Food In,ESF - Lustre - Canned Peaches - 410g,Kg
+2025-03-05,7983,633,633,0.45,540.0,100.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-05,7983,662,662,1.0,1200.0,80.0,Food In,ESF - Gem - Granulated Sugar - 1kg,Kg
+2025-03-05,7983,657,657,0.42,997.92,99.0,Food In,ESF - Family Value - Peas - 420g,Kg
+2025-03-05,7983,653,653,0.415,956.16,96.0,Food In,ESF - Heinz - Beans - 415g,Kg
+2025-03-05,7983,658,658,0.326,645.48,165.0,Food In,ESF - Lustre - Corn - 326g,Kg
+2025-03-05,7983,635,635,0.43,457.52,76.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-05,7983,640,640,0.2,386.4,322.0,Food In,ESF - Maxwell House - Coffee Granules - 200g,Kg
+2025-03-05,7983,651,651,0.049,105.84,180.0,Food In,ESF - Erin - Hot Cup Chicken - 4 pack ,Kg
+2025-03-05,7983,636,636,0.43,516.0,120.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-05,7983,647,647,0.5,1200.0,120.0,Food In,ESF - Pastifico Ferrara - Penne Pasta - 500g,Kg
+2025-03-05,309,116,116,1.0,220.0,220.0,Food In,Chilled - CENTRA - Milk - 1L,Kg
+2025-03-05,309,116,116,1.0,120.0,12.0,Food In,Chilled - Lullaby - Milk - 1 Litre,Kg
+2025-03-10,57,74,74,350.0,638.4,152.0,Food In,Ambient-Inspire by Centra-Butter Chicken Mild Curry Sauce (HDI)-350g,g
+2025-03-10,57,74,74,350.0,638.4,152.0,Food In,Ambient-Inspire by Centra-Butter Chicken Mild Curry Sauce (HDI)-350g,g
+2025-03-10,57,74,74,350.0,638.4,152.0,Food In,Ambient-Inspire by Centra-Butter Chicken Mild Curry Sauce (HDI)-350g,g
+2025-03-11,293,255,255,18.0,234.0,13.0,Food In,Ambient - Premium - Bananas - 18kg,Kg
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,73.032,17.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-18,378,117,117,169.0,1.014,1.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-18,378,681,681,400.0,112.0,35.0,Food In,Chilled- Avonmore- Wholesome Chicken & Veg- 400g,g
+2025-03-18,378,266,266,640.0,8.96,1.0,Food In,Chilled - Tesco - Fun-Sized Pears - 640g,g
+2025-03-18,378,506,506,400.0,3.2,1.0,Food In,Chilled - Tesco - Creamy Fish Pie - 400g,g
+2025-03-19,29,523,523,1.0,14.0,14.0,Food In,Chilled-Dunnes-Chicken Pasta Bake-1 KG,Kg
+2025-03-19,29,521,521,1.0,4.0,4.0,Food In,Chilled-Dunnes-Mild Chicken Curry-1 KG,Kg
+2025-03-19,29,521,521,1.0,2.0,2.0,Food In,Chilled-Dunnes-Mild Chicken Curry-1 KG,Kg
+2025-03-19,101,797,797,7.5,1635.0,218.0,Food In,Ambient-Tesco- Rooster Potatoes Bagged-7.5KG,Kg
+2025-03-20,545,760,760,2.0,32.0,16.0,Food In,Chilled-DVP-Red Onion Peeled-2KG,Kg
+2025-03-20,545,572,572,1.0,2.0,2.0,Food In,CHILLED-WONDERFOODS-BROCCOLI-CARROT & CRANBERRY SALAD-1 KG,Kg
+2025-03-20,545,573,573,75.0,0.6,1.0,Food In,Chilled-McCormack-Rocket Leaves-75 G,g
+2025-03-20,545,761,761,2.0,12.0,6.0,Food In,Chilled-Peka-Potato Wedges + Rosemary-2 KG,Kg
+2025-03-20,545,136,136,190.0,0.57,1.0,Food In,Chilled-Nomadic-Smooth Caramel + Granola-190 G,g
+2025-03-20,545,759,759,500.0,2.5,1.0,Food In,Chilled-Kerrigans-Sliced-White-Mushrooms-500g,g
+2025-03-20,545,571,571,75.0,0.9,2.0,Food In,Chilled-McCormack-Mixed Leaf Salad-75 G,g
+2025-03-20,545,117,117,135.0,1.485,1.0,Food In,Chilled-Killowen-Raspberry Yogurt-135 G,g
+2025-03-20,545,117,117,169.0,0.845,1.0,Food In,Chilled - Nomadic - Yogurt & Oat Clusters - 169g,g
+2025-03-20,545,574,574,1.0,11.0,11.0,Food In,Chilled-Musgraves - Iceberg Lettuce (Shredded)-1 kg ,Default
+2025-03-20,545,572,572,1.0,4.0,4.0,Food In,CHILLED-NO NAME-CRUNCHY COLESLAW-1 KG,Kg
+2025-03-20,545,136,136,169.0,1.014,1.0,Food In,Chilled-Nomadic-Choc Orange Oat Yogurt-169 G,g
+2025-03-20,545,136,136,169.0,0.507,1.0,Food In,Chilled-Nomadic-Choc Orange Oat Yogurt-169 G,g
+2025-03-20,214,117,117,125.0,0.75,1.0,Food In,Chilled - Tesco - Mixed Seeds Yogurts - 125g,g
+2025-03-20,214,117,117,400.0,7.2,3.0,Food In,Chilled - Irish Yogurts - 2 Pack Blueberry and Vanilla High Protein Yogurt - 2 x 200g,g
+2025-03-20,214,137,137,200.0,2.4,1.0,Food In,Chilled - Irish Yogurts - HIgh Protein Mango & Passionfruit Live Yogurt - 200g,g
+2025-03-20,214,117,117,450.0,3.6,1.0,Food In,Chilled - Duneen - Strawberry Yogurt - 450g,g
+2025-03-20,214,117,117,150.0,3.6,2.0,Food In,Chilled - Centra - Raspberry Yogurt - 150g,g
+2025-03-20,214,117,117,600.0,4.8,2.0,Food In,Chilled - Tesco - Strawberry Yogurt Drinks  - 6x100g,g
+2025-03-21,1619,797,797,20.0,1000.0,50.0,Food In,Ambient - Iverks - Potato - 20kg,Kg
+2025-03-21,39,761,761,400.0,16.8,7.0,Food In,chilled-supervalu-mashed potato-400 g,g
+2025-03-21,39,503,503,450.0,2.7,1.0,Food In,Chilled-Supervalu-Chilli Beef + Basmati Rice-450 G,g
+2025-03-21,39,503,503,450.0,5.85,1.0,Food In,Chilled-Supervalu-Chilli Beef + Basmati Rice-450 G,g
+2025-03-21,39,744,744,375.0,0.75,1.0,Food In,Chilled-Supervalu-Green Cabbage-375 G,g
+2025-03-21,39,521,521,450.0,0.45,1.0,Food In,Chilled-Centra-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-21,39,521,521,450.0,3.15,1.0,Food In,Chilled-Centra-Mild Chicken Curry + Basmati Rice-450 G,g
+2025-03-21,39,761,761,500.0,9.0,3.0,Food In,Chilled-Supervalu-Roasted Baby Potatoes-500 G,g
+2025-03-28,8150,60,60,97.0,1.552,2.0,Food In,Ambient - Nestle - Munchies Cookie Dough - 97g,g
+2025-03-28,8150,60,60,64.0,6.144,4.0,Food In,Ambient - Nestle - kit Kat Chunky Duo - 64g,g
+2025-03-28,8150,60,60,41.0,3.936,4.0,Food In,Ambient-Nestle-kit-kat-white-41g,g
+2025-03-28,8150,60,60,124.0,12.4,5.0,Food In,Ambient-nestle-3 pack-bars-124g,g
+2025-03-28,8150,60,60,160.0,10.24,2.0,Food In,Ambient-Kit-Kat-Chunky-4pk-160g,g
+2025-03-28,8150,60,60,186.3,9.315,2.0,Food In,Ambient-Nestle-Kit Kat White Chocolate(9 bars)-186.3g,g
+2025-03-28,8150,60,60,42.0,3.024,3.0,Food In,Ambient - Nestle - Kita Kat Chunky Peanut Butter Bar- 42g,g
+2025-03-28,7983,634,634,0.057,76.608,56.0,Food In,ESF - Odlum's - Instant Porridge Pots - 57g,Kg
+2025-03-28,7983,641,641,0.232,222.72,80.0,Food In,ESF - Lyons - Tea Bags - 80 bags,Kg
+2025-03-28,7983,633,633,0.45,216.0,40.0,Food In,ESF - Kellogg's - Cornflakes - 450g,Kg
+2025-03-28,7983,651,651,0.528,1140.48,180.0,Food In,ESF - Knorr - Oxtail Instant Soup - 12 pack,Kg
+2025-03-28,7983,635,635,0.43,120.4,20.0,Food In,ESF - Kellogg's - Rice Krispies - 430g,Kg
+2025-03-28,7983,639,639,0.5,588.0,196.0,Food In,ESF - Ragu - Original Smooth Bolognese Sauce - 500g,Default
+2025-03-28,7983,651,651,0.049,103.488,176.0,Food In,ESF - Erin - Hot Cup Chicken - 4 pack ,Kg
+2025-03-28,7983,636,636,0.43,172.0,40.0,Food In,ESF - Weetabix - Family Pack - 430g,Kg
+2025-03-10,391,95,95,150.0,9.0,10.0,Food In,Chilled-Boursin-Plant Based Garlic & Herb Cheese-150 G,g
+2025-03-11,293,178,178,1.75,42.0,4.0,Food In,Ambient-Fanta- Orange-1.75ltr,Kg
+2025-03-19,168,232,232,15.0,360.0,24.0,Food In,Ambient - Fyffes - Organic Bananas - 15kg,Kg
+2025-03-19,29,530,530,1.0,9.0,9.0,Food In,Chilled-Dunnes-Lasagne-1 KG,Kg
+2025-03-21,39,530,530,400.0,25.6,16.0,Food In,chilled-supervalu-spaghetti bolognese-400 g,g
+2025-03-28,4274,620,620,130.0,28.6,11.0,Food In,Ambient-Lorenz-Crunchips-Paprika Flavour Snacks-130g,g
+2025-03-28,39,538,538,400.0,22.4,14.0,Food In,Chilled-Happy Pear-Mushroom & Spinach Penne-400 G,g
+2025-03-03,39,503,503,2.5,25.0,10.0,Food In,chilled-ftg-beef stroganoff-2.5 kg,Kg
+2025-03-03,545,758,758,2.5,10.0,4.0,Food In,Chilled-Doyles VP-Stir Fry Mix Veg-2.5 KG,Kg
+2025-03-04,6696,297,297,200.0,28.8,24.0,Food In,Ambient-O'Hanlon Herbs-Parsley Pots-200g,g
+2025-03-04,4274,71,71,500.0,48.0,8.0,Food In,Ambient - Tesco - Bolognese Sauce - 500g,g
+2025-03-05,7983,652,652,0.4,912.0,95.0,Food In,ESF - Heinz - Vegetable Soup - 400g,Kg
+2025-03-05,309,116,116,1.0,80.0,4.0,Food In,Chilled-SuperValu - Protein -Milk 1L,Kg
+2025-03-06,562,616,616,130.0,4.68,3.0,Food In,Ambient-Walkers-Max Flamin Hot Crisps-130g,g
+2025-03-07,378,407,407,500.0,3.0,1.0,Food In,Chilled - Fit Foods - 4 HighProtein Beef Burgers - 500g,g
+2025-03-10,57,74,74,350.0,638.4,152.0,Food In,Ambient-Inspire by Centra-Butter Chicken Mild Curry Sauce (HDI)-350g,g
+2025-03-12,269,60,60,358.0,257.76,60.0,Food In,Ambient - Mars - Fun Size Family Favourites - 358g,g
+2025-03-12,4274,615,615,300.0,28.8,4.0,Food In,Ambient - Tesco - Cream Crackers (HDI) - 300g,g
+2025-03-13,343,591,591,170.0,44.88,33.0,Food In,Ambient-blanco nino-smokey chipotle tortilla chips-170g,g
+2025-03-13,7086,581,581,370.0,15.54,3.0,Food In,Ambient - Fitzgeralds - 6 Multiseed Wraps 370g,g
+2025-03-14,312,138,138,500.0,200.0,40.0,Food In,Chilled-Dunnes-Mango Yogurt Drink-500 ML,g
+2025-03-18,392,70,70,200.0,36.0,15.0,Food In,Ambient-Dunnes Stores-Marshmellows-200g,g
+2025-03-18,378,111,111,250.0,32.5,13.0,Food In,Chilled - Tesco - Beechwood Smoked Cheese Slices - 250g,g
+2025-03-19,101,797,797,8.0,256.0,32.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-20,545,760,760,2.0,6.0,3.0,Food In,Chilled-DVP-Red Onion Peeled-2KG,Kg
+2025-03-20,214,117,117,500.0,30.0,5.0,Food In,Chilled - Duneen - Natural Low Fat Irish Yogurt - 500g,g
+2025-03-20,29,521,521,500.0,18.0,36.0,Food In,Chilled-Inspired-Chip Shop Chicken Curry + Basmati Rice-500 G,g
+2025-03-20,2385,497,497,450.0,469.8,58.0,Food In,Frozen-WheyHey-Singapore Noodles ( Chicken & Veg)-450g,g
+2025-03-21,1619,778,778,20.0,200.0,10.0,Food In,Ambient - Iverks - Carrots - 20kg,Kg
+2025-03-24,2385,495,495,290.0,407.16,117.0,Food In,Frozen-WheyHey-BBQ Chicken & Bacon Pizza-290g,g
+2025-03-28,8150,60,60,20.7,1.035,2.0,Food In,Ambient-Nestle-KitKat 2 Finger Origional 9-20.7g,g
+2025-03-28,7983,649,649,0.25,468.0,312.0,Food In,ESF - Tilda - Golden Vegetable Pre-Cooked Rice - 250g,Default
+2025-03-25,410,569,569,1.0,6.0,1.0,Food In,AMBIENT-CUCINA-PENNE-PASTA-1KG,Kg
+2025-03-06,312,149,149,200.0,92.0,46.0,Food In,Ambient - Mr. Kipling - 6 Viennese Whirls - 200g,g
+2025-03-06,312,149,149,220.0,5.28,2.0,Food In,Ambient- Mr Kipling- 6 Lemon Layered Slices- 220g,g
+2025-03-06,253,616,616,125.0,78.0,52.0,Food In,Ambient-O'Donnells-Mature Cheese & Onion-125g,g
+2025-03-14,208,794,794,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 1kg,Kg
+2025-03-14,208,778,778,20.0,1000.0,50.0,Food In,Ambient - Hughes Farming - GPP Carrots - 20kg,Kg
+2025-03-14,208,794,794,20.0,340.0,17.0,Food In,Ambient - Hughes Farming - GPP Parsnips - 20kg,Kg
+2025-03-18,296,467,467,10.0,690.0,69.0,Food In,Ambient-Odlums-Barm Brack Mix-10kg,Kg
+2025-03-21,8150,157,157,140.0,3.36,3.0,Food In,Chilled - Nestle Lindahls - Chocolate Brownie Flavour Pudding - 140g,g
+2025-03-25,410,44,44,1.0,2.0,1.0,Food In,Ambient - Kelloggs - Cornflakes  ( HDI ) - 1KG,Default
+2025-03-25,410,52,52,375.0,6.0,4.0,Food In,Ambient - Harvest Morn - Crisp Rice Cereal - 375g,g
+2025-03-25,410,44,44,500.0,8.0,4.0,Food In,Ambient - Harvest Morn - Corn Flakes - 500g,g
+2025-03-25,410,51,51,1.0,6.0,2.0,Food In,Ambient-Kavanaghs-Organic Porridge oats-1kg,Kg
+2025-03-25,410,334,334,250.0,1.0,1.0,Food In,Ambient-Mcgraths-Master Blend Tea-Bags-80's-250g,g
+2025-03-25,410,334,334,250.0,5.0,5.0,Food In,Ambient-McGraths-80 Gold Blend Tea Bags-250g,g
+2025-03-25,410,334,334,116.0,0.232,1.0,Food In,Ambient-lyons-assorted-tea-bags-116g-crate,g
+2025-03-25,410,51,51,1.0,8.0,2.0,Food In,Ambient - Everyday Essentials - Porridge Oats - 1Kg,Kg
+2025-03-25,410,334,334,500.0,7.0,7.0,Food In,Ambient-Mcgraths--Tea-Bags-160-500g,g
+2025-03-03,7252,412,412,460.0,24.84,3.0,Food In,Chilled - ABP - Beef Mince - 460g,g
+2025-03-04,312,97,97,200.0,158.0,79.0,Food In,Chilled-Tesco-Salad Cheese-200 G,g
+2025-03-03,392,40,40,50.0,33.6,42.0,Food In,Ambient-trek-protein flapjack peanut butter-50g,g
+2025-03-05,101,797,797,8.0,800.0,100.0,Food In,Ambient-Country Crest - Potatoes Roosters Bagged  -8Kg,Kg
+2025-03-06,312,149,149,250.0,36.0,12.0,Food In,Ambient-Mr-kipling-angel-slices-250g,g
+2025-03-06,253,616,616,125.0,189.0,126.0,Food In,Ambient-O-Donnells-Irish-Cider-Vingar-Sea-Salt-125g,g
+2025-03-12,101,797,797,5.0,750.0,150.0,Food In,Ambient-Tesco- Irish Rooster Potatoes-5kg,Kg
+2025-03-13,315,372,372,120.0,5.76,4.0,Food In,Chilled-Tesco-Carved-Chicken-Breast-120g,g
+2025-03-13,269,40,40,157.6,457.6704,66.0,Food In,Ambient-Mars-Mars & Snickers 4 pack Bars-157.6g,g
+2025-03-14,326,407,407,680.0,4.08,6.0,Food In,Chilled-Sysco-Beef Burgers-680 G,g
+2025-03-14,208,778,778,1.0,40.0,40.0,Food In,Ambient - Hughes Farming - GPP Carrots - 1kg,Kg
+2025-03-18,296,698,698,400.0,57.6,6.0,Food In,Ambient-Biona Organic-Black Beans in Water-400g,g
+2025-03-19,8082,616,616,150.0,33.0,11.0,Food In,Ambient-Deluxe-Mature Cheddar & Red Onion Crisps(6x25g)-150g,g
+2025-03-19,4274,51,51,500.0,18.0,3.0,Food In,Ambient - Tesco - Porridge Oats Drum (HDI) - 500g,g
+2025-03-20,8149,616,616,102.0,20.808,17.0,Food In,Ambient-Tayto-Snax-102g,g
+2025-03-20,8150,60,60,36.0,178.848,207.0,Food In,AMBIENT-NESTLE-AERO CHOCOLATE BAR-36G,g
+2025-03-21,8150,136,136,240.0,207.36,108.0,Food In,Chilled-Nestle-Ski Mousse Strawberry- 4 X 60g,g
+2025-03-21,57,71,71,350.0,130.2,31.0,Food In,Ambient-Deluxe-Tomato&chilli pasta sauce-350g,g
+2025-03-25,410,43,43,360.0,5.76,4.0,Food In,Ambient - Weetabix - Chocolatey Hazelnut Melts - 360g,g
+2025-03-25,410,334,334,250.0,1.0,1.0,Food In,Ambient - Diplomat - Gold Label Tea Bags 80 - 250g,g
+2025-03-25,545,180,180,330.0,2.31,1.0,Food In,Chilled - Innocent - Raspberry Juice - 330ml,g
+2025-03-25,545,530,530,2.5,2.5,1.0,Food In,Chilled-From The Farm-Beef Lasagne-2.5 KG,Kg
+2025-03-27,39,530,530,400.0,0.8,1.0,Food In,CHILLED-CENTRA-SPAGHETTI BOLOGNESE-400 G,g
+2025-03-27,39,530,530,450.0,0.45,1.0,Food In,Chilled-Centra-Slow Cooked Beef Ragu + Pappardelle Pasta-450 G,g
+2025-04-01,545,207,207,200.0,1.2,1.0,Food In,chilled-dunn's-smoked salmon-200 g,g
+2025-03-25,545,185,185,2.0,2.0,1.0,Food In,Chilled-Walshes-Apple Juice-2 L,Kg
+2025-03-25,545,117,117,150.0,1.5,1.0,Food In,Chilled -Glenisk -Mango-vanilla -yogurt-150g,g
+2025-03-25,545,341,341,5.0,5.0,1.0,Food In,Chilled-Poultry Trade-Diced Chicken Brest-5 KG,Kg
+2025-03-25,545,786,786,100.0,2.0,1.0,Food In,CHILLED-SEASONAL FARE-GARLIC-100 G,g
+2025-03-25,545,188,188,330.0,2.31,1.0,Food In,Chilled - Innocent - Oringe with bits - 330ml,g
+2025-03-25,545,262,262,2.0,26.0,13.0,Food In,Chilled-Musgraves-Classic Fruit Cocktail-2 KG,Kg
+2025-03-25,545,675,675,5.0,25.0,5.0,Food In,Chilled-Newgrange-Spiced Pumpkin Chicken & Coconut Soup-5 Kg,Kg
+2025-03-25,545,258,258,500.0,7.5,3.0,Food In,Chilled-Kennedys-Green Grapes-500 G,g
+2025-03-25,545,183,183,2.0,2.0,1.0,Food In,Chilled-Strawberry -Smoothie -2L,Default
+2025-03-25,545,110,110,454.0,0.454,1.0,Food In,CHILLED - AVONMORE - BUTTER - 454G,g
+2025-03-25,545,182,182,300.0,1.8,1.0,Food In,Chilled-GetPro-Vanilla Cookie Flavour Drink-300 G,g
+2025-03-25,545,574,574,140.0,5.04,6.0,Food In,chilled-happy pear-organic bean mix-140 g,g
+2025-03-25,545,415,415,4.85,4.85,1.0,Food In,Chilled-Bradleys-Bacon Loin-4.85 KG,Kg
+2025-03-25,545,182,182,2.0,72.0,36.0,Food In,Chilled-Sisu-Daily Greens drink-2 L,Kg
+2025-03-25,545,570,570,500.0,1.5,1.0,Food In,Chilled-Willowbrook-Romaine Cos Lettuce-500 G,g
+2025-03-26,309,116,116,1.0,60.0,60.0,Food In,Chilled - CENTRA - Milk - 1L,Kg
+2025-03-26,309,116,116,1.0,120.0,12.0,Food In,Chilled - Lullaby - Milk - 1 Litre,Kg
+2025-03-27,39,523,523,1.0,27.0,27.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-27,39,523,523,1.0,1.0,1.0,Food In,chilled-centra-chicken & tomato pasta bake-1.2 kg,Kg
+2025-03-27,39,523,523,400.0,0.8,1.0,Food In,CHILLED-CENTRA-CHICKEN ARRABIATA-400 G,g
+2025-03-27,39,497,497,400.0,0.4,1.0,Food In,chilled- clean cut-spaghetti bolognese with beef-400g,g
+2025-03-27,39,516,516,400.0,1.2,1.0,Food In,chilled-supervalu-spaghetti carbonara-400 g,g
+2025-03-27,39,387,387,1.2,18.0,15.0,Food In,CHILLED-CENTRA-COTTAGE PIE-1.2 KG,Kg
+2025-03-27,39,502,502,400.0,1.6,1.0,Food In,Chilled-Clean Cut-Chicken Spice Box With Sweet Potato-400 G,g
+2025-04-01,545,117,117,150.0,0.9,1.0,Food In,Chilled-Fage-Raspberry + Pomegranate Yoghurt-150 G,g
+2025-04-01,545,185,185,2.0,6.0,3.0,Food In,Chilled-Walshes-Apple Juice-2 L,Kg
+2025-04-01,545,572,572,1.0,3.0,3.0,Food In,CHILLED-WONDERFOODS-BROCCOLI-CARROT & CRANBERRY SALAD-1 KG,Kg
+2025-04-01,545,377,377,80.0,1.52,1.0,Food In,CHILLED-CLASSIC CHARCUTERIE-PEPPER SALAMI-80 G,g
+2025-04-01,545,351,351,100.0,1.0,1.0,Food In,Chilled-Carrolls-Roast Chicken Pieces-100 G,g
+2025-04-01,545,110,110,454.0,1.362,1.0,Food In,CHILLED - AVONMORE - BUTTER - 454G,g
+2025-04-01,545,574,574,2.0,2.0,1.0,Food In,chilled-donnelly-traditional coleslaw-2 kg,Kg
+2025-04-01,545,574,574,2.0,8.0,4.0,Food In,chilled-donnelly-traditional coleslaw-2 kg,Kg
+2025-04-01,545,117,117,125.0,2.875,1.0,Food In,chilled-hayes-mixed yoghurts-125 g,g
+2025-04-01,545,681,681,280.0,1.4,1.0,Food In,CHILLED - CULLY & SULLY - VEG SOUP 280G,g
+2025-04-01,545,677,677,2.0,2.0,1.0,Food In,CHILLED-NEWGRANGE-SPICED BUTTERNUT SQUASH SOUP-2 KG,Kg
+2025-04-01,545,516,516,400.0,0.8,1.0,Food In,CHILLED-CARROLS-TAGLIATELLE CARBONARA-400 G,g
+2025-04-01,545,761,761,1.6,3.2,2.0,Food In,Chilled-Doyles VP-Potato Fondant Large-1.6 KG,Kg
+2025-04-01,545,570,570,500.0,0.5,1.0,Food In,Chilled-Willowbrook-Romaine Cos Lettuce-500 G,g
+2025-04-01,545,502,502,290.0,1.74,1.0,Food In,Chilled-Circle k-Chicken Burrito Salad Pot-290 G,g
+2025-04-01,296,551,551,90.0,19.44,18.0,Food In,Ambient-Pot Noodle-Bombay Bad Boy Flavour-90g,g
+2025-04-01,296,681,681,390.0,2.34,1.0,Food In,Ambient - Knorr - Rich & Hearty  Spicy Tomato Soup Pouch - 390g,g
+2025-03-28,4274,170,170,450.0,492.75,73.0,Food In,Ambient-Deep River Rock-Vital Vitamin Water & Juice Drink-450ml,g
+2025-03-28,6741,18,18,600.0,225.0,75.0,Food In,Ambient-Brennans-BeGood-Wholemeal Bread-600g,g
+2025-04-01,296,180,180,500.0,24.0,4.0,Food In,Ambient-Optimum Nutrition-High Protein Skake Chocolate Flavour-500ml,g
+2025-03-25,545,340,340,7.0,7.0,1.0,Food In,CHILLED-MUSGRAVES-CHICKEN THIGH MEAT-7 KG,Kg
+2025-03-26,8084,188,188,1.5,72.0,8.0,Food In,Chilled-Tropicana-Orange Juice + Bits-1.5 L,Kg
+2025-03-26,309,116,116,1.0,200.0,200.0,Food In,Chilled-SuperValu - Protein -Milk 1L,Kg
+2025-03-27,39,521,521,400.0,18.0,1.0,Food In,Chilled-Clean Cut-Chicken Curry + Long Grain Rice-400 G,g
+2025-03-27,1520,797,797,5.0,1000.0,200.0,Food In,Ambient - Pynes Potatoes - GPP - White Potatoes - 5kg,Kg
+2025-04-01,545,370,370,5.0,10.0,2.0,Food In,Chilled-Chicken-Thigh-Skin-Fresh-5kg,Kg
+2025-04-01,7441,270,270,200.0,28.8,24.0,Food In,Ambient-O'Hanlon - Basil (plant pots) - 200g,g
